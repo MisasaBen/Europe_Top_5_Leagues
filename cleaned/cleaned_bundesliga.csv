@@ -1,0 +1,307 @@
+date,matchday,home_team,away_team,home_score_full_time,away_score_full_time,home_score_half_time,away_score_half_time,goal_diff,winner,defeat,ref
+2023-08-18T18:30:00Z,1,bremen,bayern,0,4,0,1,4,bayern,bremen,felix zwayer
+2023-08-19T13:30:00Z,1,leverkusen,rb leipzig,3,2,2,1,1,leverkusen,rb leipzig,felix brych
+2023-08-19T13:30:00Z,1,wolfsburg,heidenheim,2,0,2,0,2,wolfsburg,heidenheim,florian badstübner
+2023-08-19T13:30:00Z,1,hoffenheim,freiburg,1,2,0,2,1,freiburg,hoffenheim,sven jablonski
+2023-08-19T13:30:00Z,1,augsburg,m'gladbach,4,4,3,3,0,draw,draw,daniel schlager
+2023-08-19T13:30:00Z,1,stuttgart,bochum,5,0,2,0,5,stuttgart,bochum,daniel siebert
+2023-08-19T16:30:00Z,1,dortmund,1. fc köln,1,0,0,0,1,dortmund,1. fc köln,deniz aytekin
+2023-08-20T13:30:00Z,1,union berlin,mainz,4,1,2,0,3,union berlin,mainz,tobias stieler
+2023-08-20T15:30:00Z,1,frankfurt,darmstadt,1,0,1,0,1,frankfurt,darmstadt,harm osmers
+2023-08-25T18:30:00Z,2,rb leipzig,stuttgart,5,1,0,1,4,rb leipzig,stuttgart,frank willenborg
+2023-08-26T13:30:00Z,2,freiburg,bremen,1,0,0,0,1,freiburg,bremen,benjamin brand
+2023-08-26T13:30:00Z,2,1. fc köln,wolfsburg,1,2,0,0,1,wolfsburg,1. fc köln,matthias jöllenbeck
+2023-08-26T13:30:00Z,2,bochum,dortmund,1,1,1,0,0,draw,draw,robert schröder
+2023-08-26T13:30:00Z,2,heidenheim,hoffenheim,2,3,1,0,1,hoffenheim,heidenheim,robert hartmann
+2023-08-26T13:30:00Z,2,darmstadt,union berlin,1,4,1,3,3,union berlin,darmstadt,patrick ittrich
+2023-08-26T16:30:00Z,2,m'gladbach,leverkusen,0,3,0,2,3,leverkusen,m'gladbach,christian dingert
+2023-08-27T13:30:00Z,2,mainz,frankfurt,1,1,1,0,0,draw,draw,bastian dankert
+2023-08-27T15:30:00Z,2,bayern,augsburg,3,1,2,0,2,bayern,augsburg,daniel siebert
+2023-09-01T18:30:00Z,3,dortmund,heidenheim,2,2,2,0,0,draw,draw,tobias reichel
+2023-09-02T13:30:00Z,3,leverkusen,darmstadt,5,1,1,1,4,leverkusen,darmstadt,sven jablonski
+2023-09-02T13:30:00Z,3,hoffenheim,wolfsburg,3,1,1,1,2,hoffenheim,wolfsburg,felix zwayer
+2023-09-02T13:30:00Z,3,bremen,mainz,4,0,1,0,4,bremen,mainz,robert schröder
+2023-09-02T13:30:00Z,3,augsburg,bochum,2,2,1,1,0,draw,draw,martin petersen
+2023-09-02T13:30:00Z,3,stuttgart,freiburg,5,0,3,0,5,stuttgart,freiburg,felix brych
+2023-09-02T16:30:00Z,3,m'gladbach,bayern,1,2,1,0,1,bayern,m'gladbach,deniz aytekin
+2023-09-03T13:30:00Z,3,frankfurt,1. fc köln,1,1,0,1,0,draw,draw,florian badstübner
+2023-09-03T15:30:00Z,3,union berlin,rb leipzig,0,3,0,0,3,rb leipzig,union berlin,daniel schlager
+2023-09-15T18:30:00Z,4,bayern,leverkusen,2,2,1,1,0,draw,draw,daniel schlager
+2023-09-16T13:30:00Z,4,rb leipzig,augsburg,3,0,3,0,3,rb leipzig,augsburg,sascha stegemann
+2023-09-16T13:30:00Z,4,freiburg,dortmund,2,4,2,1,2,dortmund,freiburg,tobias stieler
+2023-09-16T13:30:00Z,4,wolfsburg,union berlin,2,1,2,1,1,wolfsburg,union berlin,felix brych
+2023-09-16T13:30:00Z,4,mainz,stuttgart,1,3,0,0,2,stuttgart,mainz,harm osmers
+2023-09-16T13:30:00Z,4,1. fc köln,hoffenheim,1,3,0,2,2,hoffenheim,1. fc köln,daniel siebert
+2023-09-16T16:30:00Z,4,bochum,frankfurt,1,1,0,0,0,draw,draw,benjamin brand
+2023-09-17T13:30:00Z,4,heidenheim,bremen,4,2,2,0,2,heidenheim,bremen,patrick ittrich
+2023-09-17T15:30:00Z,4,darmstadt,m'gladbach,3,3,3,0,0,draw,draw,timo gerach
+2023-09-22T18:30:00Z,5,stuttgart,darmstadt,3,1,2,1,2,stuttgart,darmstadt,matthias jöllenbeck
+2023-09-23T13:30:00Z,5,bayern,bochum,7,0,4,0,7,bayern,bochum,robert hartmann
+2023-09-23T13:30:00Z,5,dortmund,wolfsburg,1,0,0,0,1,dortmund,wolfsburg,sven jablonski
+2023-09-23T13:30:00Z,5,union berlin,hoffenheim,0,2,0,2,2,hoffenheim,union berlin,deniz aytekin
+2023-09-23T13:30:00Z,5,m'gladbach,rb leipzig,0,1,0,0,1,rb leipzig,m'gladbach,robert schröder
+2023-09-23T13:30:00Z,5,augsburg,mainz,2,1,2,1,1,augsburg,mainz,marco fritz
+2023-09-23T16:30:00Z,5,bremen,1. fc köln,2,1,1,1,1,bremen,1. fc köln,bastian dankert
+2023-09-24T13:30:00Z,5,leverkusen,heidenheim,4,1,1,0,3,leverkusen,heidenheim,christian dingert
+2023-09-24T15:30:00Z,5,frankfurt,freiburg,0,0,0,0,0,draw,draw,felix zwayer
+2023-09-29T18:30:00Z,6,hoffenheim,dortmund,1,3,1,2,2,dortmund,hoffenheim,florian badstübner
+2023-09-30T13:30:00Z,6,wolfsburg,frankfurt,2,0,1,0,2,wolfsburg,frankfurt,frank willenborg
+2023-09-30T13:30:00Z,6,mainz,leverkusen,0,3,0,1,3,leverkusen,mainz,benjamin brand
+2023-09-30T13:30:00Z,6,1. fc köln,stuttgart,0,2,0,0,2,stuttgart,1. fc köln,tobias stieler
+2023-09-30T13:30:00Z,6,bochum,m'gladbach,1,3,0,3,2,m'gladbach,bochum,felix brych
+2023-09-30T13:30:00Z,6,heidenheim,union berlin,1,0,0,0,1,heidenheim,union berlin,sascha stegemann
+2023-09-30T16:30:00Z,6,rb leipzig,bayern,2,2,2,0,0,draw,draw,marco fritz
+2023-10-01T13:30:00Z,6,darmstadt,bremen,4,2,2,0,2,darmstadt,bremen,martin petersen
+2023-10-01T15:30:00Z,6,freiburg,augsburg,2,0,1,0,2,freiburg,augsburg,harm osmers
+2023-10-06T18:30:00Z,7,m'gladbach,mainz,2,2,1,1,0,draw,draw,sven jablonski
+2023-10-07T13:30:00Z,7,dortmund,union berlin,4,2,1,2,2,dortmund,union berlin,patrick ittrich
+2023-10-07T13:30:00Z,7,rb leipzig,bochum,0,0,0,0,0,draw,draw,timo gerach
+2023-10-07T13:30:00Z,7,augsburg,darmstadt,1,2,0,0,1,darmstadt,augsburg,deniz aytekin
+2023-10-07T13:30:00Z,7,stuttgart,wolfsburg,3,1,0,1,2,stuttgart,wolfsburg,daniel siebert
+2023-10-07T16:30:00Z,7,bremen,hoffenheim,2,3,1,2,1,hoffenheim,bremen,christian dingert
+2023-10-08T13:30:00Z,7,leverkusen,1. fc köln,3,0,2,0,3,leverkusen,1. fc köln,felix zwayer
+2023-10-08T15:30:00Z,7,bayern,freiburg,3,0,2,0,3,bayern,freiburg,robert schröder
+2023-10-08T17:30:00Z,7,frankfurt,heidenheim,2,0,1,0,2,frankfurt,heidenheim,daniel schlager
+2023-10-20T18:30:00Z,8,dortmund,bremen,1,0,0,0,1,dortmund,bremen,felix brych
+2023-10-21T13:30:00Z,8,hoffenheim,frankfurt,1,3,1,3,2,frankfurt,hoffenheim,matthias jöllenbeck
+2023-10-21T13:30:00Z,8,darmstadt,rb leipzig,1,3,1,2,2,rb leipzig,darmstadt,harm osmers
+2023-10-21T13:30:00Z,8,union berlin,stuttgart,0,3,0,1,3,stuttgart,union berlin,bastian dankert
+2023-10-21T13:30:00Z,8,freiburg,bochum,2,1,2,1,1,freiburg,bochum,tobias reichel
+2023-10-21T13:30:00Z,8,wolfsburg,leverkusen,1,2,1,1,1,leverkusen,wolfsburg,marco fritz
+2023-10-21T16:30:00Z,8,mainz,bayern,1,3,1,2,2,bayern,mainz,sascha stegemann
+2023-10-22T13:30:00Z,8,1. fc köln,m'gladbach,3,1,1,0,2,1. fc köln,m'gladbach,deniz aytekin
+2023-10-22T15:30:00Z,8,heidenheim,augsburg,2,5,2,3,3,augsburg,heidenheim,tobias stieler
+2023-10-27T18:30:00Z,9,bochum,mainz,2,2,1,0,0,draw,draw,patrick ittrich
+2023-10-28T13:30:00Z,9,bayern,darmstadt,8,0,0,0,8,bayern,darmstadt,martin petersen
+2023-10-28T13:30:00Z,9,m'gladbach,heidenheim,2,1,1,1,1,m'gladbach,heidenheim,robert hartmann
+2023-10-28T13:30:00Z,9,bremen,union berlin,2,0,1,0,2,bremen,union berlin,tobias stieler
+2023-10-28T13:30:00Z,9,augsburg,wolfsburg,3,2,1,2,1,augsburg,wolfsburg,daniel schlager
+2023-10-28T13:30:00Z,9,stuttgart,hoffenheim,2,3,0,2,1,hoffenheim,stuttgart,felix zwayer
+2023-10-28T16:30:00Z,9,rb leipzig,1. fc köln,6,0,4,0,6,rb leipzig,1. fc köln,benjamin brand
+2023-10-29T14:30:00Z,9,frankfurt,dortmund,3,3,2,1,0,draw,draw,robert schröder
+2023-10-29T16:30:00Z,9,leverkusen,freiburg,2,1,1,0,1,leverkusen,freiburg,daniel siebert
+2023-11-03T19:30:00Z,10,darmstadt,bochum,1,2,1,1,1,bochum,darmstadt,marco fritz
+2023-11-04T14:30:00Z,10,union berlin,frankfurt,0,3,0,2,3,frankfurt,union berlin,sven jablonski
+2023-11-04T14:30:00Z,10,freiburg,m'gladbach,3,3,1,3,0,draw,draw,felix brych
+2023-11-04T14:30:00Z,10,mainz,rb leipzig,2,0,0,0,2,mainz,rb leipzig,bastian dankert
+2023-11-04T14:30:00Z,10,1. fc köln,augsburg,1,1,1,1,0,draw,draw,christian dingert
+2023-11-04T14:30:00Z,10,hoffenheim,leverkusen,2,3,0,2,1,leverkusen,hoffenheim,frank willenborg
+2023-11-04T17:30:00Z,10,dortmund,bayern,0,4,0,2,4,bayern,dortmund,deniz aytekin
+2023-11-05T14:30:00Z,10,wolfsburg,bremen,2,2,1,1,0,draw,draw,unknown
+2023-11-05T16:30:00Z,10,heidenheim,stuttgart,2,0,0,0,2,heidenheim,stuttgart,unknown
+2023-11-10T19:30:00Z,11,m'gladbach,wolfsburg,4,0,2,0,4,m'gladbach,wolfsburg,felix zwayer
+2023-11-11T14:30:00Z,11,bayern,heidenheim,4,2,2,0,2,bayern,heidenheim,harm osmers
+2023-11-11T14:30:00Z,11,augsburg,hoffenheim,1,1,0,1,0,draw,draw,felix brych
+2023-11-11T14:30:00Z,11,stuttgart,dortmund,2,1,1,1,1,stuttgart,dortmund,tobias stieler
+2023-11-11T14:30:00Z,11,darmstadt,mainz,0,0,0,0,0,draw,draw,daniel siebert
+2023-11-11T17:30:00Z,11,bochum,1. fc köln,1,1,1,0,0,draw,draw,matthias jöllenbeck
+2023-11-12T14:30:00Z,11,leverkusen,union berlin,4,0,1,0,4,leverkusen,union berlin,timo gerach
+2023-11-12T16:30:00Z,11,bremen,frankfurt,2,2,1,0,0,draw,draw,benjamin brand
+2023-11-12T18:30:00Z,11,rb leipzig,freiburg,3,1,1,1,2,rb leipzig,freiburg,patrick ittrich
+2023-11-24T19:30:00Z,12,1. fc köln,bayern,0,1,0,1,1,bayern,1. fc köln,marco fritz
+2023-11-25T14:30:00Z,12,dortmund,m'gladbach,4,2,3,2,2,dortmund,m'gladbach,sven jablonski
+2023-11-25T14:30:00Z,12,union berlin,augsburg,1,1,0,1,0,draw,draw,florian badstübner
+2023-11-25T14:30:00Z,12,freiburg,darmstadt,1,1,1,1,0,draw,draw,sascha stegemann
+2023-11-25T14:30:00Z,12,wolfsburg,rb leipzig,2,1,1,0,1,wolfsburg,rb leipzig,robert hartmann
+2023-11-25T14:30:00Z,12,bremen,leverkusen,0,3,0,2,3,leverkusen,bremen,martin petersen
+2023-11-25T17:30:00Z,12,frankfurt,stuttgart,1,2,1,2,1,stuttgart,frankfurt,felix brych
+2023-11-26T14:30:00Z,12,heidenheim,bochum,0,0,0,0,0,draw,draw,felix zwayer
+2023-11-26T16:30:00Z,12,hoffenheim,mainz,1,1,0,1,0,draw,draw,deniz aytekin
+2023-12-01T19:30:00Z,13,darmstadt,1. fc köln,0,1,0,0,1,1. fc köln,darmstadt,patrick ittrich
+2023-12-02T14:30:00Z,13,rb leipzig,heidenheim,2,1,2,1,1,rb leipzig,heidenheim,christian dingert
+2023-12-02T14:30:00Z,13,m'gladbach,hoffenheim,2,1,0,0,1,m'gladbach,hoffenheim,tobias reichel
+2023-12-02T14:30:00Z,13,bochum,wolfsburg,3,1,2,1,2,bochum,wolfsburg,robert schröder
+2023-12-02T17:30:00Z,13,stuttgart,bremen,2,0,1,0,2,stuttgart,bremen,bastian dankert
+2023-12-03T14:30:00Z,13,mainz,freiburg,0,1,0,0,1,freiburg,mainz,tobias stieler
+2023-12-03T16:30:00Z,13,leverkusen,dortmund,1,1,0,1,0,draw,draw,daniel siebert
+2023-12-03T18:30:00Z,13,augsburg,frankfurt,2,1,1,0,1,augsburg,frankfurt,harm osmers
+2023-12-08T19:30:00Z,14,hoffenheim,bochum,3,1,2,0,2,hoffenheim,bochum,matthias jöllenbeck
+2023-12-09T14:30:00Z,14,union berlin,m'gladbach,3,1,1,0,2,union berlin,m'gladbach,martin petersen
+2023-12-09T14:30:00Z,14,frankfurt,bayern,5,1,3,1,4,frankfurt,bayern,felix zwayer
+2023-12-09T14:30:00Z,14,wolfsburg,freiburg,0,1,0,0,1,freiburg,wolfsburg,marco fritz
+2023-12-09T14:30:00Z,14,bremen,augsburg,2,0,1,0,2,bremen,augsburg,sascha stegemann
+2023-12-09T14:30:00Z,14,heidenheim,darmstadt,3,2,1,0,1,heidenheim,darmstadt,daniel schlager
+2023-12-09T17:30:00Z,14,dortmund,rb leipzig,2,3,1,1,1,rb leipzig,dortmund,sven jablonski
+2023-12-10T14:30:00Z,14,stuttgart,leverkusen,1,1,1,0,0,draw,draw,deniz aytekin
+2023-12-10T16:30:00Z,14,1. fc köln,mainz,0,0,0,0,0,draw,draw,frank willenborg
+2023-12-15T19:30:00Z,15,m'gladbach,bremen,2,2,1,1,0,draw,draw,felix zwayer
+2023-12-16T14:30:00Z,15,mainz,heidenheim,0,1,0,1,1,heidenheim,mainz,bastian dankert
+2023-12-16T14:30:00Z,15,bochum,union berlin,3,0,1,0,3,bochum,union berlin,sven jablonski
+2023-12-16T14:30:00Z,15,augsburg,dortmund,1,1,1,1,0,draw,draw,matthias jöllenbeck
+2023-12-16T14:30:00Z,15,darmstadt,wolfsburg,0,1,0,0,1,wolfsburg,darmstadt,robert hartmann
+2023-12-16T17:30:00Z,15,rb leipzig,hoffenheim,3,1,1,1,2,rb leipzig,hoffenheim,robert schröder
+2023-12-17T14:30:00Z,15,freiburg,1. fc köln,2,0,0,0,2,freiburg,1. fc köln,harm osmers
+2023-12-17T16:30:00Z,15,leverkusen,frankfurt,3,0,1,0,3,leverkusen,frankfurt,christian dingert
+2023-12-17T18:30:00Z,15,bayern,stuttgart,3,0,1,0,3,bayern,stuttgart,tobias stieler
+2023-12-19T17:30:00Z,16,bremen,rb leipzig,1,1,0,0,0,draw,draw,tobias reichel
+2023-12-19T19:30:00Z,16,dortmund,mainz,1,1,1,1,0,draw,draw,marco fritz
+2023-12-19T19:30:00Z,16,hoffenheim,darmstadt,3,3,2,1,0,draw,draw,frank willenborg
+2023-12-20T17:30:00Z,16,union berlin,1. fc köln,2,0,0,0,2,union berlin,1. fc köln,deniz aytekin
+2023-12-20T19:30:00Z,16,leverkusen,bochum,4,0,3,0,4,leverkusen,bochum,daniel schlager
+2023-12-20T19:30:00Z,16,frankfurt,m'gladbach,2,1,0,1,1,frankfurt,m'gladbach,florian badstübner
+2023-12-20T19:30:00Z,16,wolfsburg,bayern,1,2,1,2,1,bayern,wolfsburg,sascha stegemann
+2023-12-20T19:30:00Z,16,stuttgart,augsburg,3,0,2,0,3,stuttgart,augsburg,daniel siebert
+2023-12-20T19:30:00Z,16,heidenheim,freiburg,3,2,0,1,1,heidenheim,freiburg,benjamin brand
+2024-01-12T19:30:00Z,17,bayern,hoffenheim,3,0,1,0,3,bayern,hoffenheim,benjamin brand
+2024-01-13T14:30:00Z,17,rb leipzig,frankfurt,0,1,0,1,1,frankfurt,rb leipzig,frank willenborg
+2024-01-13T14:30:00Z,17,freiburg,union berlin,0,0,0,0,0,draw,draw,christian dingert
+2024-01-13T14:30:00Z,17,mainz,wolfsburg,1,1,0,1,0,draw,draw,patrick ittrich
+2024-01-13T14:30:00Z,17,1. fc köln,heidenheim,1,1,1,0,0,draw,draw,felix zwayer
+2024-01-13T14:30:00Z,17,augsburg,leverkusen,0,1,0,0,1,leverkusen,augsburg,sven jablonski
+2024-01-13T17:30:00Z,17,darmstadt,dortmund,0,3,0,1,3,dortmund,darmstadt,deniz aytekin
+2024-01-14T14:30:00Z,17,bochum,bremen,1,1,0,0,0,draw,draw,tobias stieler
+2024-01-14T16:30:00Z,17,m'gladbach,stuttgart,3,1,2,0,2,m'gladbach,stuttgart,harm osmers
+2024-01-20T14:30:00Z,18,1. fc köln,dortmund,0,4,0,1,4,dortmund,1. fc köln,daniel schlager
+2024-01-20T14:30:00Z,18,darmstadt,frankfurt,2,2,0,1,0,draw,draw,daniel siebert
+2024-01-20T14:30:00Z,18,heidenheim,wolfsburg,1,1,1,1,0,draw,draw,timo gerach
+2024-01-20T14:30:00Z,18,freiburg,hoffenheim,3,2,1,0,1,freiburg,hoffenheim,sascha stegemann
+2024-01-20T14:30:00Z,18,bochum,stuttgart,1,0,0,0,1,bochum,stuttgart,bastian dankert
+2024-01-20T17:30:00Z,18,rb leipzig,leverkusen,2,3,1,0,1,leverkusen,rb leipzig,matthias jöllenbeck
+2024-01-21T14:30:00Z,18,bayern,bremen,0,1,0,0,1,bremen,bayern,marco fritz
+2024-01-21T16:30:00Z,18,m'gladbach,augsburg,1,2,1,0,1,augsburg,m'gladbach,martin petersen
+2024-01-24T19:30:00Z,13,bayern,union berlin,1,0,0,0,1,bayern,union berlin,frank willenborg
+2024-01-26T19:30:00Z,19,frankfurt,mainz,1,0,0,0,1,frankfurt,mainz,felix zwayer
+2024-01-27T14:30:00Z,19,augsburg,bayern,2,3,0,2,1,bayern,augsburg,christian dingert
+2024-01-27T14:30:00Z,19,stuttgart,rb leipzig,5,2,2,1,3,stuttgart,rb leipzig,sven jablonski
+2024-01-27T14:30:00Z,19,bremen,freiburg,3,1,1,1,2,bremen,freiburg,robert hartmann
+2024-01-27T14:30:00Z,19,wolfsburg,1. fc köln,1,1,1,1,0,draw,draw,sören storks
+2024-01-27T14:30:00Z,19,hoffenheim,heidenheim,1,1,1,1,0,draw,draw,tobias welz
+2024-01-27T17:30:00Z,19,leverkusen,m'gladbach,0,0,0,0,0,draw,draw,deniz aytekin
+2024-01-28T14:30:00Z,19,union berlin,darmstadt,1,0,0,0,1,union berlin,darmstadt,harm osmers
+2024-01-28T16:30:00Z,19,dortmund,bochum,3,1,1,1,2,dortmund,bochum,benjamin brand
+2024-02-02T19:30:00Z,20,heidenheim,dortmund,0,0,0,0,0,draw,draw,bastian dankert
+2024-02-03T14:30:00Z,20,darmstadt,leverkusen,0,2,0,1,2,leverkusen,darmstadt,tobias reichel
+2024-02-03T14:30:00Z,20,bayern,m'gladbach,3,1,1,1,2,bayern,m'gladbach,tobias stieler
+2024-02-03T14:30:00Z,20,mainz,bremen,0,1,0,1,1,bremen,mainz,benjamin brand
+2024-02-03T14:30:00Z,20,bochum,augsburg,1,1,1,0,0,draw,draw,patrick ittrich
+2024-02-03T14:30:00Z,20,freiburg,stuttgart,1,3,1,2,2,stuttgart,freiburg,daniel siebert
+2024-02-03T17:30:00Z,20,1. fc köln,frankfurt,2,0,0,0,2,1. fc köln,frankfurt,timo gerach
+2024-02-04T14:30:00Z,20,wolfsburg,hoffenheim,2,2,0,1,0,draw,draw,florian badstübner
+2024-02-04T16:30:00Z,20,rb leipzig,union berlin,2,0,1,0,2,rb leipzig,union berlin,marco fritz
+2024-02-07T17:30:00Z,18,mainz,union berlin,1,1,1,1,0,draw,draw,martin petersen
+2024-02-09T19:30:00Z,21,dortmund,freiburg,3,0,2,0,3,dortmund,freiburg,harm osmers
+2024-02-10T14:30:00Z,21,augsburg,rb leipzig,2,2,1,1,0,draw,draw,benjamin brand
+2024-02-10T14:30:00Z,21,union berlin,wolfsburg,1,0,1,0,1,union berlin,wolfsburg,matthias jöllenbeck
+2024-02-10T14:30:00Z,21,frankfurt,bochum,1,1,1,1,0,draw,draw,sven jablonski
+2024-02-10T14:30:00Z,21,bremen,heidenheim,1,2,1,2,1,heidenheim,bremen,robert schröder
+2024-02-10T14:30:00Z,21,m'gladbach,darmstadt,0,0,0,0,0,draw,draw,sascha stegemann
+2024-02-10T17:30:00Z,21,leverkusen,bayern,3,0,1,0,3,leverkusen,bayern,felix zwayer
+2024-02-11T14:30:00Z,21,stuttgart,mainz,3,1,2,0,2,stuttgart,mainz,deniz aytekin
+2024-02-11T16:30:00Z,21,hoffenheim,1. fc köln,1,1,0,0,0,draw,draw,christian dingert
+2024-02-16T19:30:00Z,22,1. fc köln,bremen,0,1,0,0,1,bremen,1. fc köln,daniel siebert
+2024-02-17T14:30:00Z,22,wolfsburg,dortmund,1,1,0,1,0,draw,draw,martin petersen
+2024-02-17T14:30:00Z,22,hoffenheim,union berlin,0,1,0,0,1,union berlin,hoffenheim,robert hartmann
+2024-02-17T14:30:00Z,22,heidenheim,leverkusen,1,2,0,1,1,leverkusen,heidenheim,harm osmers
+2024-02-17T14:30:00Z,22,mainz,augsburg,1,0,1,0,1,mainz,augsburg,tobias reichel
+2024-02-17T14:30:00Z,22,darmstadt,stuttgart,1,2,0,1,1,stuttgart,darmstadt,tobias welz
+2024-02-17T17:30:00Z,22,rb leipzig,m'gladbach,2,0,1,0,2,rb leipzig,m'gladbach,sören storks
+2024-02-18T14:30:00Z,22,freiburg,frankfurt,3,3,2,2,0,draw,draw,tobias stieler
+2024-02-18T16:30:00Z,22,bochum,bayern,3,2,2,1,1,bochum,bayern,daniel schlager
+2024-02-23T19:30:00Z,23,leverkusen,mainz,2,1,1,1,1,leverkusen,mainz,timo gerach
+2024-02-24T14:30:00Z,23,stuttgart,1. fc köln,1,1,0,0,0,draw,draw,patrick ittrich
+2024-02-24T14:30:00Z,23,union berlin,heidenheim,2,2,2,1,0,draw,draw,deniz aytekin
+2024-02-24T14:30:00Z,23,bremen,darmstadt,1,1,1,1,0,draw,draw,florian badstübner
+2024-02-24T14:40:00Z,23,m'gladbach,bochum,5,2,2,0,3,m'gladbach,bochum,frank willenborg
+2024-02-24T17:30:00Z,23,bayern,rb leipzig,2,1,0,0,1,bayern,rb leipzig,sascha stegemann
+2024-02-25T14:30:00Z,23,frankfurt,wolfsburg,2,2,1,2,0,draw,draw,daniel schlager
+2024-02-25T16:30:00Z,23,dortmund,hoffenheim,2,3,2,1,1,hoffenheim,dortmund,marco fritz
+2024-02-25T18:30:00Z,23,augsburg,freiburg,2,1,0,1,1,augsburg,freiburg,bastian dankert
+2024-03-01T19:30:00Z,24,freiburg,bayern,2,2,1,1,0,draw,draw,sven jablonski
+2024-03-02T14:30:00Z,24,union berlin,dortmund,0,2,0,1,2,dortmund,union berlin,christian dingert
+2024-03-02T14:30:00Z,24,bochum,rb leipzig,1,4,1,1,3,rb leipzig,bochum,harm osmers
+2024-03-02T14:30:00Z,24,heidenheim,frankfurt,1,2,0,1,1,frankfurt,heidenheim,sören storks
+2024-03-02T14:30:00Z,24,mainz,m'gladbach,1,1,1,0,0,draw,draw,robert schröder
+2024-03-02T14:30:00Z,24,darmstadt,augsburg,0,6,0,5,6,augsburg,darmstadt,felix zwayer
+2024-03-02T17:30:00Z,24,wolfsburg,stuttgart,2,3,0,1,1,stuttgart,wolfsburg,benjamin brand
+2024-03-03T14:30:00Z,24,1. fc köln,leverkusen,0,2,0,1,2,leverkusen,1. fc köln,tobias stieler
+2024-03-03T16:30:00Z,24,hoffenheim,bremen,2,1,2,0,1,hoffenheim,bremen,matthias jöllenbeck
+2024-03-08T19:30:00Z,25,stuttgart,union berlin,2,0,1,0,2,stuttgart,union berlin,robert schröder
+2024-03-09T14:30:00Z,25,bayern,mainz,8,1,3,1,7,bayern,mainz,patrick ittrich
+2024-03-09T14:30:00Z,25,m'gladbach,1. fc köln,3,3,1,1,0,draw,draw,felix zwayer
+2024-03-09T14:30:00Z,25,augsburg,heidenheim,1,0,1,0,1,augsburg,heidenheim,tobias welz
+2024-03-09T14:30:00Z,25,rb leipzig,darmstadt,2,0,1,0,2,rb leipzig,darmstadt,robert hartmann
+2024-03-09T17:30:00Z,25,bremen,dortmund,1,2,0,2,1,dortmund,bremen,deniz aytekin
+2024-03-10T14:30:00Z,25,bochum,freiburg,1,2,0,1,1,freiburg,bochum,marco fritz
+2024-03-10T16:30:00Z,25,frankfurt,hoffenheim,3,1,1,1,2,frankfurt,hoffenheim,bastian dankert
+2024-03-10T18:30:00Z,25,leverkusen,wolfsburg,2,0,1,0,2,leverkusen,wolfsburg,daniel siebert
+2024-03-15T19:30:00Z,26,1. fc köln,rb leipzig,1,5,1,1,4,rb leipzig,1. fc köln,florian badstübner
+2024-03-16T14:30:00Z,26,darmstadt,bayern,2,5,1,2,3,bayern,darmstadt,tobias reichel
+2024-03-16T14:30:00Z,26,heidenheim,m'gladbach,1,1,0,1,0,draw,draw,martin petersen
+2024-03-16T14:30:00Z,26,union berlin,bremen,2,1,0,0,1,union berlin,bremen,daniel schlager
+2024-03-16T14:30:00Z,26,mainz,bochum,2,0,1,0,2,mainz,bochum,matthias jöllenbeck
+2024-03-16T14:30:00Z,26,wolfsburg,augsburg,1,3,1,1,2,augsburg,wolfsburg,timo gerach
+2024-03-16T17:30:00Z,26,hoffenheim,stuttgart,0,3,0,2,3,stuttgart,hoffenheim,sascha stegemann
+2024-03-17T14:30:00Z,26,freiburg,leverkusen,2,3,1,2,1,leverkusen,freiburg,harm osmers
+2024-03-17T16:30:00Z,26,dortmund,frankfurt,3,1,1,1,2,dortmund,frankfurt,tobias stieler
+2024-03-30T14:30:00Z,27,frankfurt,union berlin,0,0,0,0,0,draw,draw,marco fritz
+2024-03-30T14:30:00Z,27,m'gladbach,freiburg,0,3,0,1,3,freiburg,m'gladbach,christian dingert
+2024-03-30T14:30:00Z,27,bremen,wolfsburg,0,2,0,1,2,wolfsburg,bremen,sascha stegemann
+2024-03-30T14:30:00Z,27,rb leipzig,mainz,0,0,0,0,0,draw,draw,frank willenborg
+2024-03-30T14:30:00Z,27,leverkusen,hoffenheim,2,1,0,1,1,leverkusen,hoffenheim,deniz aytekin
+2024-03-30T17:30:00Z,27,bayern,dortmund,0,2,0,1,2,dortmund,bayern,harm osmers
+2024-03-31T13:30:00Z,27,augsburg,1. fc köln,1,1,1,1,0,draw,draw,sören storks
+2024-03-31T15:30:00Z,27,stuttgart,heidenheim,3,3,1,0,0,draw,draw,felix zwayer
+2024-03-31T17:30:00Z,27,bochum,darmstadt,2,2,1,0,0,draw,draw,sven jablonski
+2024-04-05T18:30:00Z,28,frankfurt,bremen,1,1,0,0,0,draw,draw,robert hartmann
+2024-04-06T13:30:00Z,28,heidenheim,bayern,3,2,0,2,1,heidenheim,bayern,robert schröder
+2024-04-06T13:30:00Z,28,freiburg,rb leipzig,1,4,0,3,3,rb leipzig,freiburg,daniel siebert
+2024-04-06T13:30:00Z,28,union berlin,leverkusen,0,1,0,1,1,leverkusen,union berlin,benjamin brand
+2024-04-06T13:30:00Z,28,1. fc köln,bochum,2,1,0,0,1,1. fc köln,bochum,tobias welz
+2024-04-06T13:30:00Z,28,mainz,darmstadt,4,0,1,0,4,mainz,darmstadt,daniel schlager
+2024-04-06T16:30:00Z,28,dortmund,stuttgart,0,1,0,0,1,stuttgart,dortmund,matthias jöllenbeck
+2024-04-07T13:30:00Z,28,hoffenheim,augsburg,3,1,2,0,2,hoffenheim,augsburg,florian exner
+2024-04-07T15:30:00Z,28,wolfsburg,m'gladbach,1,3,1,0,2,m'gladbach,wolfsburg,bastian dankert
+2024-04-12T18:30:00Z,29,augsburg,union berlin,2,0,0,0,2,augsburg,union berlin,tobias stieler
+2024-04-13T13:30:00Z,29,m'gladbach,dortmund,1,2,1,2,1,dortmund,m'gladbach,florian badstübner
+2024-04-13T13:30:00Z,29,rb leipzig,wolfsburg,3,0,1,0,3,rb leipzig,wolfsburg,christian dingert
+2024-04-13T13:30:00Z,29,bayern,1. fc köln,2,0,0,0,2,bayern,1. fc köln,frank willenborg
+2024-04-13T13:30:00Z,29,mainz,hoffenheim,4,1,0,1,3,mainz,hoffenheim,felix zwayer
+2024-04-13T13:30:00Z,29,bochum,heidenheim,1,1,0,0,0,draw,draw,patrick ittrich
+2024-04-13T16:30:00Z,29,stuttgart,frankfurt,3,0,3,0,3,stuttgart,frankfurt,deniz aytekin
+2024-04-14T13:30:00Z,29,darmstadt,freiburg,0,1,0,1,1,freiburg,darmstadt,sascha stegemann
+2024-04-14T15:30:00Z,29,leverkusen,bremen,5,0,1,0,5,leverkusen,bremen,harm osmers
+2024-04-19T18:30:00Z,30,frankfurt,augsburg,3,1,0,1,2,frankfurt,augsburg,martin petersen
+2024-04-20T13:30:00Z,30,heidenheim,rb leipzig,1,2,0,1,1,rb leipzig,heidenheim,tobias welz
+2024-04-20T13:30:00Z,30,hoffenheim,m'gladbach,4,3,1,1,1,hoffenheim,m'gladbach,sören storks
+2024-04-20T13:30:00Z,30,wolfsburg,bochum,1,0,1,0,1,wolfsburg,bochum,tobias reichel
+2024-04-20T13:30:00Z,30,1. fc köln,darmstadt,0,2,0,0,2,darmstadt,1. fc köln,matthias jöllenbeck
+2024-04-20T16:30:00Z,30,union berlin,bayern,1,5,0,2,4,bayern,union berlin,sven jablonski
+2024-04-21T13:30:00Z,30,bremen,stuttgart,2,1,1,0,1,bremen,stuttgart,robert schröder
+2024-04-21T15:30:00Z,30,dortmund,leverkusen,1,1,0,0,0,draw,draw,daniel siebert
+2024-04-21T17:30:00Z,30,freiburg,mainz,1,1,1,1,0,draw,draw,marco fritz
+2024-04-26T18:30:00Z,31,bochum,hoffenheim,3,2,2,0,1,bochum,hoffenheim,tobias stieler
+2024-04-27T13:30:00Z,31,rb leipzig,dortmund,4,1,2,1,3,rb leipzig,dortmund,deniz aytekin
+2024-04-27T13:30:00Z,31,bayern,frankfurt,2,1,1,1,1,bayern,frankfurt,daniel schlager
+2024-04-27T13:30:00Z,31,freiburg,wolfsburg,1,2,1,0,1,wolfsburg,freiburg,frank willenborg
+2024-04-27T13:30:00Z,31,augsburg,bremen,0,3,0,0,3,bremen,augsburg,tobias welz
+2024-04-27T16:30:00Z,31,leverkusen,stuttgart,2,2,0,0,0,draw,draw,felix zwayer
+2024-04-28T13:30:00Z,31,m'gladbach,union berlin,0,0,0,0,0,draw,draw,sascha stegemann
+2024-04-28T15:30:00Z,31,mainz,1. fc köln,1,1,1,0,0,draw,draw,benjamin brand
+2024-04-28T17:30:00Z,31,darmstadt,heidenheim,0,1,0,0,1,heidenheim,darmstadt,bastian dankert
+2024-05-03T18:30:00Z,32,hoffenheim,rb leipzig,1,1,0,1,0,draw,draw,harm osmers
+2024-05-04T13:30:00Z,32,stuttgart,bayern,3,1,1,1,2,stuttgart,bayern,tobias welz
+2024-05-04T13:30:00Z,32,bremen,m'gladbach,2,2,1,1,0,draw,draw,timo gerach
+2024-05-04T13:30:00Z,32,dortmund,augsburg,5,1,4,1,4,dortmund,augsburg,robert schröder
+2024-05-04T13:30:00Z,32,wolfsburg,darmstadt,3,0,2,0,3,wolfsburg,darmstadt,robert hartmann
+2024-05-04T16:30:00Z,32,1. fc köln,freiburg,0,0,0,0,0,draw,draw,sören storks
+2024-05-05T13:30:00Z,32,union berlin,bochum,3,4,0,3,1,bochum,union berlin,marco fritz
+2024-05-05T15:30:00Z,32,frankfurt,leverkusen,1,5,1,2,4,leverkusen,frankfurt,christian dingert
+2024-05-05T17:30:00Z,32,heidenheim,mainz,1,1,0,1,0,draw,draw,sven jablonski
+2024-05-10T18:30:00Z,33,augsburg,stuttgart,0,1,0,0,1,stuttgart,augsburg,patrick ittrich
+2024-05-11T13:30:00Z,33,1. fc köln,union berlin,3,2,1,2,1,1. fc köln,union berlin,deniz aytekin
+2024-05-11T13:30:00Z,33,m'gladbach,frankfurt,1,1,1,1,0,draw,draw,robert schröder
+2024-05-11T13:30:00Z,33,rb leipzig,bremen,1,1,0,1,0,draw,draw,sascha stegemann
+2024-05-11T13:30:00Z,33,freiburg,heidenheim,1,1,1,1,0,draw,draw,daniel siebert
+2024-05-11T16:30:00Z,33,mainz,dortmund,3,0,3,0,3,mainz,dortmund,tobias stieler
+2024-05-12T13:30:00Z,33,darmstadt,hoffenheim,0,6,0,5,6,hoffenheim,darmstadt,florian badstübner
+2024-05-12T15:30:00Z,33,bayern,wolfsburg,2,0,2,0,2,bayern,wolfsburg,bastian dankert
+2024-05-12T17:30:00Z,33,bochum,leverkusen,0,5,0,2,5,leverkusen,bochum,benjamin brand
+2024-05-18T13:30:00Z,34,hoffenheim,bayern,4,2,1,2,2,hoffenheim,bayern,marco fritz
+2024-05-18T13:30:00Z,34,frankfurt,rb leipzig,2,2,0,1,0,draw,draw,felix zwayer
+2024-05-18T13:30:00Z,34,union berlin,freiburg,2,1,0,0,1,union berlin,freiburg,christian dingert
+2024-05-18T13:30:00Z,34,wolfsburg,mainz,1,3,1,1,2,mainz,wolfsburg,frank willenborg
+2024-05-18T13:30:00Z,34,stuttgart,m'gladbach,4,0,2,0,4,stuttgart,m'gladbach,daniel schlager
+2024-05-18T13:30:00Z,34,heidenheim,1. fc köln,4,1,3,0,3,heidenheim,1. fc köln,tobias welz
+2024-05-18T13:30:00Z,34,bremen,bochum,4,1,1,0,3,bremen,bochum,martin petersen
+2024-05-18T13:30:00Z,34,leverkusen,augsburg,2,1,2,0,1,leverkusen,augsburg,matthias jöllenbeck
+2024-05-18T13:30:00Z,34,dortmund,darmstadt,4,0,2,0,4,dortmund,darmstadt,daniel siebert

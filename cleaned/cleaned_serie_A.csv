@@ -1,0 +1,381 @@
+date,matchday,home_team,away_team,home_score_full_time,away_score_full_time,home_score_half_time,away_score_half_time,goal_diff,winner,defeat,ref
+2023-08-19T16:30:00Z,1,empoli,verona,0,1,0,0,1,verona,empoli,luca massimi
+2023-08-19T16:30:00Z,1,frosinone,napoli,1,3,1,2,2,napoli,frosinone,matteo marcenaro
+2023-08-19T18:45:00Z,1,genoa,fiorentina,1,4,0,3,3,fiorentina,genoa,giovanni ayroldi
+2023-08-19T18:45:00Z,1,inter,monza,2,0,1,0,2,inter,monza,andrea colombo
+2023-08-20T16:30:00Z,1,roma,salernitana,2,2,1,1,0,draw,draw,ermanno feliciani
+2023-08-20T16:30:00Z,1,sassuolo,atalanta,0,2,0,0,2,atalanta,sassuolo,matteo marchetti
+2023-08-20T18:45:00Z,1,lecce,lazio,2,1,0,1,1,lecce,lazio,federico dionisi
+2023-08-20T18:45:00Z,1,udinese,juventus,0,3,0,3,3,juventus,udinese,antonio rapuano
+2023-08-21T16:30:00Z,1,torino,cagliari,0,0,0,0,0,draw,draw,francesco cosso
+2023-08-21T18:45:00Z,1,bologna,milan,0,2,0,2,2,milan,bologna,luca pairetto
+2023-08-26T16:30:00Z,2,frosinone,atalanta,2,1,2,0,1,frosinone,atalanta,juan luca sacchi
+2023-08-26T16:30:00Z,2,monza,empoli,2,0,1,0,2,monza,empoli,gianluca aureliano
+2023-08-26T18:45:00Z,2,verona,roma,2,1,2,0,1,verona,roma,daniele doveri
+2023-08-26T18:45:00Z,2,milan,torino,4,1,3,1,3,milan,torino,maurizio mariani
+2023-08-27T16:30:00Z,2,fiorentina,lecce,2,2,2,0,0,draw,draw,maria caputi
+2023-08-27T16:30:00Z,2,juventus,bologna,1,1,0,1,0,draw,draw,marco di bello
+2023-08-27T18:45:00Z,2,lazio,genoa,0,1,0,1,1,genoa,lazio,livio marinelli
+2023-08-27T18:45:00Z,2,napoli,sassuolo,2,0,1,0,2,napoli,sassuolo,antonio giua
+2023-08-28T16:30:00Z,2,salernitana,udinese,1,1,0,0,0,draw,draw,davide massa
+2023-08-28T18:45:00Z,2,cagliari,inter,0,2,0,2,2,inter,cagliari,michael fabbri
+2023-09-01T16:30:00Z,3,sassuolo,verona,3,1,1,0,2,sassuolo,verona,marco piccinini
+2023-09-01T18:45:00Z,3,roma,milan,1,2,0,1,1,milan,roma,antonio rapuano
+2023-09-02T16:30:00Z,3,bologna,cagliari,2,1,0,1,1,bologna,cagliari,daniele orsato
+2023-09-02T16:30:00Z,3,udinese,frosinone,0,0,0,0,0,draw,draw,marco guida
+2023-09-02T18:45:00Z,3,atalanta,monza,3,0,2,0,3,atalanta,monza,matteo marcenaro
+2023-09-02T18:45:00Z,3,napoli,lazio,1,2,1,1,1,lazio,napoli,andrea colombo
+2023-09-03T16:30:00Z,3,inter,fiorentina,4,0,1,0,4,inter,fiorentina,matteo marchetti
+2023-09-03T16:30:00Z,3,torino,genoa,1,0,0,0,1,torino,genoa,daniele chiffi
+2023-09-03T18:45:00Z,3,empoli,juventus,0,2,0,1,2,juventus,empoli,giovanni ayroldi
+2023-09-03T18:45:00Z,3,lecce,salernitana,2,0,1,0,2,lecce,salernitana,luca massimi
+2023-09-16T13:00:00Z,4,juventus,lazio,3,1,2,0,2,juventus,lazio,fabio maresca
+2023-09-16T16:00:00Z,4,inter,milan,5,1,2,0,4,inter,milan,simone sozza
+2023-09-16T18:45:00Z,4,genoa,napoli,2,2,1,0,0,draw,draw,michael fabbri
+2023-09-17T10:30:00Z,4,cagliari,udinese,0,0,0,0,0,draw,draw,daniele doveri
+2023-09-17T13:00:00Z,4,frosinone,sassuolo,4,2,1,2,2,frosinone,sassuolo,alessandro prontera
+2023-09-17T13:00:00Z,4,monza,lecce,1,1,1,1,0,draw,draw,livio marinelli
+2023-09-17T16:00:00Z,4,fiorentina,atalanta,3,2,2,1,1,fiorentina,atalanta,luca pairetto
+2023-09-17T18:45:00Z,4,roma,empoli,7,0,3,0,7,roma,empoli,juan luca sacchi
+2023-09-18T16:30:00Z,4,salernitana,torino,0,3,0,2,3,torino,salernitana,antonio giua
+2023-09-18T18:45:00Z,4,verona,bologna,0,0,0,0,0,draw,draw,federico la penna
+2023-09-22T16:30:00Z,5,salernitana,frosinone,1,1,0,1,0,draw,draw,marco piccinini
+2023-09-22T18:45:00Z,5,lecce,genoa,1,0,0,0,1,lecce,genoa,antonio rapuano
+2023-09-23T13:00:00Z,5,milan,verona,1,0,1,0,1,milan,verona,matteo marchetti
+2023-09-23T16:00:00Z,5,sassuolo,juventus,4,2,2,1,2,sassuolo,juventus,andrea colombo
+2023-09-23T18:45:00Z,5,lazio,monza,1,1,1,1,0,draw,draw,rosario abisso
+2023-09-24T10:30:00Z,5,empoli,inter,0,1,0,0,1,inter,empoli,matteo marcenaro
+2023-09-24T13:00:00Z,5,atalanta,cagliari,2,0,1,0,2,atalanta,cagliari,ermanno feliciani
+2023-09-24T13:00:00Z,5,udinese,fiorentina,0,2,0,1,2,fiorentina,udinese,daniele chiffi
+2023-09-24T16:00:00Z,5,bologna,napoli,0,0,0,0,0,draw,draw,giovanni ayroldi
+2023-09-24T18:45:00Z,5,torino,roma,1,1,0,0,0,draw,draw,marco guida
+2023-09-26T18:45:00Z,6,juventus,lecce,1,0,0,0,1,juventus,lecce,antonio giua
+2023-09-27T16:30:00Z,6,cagliari,milan,1,3,1,2,2,milan,cagliari,federico la penna
+2023-09-27T16:30:00Z,6,empoli,salernitana,1,0,1,0,1,empoli,salernitana,antonio rapuano
+2023-09-27T16:30:00Z,6,verona,atalanta,0,1,0,1,1,atalanta,verona,federico dionisi
+2023-09-27T18:45:00Z,6,inter,sassuolo,1,2,1,0,1,sassuolo,inter,luca massimi
+2023-09-27T18:45:00Z,6,lazio,torino,2,0,0,0,2,lazio,torino,michael fabbri
+2023-09-27T18:45:00Z,6,napoli,udinese,4,1,2,0,3,napoli,udinese,gianluca manganiello
+2023-09-28T16:30:00Z,6,frosinone,fiorentina,1,1,0,1,0,draw,draw,francesco fourneau
+2023-09-28T16:30:00Z,6,monza,bologna,0,0,0,0,0,draw,draw,ivano pezzuto
+2023-09-28T18:45:00Z,6,genoa,roma,4,1,2,1,3,genoa,roma,daniele orsato
+2023-09-30T13:00:00Z,7,lecce,napoli,0,4,0,1,4,napoli,lecce,luca pairetto
+2023-09-30T16:00:00Z,7,milan,lazio,2,0,0,0,2,milan,lazio,davide massa
+2023-09-30T18:45:00Z,7,salernitana,inter,0,4,0,0,4,inter,salernitana,rosario abisso
+2023-10-01T10:30:00Z,7,bologna,empoli,3,0,1,0,3,bologna,empoli,fabio maresca
+2023-10-01T13:00:00Z,7,udinese,genoa,2,2,1,2,0,draw,draw,maurizio mariani
+2023-10-01T16:00:00Z,7,atalanta,juventus,0,0,0,0,0,draw,draw,daniele chiffi
+2023-10-01T18:45:00Z,7,roma,frosinone,2,0,1,0,2,roma,frosinone,matteo marchetti
+2023-10-02T16:30:00Z,7,sassuolo,monza,0,1,0,0,1,monza,sassuolo,luca zufferli
+2023-10-02T16:30:00Z,7,torino,verona,0,0,0,0,0,draw,draw,ermanno feliciani
+2023-10-02T18:45:00Z,7,fiorentina,cagliari,3,0,2,0,3,fiorentina,cagliari,marco di bello
+2023-10-06T16:30:00Z,8,empoli,udinese,0,0,0,0,0,draw,draw,michael fabbri
+2023-10-06T18:45:00Z,8,lecce,sassuolo,1,1,0,1,0,draw,draw,juan luca sacchi
+2023-10-07T13:00:00Z,8,inter,bologna,2,2,2,1,0,draw,draw,marco guida
+2023-10-07T16:00:00Z,8,juventus,torino,2,0,0,0,2,juventus,torino,antonio rapuano
+2023-10-07T18:45:00Z,8,genoa,milan,0,1,0,0,1,milan,genoa,marco piccinini
+2023-10-08T10:30:00Z,8,monza,salernitana,3,0,2,0,3,monza,salernitana,luca massimi
+2023-10-08T13:00:00Z,8,frosinone,verona,2,1,1,0,1,frosinone,verona,maria caputi
+2023-10-08T13:00:00Z,8,lazio,atalanta,3,2,2,1,1,lazio,atalanta,daniele orsato
+2023-10-08T16:00:00Z,8,cagliari,roma,1,4,0,2,3,roma,cagliari,simone sozza
+2023-10-08T18:45:00Z,8,napoli,fiorentina,1,3,1,1,2,fiorentina,napoli,federico la penna
+2023-10-21T13:00:00Z,9,verona,napoli,1,3,0,2,2,napoli,verona,rosario abisso
+2023-10-21T16:00:00Z,9,torino,inter,0,3,0,0,3,inter,torino,matteo marchetti
+2023-10-21T18:45:00Z,9,sassuolo,lazio,0,2,0,2,2,lazio,sassuolo,marco di bello
+2023-10-22T10:30:00Z,9,roma,monza,1,0,0,0,1,roma,monza,giovanni ayroldi
+2023-10-22T13:00:00Z,9,bologna,frosinone,2,1,2,0,1,bologna,frosinone,daniele doveri
+2023-10-22T13:00:00Z,9,salernitana,cagliari,2,2,0,0,0,draw,draw,daniele chiffi
+2023-10-22T16:00:00Z,9,atalanta,genoa,2,0,0,0,2,atalanta,genoa,livio marinelli
+2023-10-22T18:45:00Z,9,milan,juventus,0,1,0,0,1,juventus,milan,maurizio mariani
+2023-10-23T16:30:00Z,9,udinese,lecce,1,1,0,0,0,draw,draw,paride tremolada
+2023-10-23T18:45:00Z,9,fiorentina,empoli,0,2,0,1,2,empoli,fiorentina,federico dionisi
+2023-10-27T18:45:00Z,10,genoa,salernitana,1,0,1,0,1,genoa,salernitana,davide massa
+2023-10-28T13:00:00Z,10,sassuolo,bologna,1,1,1,1,0,draw,draw,antonio giua
+2023-10-28T16:00:00Z,10,lecce,torino,0,1,0,1,1,torino,lecce,gianluca aureliano
+2023-10-28T18:45:00Z,10,juventus,verona,1,0,0,0,1,juventus,verona,ermanno feliciani
+2023-10-29T11:30:00Z,10,cagliari,frosinone,4,3,0,2,1,cagliari,frosinone,luca pairetto
+2023-10-29T14:00:00Z,10,monza,udinese,1,1,1,0,0,draw,draw,alessandro prontera
+2023-10-29T17:00:00Z,10,inter,roma,1,0,0,0,1,inter,roma,fabio maresca
+2023-10-29T19:45:00Z,10,napoli,milan,2,2,0,2,0,draw,draw,daniele orsato
+2023-10-30T17:30:00Z,10,empoli,atalanta,0,3,0,2,3,atalanta,empoli,luca massimi
+2023-10-30T19:45:00Z,10,lazio,fiorentina,1,0,0,0,1,lazio,fiorentina,matteo marcenaro
+2023-11-03T19:45:00Z,11,bologna,lazio,1,0,0,0,1,bologna,lazio,federico la penna
+2023-11-04T14:00:00Z,11,salernitana,napoli,0,2,0,1,2,napoli,salernitana,antonio rapuano
+2023-11-04T17:00:00Z,11,atalanta,inter,1,2,0,1,1,inter,atalanta,simone sozza
+2023-11-04T19:45:00Z,11,milan,udinese,0,1,0,0,1,udinese,milan,juan luca sacchi
+2023-11-05T11:30:00Z,11,verona,monza,1,3,0,1,2,monza,verona,giuseppe collu
+2023-11-05T14:00:00Z,11,cagliari,genoa,2,1,0,0,1,cagliari,genoa,marco guida
+2023-11-05T17:00:00Z,11,roma,lecce,2,1,0,0,1,roma,lecce,andrea colombo
+2023-11-05T19:45:00Z,11,fiorentina,juventus,0,1,0,1,1,juventus,fiorentina,daniele chiffi
+2023-11-06T17:30:00Z,11,frosinone,empoli,2,1,0,0,1,frosinone,empoli,gianluca manganiello
+2023-11-06T19:45:00Z,11,torino,sassuolo,2,1,1,1,1,torino,sassuolo,maria caputi
+2023-11-10T17:30:00Z,12,sassuolo,salernitana,2,2,1,2,0,draw,draw,davide ghersini
+2023-11-10T19:45:00Z,12,genoa,verona,1,0,1,0,1,genoa,verona,daniele orsato
+2023-11-11T14:00:00Z,12,lecce,milan,2,2,0,2,0,draw,draw,rosario abisso
+2023-11-11T17:00:00Z,12,juventus,cagliari,2,1,0,0,1,juventus,cagliari,marco piccinini
+2023-11-11T19:45:00Z,12,monza,torino,1,1,0,0,0,draw,draw,daniele doveri
+2023-11-12T11:30:00Z,12,napoli,empoli,0,1,0,0,1,empoli,napoli,alessandro prontera
+2023-11-12T14:00:00Z,12,fiorentina,bologna,2,1,1,1,1,fiorentina,bologna,fabio maresca
+2023-11-12T14:00:00Z,12,udinese,atalanta,1,1,1,0,0,draw,draw,gianluca aureliano
+2023-11-12T17:00:00Z,12,lazio,roma,0,0,0,0,0,draw,draw,davide massa
+2023-11-12T19:45:00Z,12,inter,frosinone,2,0,1,0,2,inter,frosinone,federico dionisi
+2023-11-25T14:00:00Z,13,salernitana,lazio,2,1,0,1,1,salernitana,lazio,alessandro prontera
+2023-11-25T17:00:00Z,13,atalanta,napoli,1,2,0,1,1,napoli,atalanta,maurizio mariani
+2023-11-25T19:45:00Z,13,milan,fiorentina,1,0,1,0,1,milan,fiorentina,marco di bello
+2023-11-26T11:30:00Z,13,cagliari,monza,1,1,1,0,0,draw,draw,matteo marchetti
+2023-11-26T14:00:00Z,13,empoli,sassuolo,3,4,2,2,1,sassuolo,empoli,simone sozza
+2023-11-26T14:00:00Z,13,frosinone,genoa,2,1,1,1,1,frosinone,genoa,luca zufferli
+2023-11-26T17:00:00Z,13,roma,udinese,3,1,1,0,2,roma,udinese,luca massimi
+2023-11-26T19:45:00Z,13,juventus,inter,1,1,1,1,0,draw,draw,marco guida
+2023-11-27T17:30:00Z,13,verona,lecce,2,2,1,1,0,draw,draw,federico la penna
+2023-11-27T19:45:00Z,13,bologna,torino,2,0,0,0,2,bologna,torino,andrea colombo
+2023-12-01T19:45:00Z,14,monza,juventus,1,2,0,1,1,juventus,monza,michael fabbri
+2023-12-02T14:00:00Z,14,genoa,empoli,1,1,1,0,0,draw,draw,gianluca aureliano
+2023-12-02T17:00:00Z,14,lazio,cagliari,1,0,1,0,1,lazio,cagliari,federico dionisi
+2023-12-02T19:45:00Z,14,milan,frosinone,3,1,1,0,2,milan,frosinone,matteo marchetti
+2023-12-03T11:30:00Z,14,lecce,bologna,1,1,0,0,0,draw,draw,daniele doveri
+2023-12-03T14:00:00Z,14,fiorentina,salernitana,3,0,2,0,3,fiorentina,salernitana,paride tremolada
+2023-12-03T14:00:00Z,14,udinese,verona,3,3,2,1,0,draw,draw,fabio maresca
+2023-12-03T17:00:00Z,14,sassuolo,roma,1,2,1,0,1,roma,sassuolo,matteo marcenaro
+2023-12-03T19:45:00Z,14,napoli,inter,0,3,0,1,3,inter,napoli,davide massa
+2023-12-04T19:45:00Z,14,torino,atalanta,3,0,1,0,3,torino,atalanta,marco piccinini
+2023-12-08T19:45:00Z,15,juventus,napoli,1,0,0,0,1,juventus,napoli,daniele orsato
+2023-12-09T14:00:00Z,15,verona,lazio,1,1,0,1,0,draw,draw,giovanni ayroldi
+2023-12-09T17:00:00Z,15,atalanta,milan,3,2,1,1,1,atalanta,milan,federico la penna
+2023-12-09T19:45:00Z,15,inter,udinese,4,0,3,0,4,inter,udinese,marco di bello
+2023-12-10T11:30:00Z,15,frosinone,torino,0,0,0,0,0,draw,draw,luca massimi
+2023-12-10T14:00:00Z,15,monza,genoa,1,0,0,0,1,monza,genoa,giuseppe collu
+2023-12-10T17:00:00Z,15,salernitana,bologna,1,2,0,2,1,bologna,salernitana,simone sozza
+2023-12-10T19:45:00Z,15,roma,fiorentina,1,1,1,0,0,draw,draw,antonio rapuano
+2023-12-11T17:30:00Z,15,empoli,lecce,1,1,0,0,0,draw,draw,andrea colombo
+2023-12-11T19:45:00Z,15,cagliari,sassuolo,2,1,0,1,1,cagliari,sassuolo,maurizio mariani
+2023-12-15T19:45:00Z,16,genoa,juventus,1,1,0,1,0,draw,draw,davide massa
+2023-12-16T14:00:00Z,16,lecce,frosinone,2,1,1,1,1,lecce,frosinone,luca zufferli
+2023-12-16T17:30:00Z,16,napoli,cagliari,2,1,0,0,1,napoli,cagliari,matteo marcenaro
+2023-12-16T19:45:00Z,16,torino,empoli,1,0,1,0,1,torino,empoli,livio marinelli
+2023-12-17T11:30:00Z,16,milan,monza,3,0,2,0,3,milan,monza,gianluca aureliano
+2023-12-17T14:00:00Z,16,fiorentina,verona,1,0,0,0,1,fiorentina,verona,maria caputi
+2023-12-17T14:00:00Z,16,udinese,sassuolo,2,2,1,0,0,draw,draw,gianluca manganiello
+2023-12-17T17:00:00Z,16,bologna,roma,2,0,1,0,2,bologna,roma,marco guida
+2023-12-17T19:45:00Z,16,lazio,inter,0,2,0,1,2,inter,lazio,fabio maresca
+2023-12-18T19:45:00Z,16,atalanta,salernitana,4,1,0,1,3,atalanta,salernitana,ermanno feliciani
+2023-12-22T17:30:00Z,17,sassuolo,genoa,1,2,1,0,1,genoa,sassuolo,marco guida
+2023-12-22T17:30:00Z,17,empoli,lazio,0,2,0,1,2,lazio,empoli,matteo marchetti
+2023-12-22T19:45:00Z,17,monza,fiorentina,0,1,0,1,1,fiorentina,monza,juan luca sacchi
+2023-12-22T19:45:00Z,17,salernitana,milan,2,2,1,1,0,draw,draw,daniele doveri
+2023-12-23T11:30:00Z,17,frosinone,juventus,1,2,0,1,1,juventus,frosinone,maurizio mariani
+2023-12-23T14:00:00Z,17,torino,udinese,1,1,0,0,0,draw,draw,michael fabbri
+2023-12-23T14:00:00Z,17,bologna,atalanta,1,0,0,0,1,bologna,atalanta,antonio rapuano
+2023-12-23T17:00:00Z,17,verona,cagliari,2,0,0,0,2,verona,cagliari,daniele orsato
+2023-12-23T17:00:00Z,17,inter,lecce,2,0,1,0,2,inter,lecce,matteo marcenaro
+2023-12-23T19:45:00Z,17,roma,napoli,2,0,0,0,2,roma,napoli,andrea colombo
+2023-12-29T17:30:00Z,18,fiorentina,torino,1,0,0,0,1,fiorentina,torino,federico la penna
+2023-12-29T17:30:00Z,18,napoli,monza,0,0,0,0,0,draw,draw,marco di bello
+2023-12-29T19:45:00Z,18,genoa,inter,1,1,1,1,0,draw,draw,daniele doveri
+2023-12-29T19:45:00Z,18,lazio,frosinone,3,1,0,0,2,lazio,frosinone,ermanno feliciani
+2023-12-30T11:30:00Z,18,atalanta,lecce,1,0,0,0,1,atalanta,lecce,gianluca manganiello
+2023-12-30T14:00:00Z,18,cagliari,empoli,0,0,0,0,0,draw,draw,fabio maresca
+2023-12-30T14:00:00Z,18,udinese,bologna,3,0,1,0,3,udinese,bologna,daniele orsato
+2023-12-30T17:00:00Z,18,verona,salernitana,0,1,0,0,1,salernitana,verona,maurizio mariani
+2023-12-30T17:00:00Z,18,milan,sassuolo,1,0,0,0,1,milan,sassuolo,livio marinelli
+2023-12-30T19:45:00Z,18,juventus,roma,1,0,0,0,1,juventus,roma,simone sozza
+2024-01-05T19:45:00Z,19,bologna,genoa,1,1,0,1,0,draw,draw,andrea colombo
+2024-01-06T11:30:00Z,19,inter,verona,2,1,1,0,1,inter,verona,marco piccinini
+2024-01-06T14:00:00Z,19,frosinone,monza,2,3,0,2,1,monza,frosinone,maria caputi
+2024-01-06T17:00:00Z,19,lecce,cagliari,1,1,1,0,0,draw,draw,davide massa
+2024-01-06T19:45:00Z,19,sassuolo,fiorentina,1,0,1,0,1,sassuolo,fiorentina,rosario abisso
+2024-01-07T11:30:00Z,19,empoli,milan,0,3,0,2,3,milan,empoli,federico la penna
+2024-01-07T14:00:00Z,19,torino,napoli,3,0,1,0,3,torino,napoli,maurizio mariani
+2024-01-07T14:00:00Z,19,udinese,lazio,1,2,0,1,1,lazio,udinese,juan luca sacchi
+2024-01-07T17:00:00Z,19,salernitana,juventus,1,2,1,0,1,juventus,salernitana,marco guida
+2024-01-07T19:45:00Z,19,roma,atalanta,1,1,1,1,0,draw,draw,gianluca aureliano
+2024-01-13T14:00:00Z,20,genoa,torino,0,0,0,0,0,draw,draw,antonio giua
+2024-01-13T14:00:00Z,20,napoli,salernitana,2,1,1,1,1,napoli,salernitana,livio marinelli
+2024-01-13T17:00:00Z,20,verona,empoli,2,1,1,0,1,verona,empoli,daniele doveri
+2024-01-13T19:45:00Z,20,monza,inter,1,5,0,2,4,inter,monza,antonio rapuano
+2024-01-14T11:30:00Z,20,lazio,lecce,1,0,0,0,1,lazio,lecce,maria caputi
+2024-01-14T14:00:00Z,20,cagliari,bologna,2,1,1,1,1,cagliari,bologna,gianluca manganiello
+2024-01-14T17:00:00Z,20,fiorentina,udinese,2,2,0,1,0,draw,draw,luca pairetto
+2024-01-14T19:45:00Z,20,milan,roma,3,1,1,0,2,milan,roma,marco guida
+2024-01-15T19:45:00Z,20,atalanta,frosinone,5,0,3,0,5,atalanta,frosinone,alessandro prontera
+2024-01-16T19:45:00Z,20,juventus,sassuolo,3,0,2,0,3,juventus,sassuolo,marco piccinini
+2024-01-20T17:00:00Z,21,roma,verona,2,1,2,0,1,roma,verona,juan luca sacchi
+2024-01-20T19:45:00Z,21,udinese,milan,2,3,1,1,1,milan,udinese,fabio maresca
+2024-01-21T11:30:00Z,21,frosinone,cagliari,3,1,0,1,2,frosinone,cagliari,federico dionisi
+2024-01-21T14:00:00Z,21,empoli,monza,3,0,2,0,3,empoli,monza,antonio giua
+2024-01-21T17:00:00Z,21,salernitana,genoa,1,2,1,1,1,genoa,salernitana,daniele orsato
+2024-01-21T19:45:00Z,21,lecce,juventus,0,3,0,0,3,juventus,lecce,daniele doveri
+2024-01-26T19:45:00Z,22,cagliari,torino,1,2,0,2,1,torino,cagliari,andrea colombo
+2024-01-27T14:00:00Z,22,atalanta,udinese,2,0,2,0,2,atalanta,udinese,marco piccinini
+2024-01-27T17:00:00Z,22,juventus,empoli,1,1,0,0,0,draw,draw,livio marinelli
+2024-01-27T19:45:00Z,22,milan,bologna,2,2,1,1,0,draw,draw,davide massa
+2024-01-28T11:30:00Z,22,genoa,lecce,2,1,0,1,1,genoa,lecce,luca pairetto
+2024-01-28T14:00:00Z,22,verona,frosinone,1,1,1,0,0,draw,draw,federico la penna
+2024-01-28T14:00:00Z,22,monza,sassuolo,1,0,1,0,1,monza,sassuolo,gianluca manganiello
+2024-01-28T17:00:00Z,22,lazio,napoli,0,0,0,0,0,draw,draw,daniele orsato
+2024-01-28T19:45:00Z,22,fiorentina,inter,0,1,0,1,1,inter,fiorentina,gianluca aureliano
+2024-01-29T19:45:00Z,22,salernitana,roma,1,2,0,0,1,roma,salernitana,marco di bello
+2024-02-02T19:45:00Z,23,lecce,fiorentina,3,2,1,0,1,lecce,fiorentina,antonio giua
+2024-02-03T14:00:00Z,23,empoli,genoa,0,0,0,0,0,draw,draw,ermanno feliciani
+2024-02-03T14:00:00Z,23,udinese,monza,0,0,0,0,0,draw,draw,alessandro prontera
+2024-02-03T17:00:00Z,23,frosinone,milan,2,3,1,1,1,milan,frosinone,luca pairetto
+2024-02-03T19:45:00Z,23,bologna,sassuolo,4,2,1,2,2,bologna,sassuolo,juan luca sacchi
+2024-02-04T11:30:00Z,23,torino,salernitana,0,0,0,0,0,draw,draw,daniele chiffi
+2024-02-04T14:00:00Z,23,napoli,verona,2,1,0,0,1,napoli,verona,marco piccinini
+2024-02-04T17:00:00Z,23,atalanta,lazio,3,1,2,0,2,atalanta,lazio,marco guida
+2024-02-04T19:45:00Z,23,inter,juventus,1,0,1,0,1,inter,juventus,fabio maresca
+2024-02-05T19:45:00Z,23,roma,cagliari,4,0,2,0,4,roma,cagliari,matteo marcenaro
+2024-02-09T19:45:00Z,24,salernitana,empoli,1,3,0,1,2,empoli,salernitana,maurizio mariani
+2024-02-10T14:00:00Z,24,cagliari,lazio,1,3,0,1,2,lazio,cagliari,marco di bello
+2024-02-10T17:00:00Z,24,roma,inter,2,4,2,1,2,inter,roma,marco guida
+2024-02-10T19:45:00Z,24,sassuolo,torino,1,1,1,1,0,draw,draw,federico la penna
+2024-02-11T11:30:00Z,24,fiorentina,frosinone,5,1,3,0,4,fiorentina,frosinone,ermanno feliciani
+2024-02-11T14:00:00Z,24,bologna,lecce,4,0,2,0,4,bologna,lecce,gianluca manganiello
+2024-02-11T14:00:00Z,24,monza,verona,0,0,0,0,0,draw,draw,davide massa
+2024-02-11T17:00:00Z,24,genoa,atalanta,1,4,0,1,3,atalanta,genoa,andrea colombo
+2024-02-11T19:45:00Z,24,milan,napoli,1,0,1,0,1,milan,napoli,daniele doveri
+2024-02-12T19:45:00Z,24,juventus,udinese,0,1,0,1,1,udinese,juventus,rosario abisso
+2024-02-14T18:00:00Z,21,bologna,fiorentina,2,0,1,0,2,bologna,fiorentina,daniele chiffi
+2024-02-16T18:00:00Z,25,torino,lecce,2,0,0,0,2,torino,lecce,giovanni ayroldi
+2024-02-16T20:00:00Z,25,inter,salernitana,4,0,3,0,4,inter,salernitana,marco piccinini
+2024-02-17T14:00:00Z,25,napoli,genoa,1,1,0,0,0,draw,draw,juan luca sacchi
+2024-02-17T17:00:00Z,25,verona,juventus,2,2,1,1,0,draw,draw,marco di bello
+2024-02-17T19:45:00Z,25,atalanta,sassuolo,3,0,1,0,3,atalanta,sassuolo,alessandro prontera
+2024-02-18T11:30:00Z,25,lazio,bologna,1,2,1,1,1,bologna,lazio,fabio maresca
+2024-02-18T14:00:00Z,25,empoli,fiorentina,1,1,0,1,0,draw,draw,luca pairetto
+2024-02-18T14:00:00Z,25,udinese,cagliari,1,1,1,1,0,draw,draw,maurizio mariani
+2024-02-18T17:00:00Z,25,frosinone,roma,0,3,0,1,3,roma,frosinone,antonio giua
+2024-02-18T19:45:00Z,25,monza,milan,4,2,2,0,2,monza,milan,andrea colombo
+2024-02-22T19:45:00Z,21,torino,lazio,0,2,0,0,2,lazio,torino,federico la penna
+2024-02-23T19:45:00Z,26,bologna,verona,2,0,1,0,2,bologna,verona,rosario abisso
+2024-02-24T14:00:00Z,26,sassuolo,empoli,2,3,0,1,1,empoli,sassuolo,gianluca aureliano
+2024-02-24T17:00:00Z,26,salernitana,monza,0,2,0,0,2,monza,salernitana,michael fabbri
+2024-02-24T19:45:00Z,26,genoa,udinese,2,0,2,0,2,genoa,udinese,francesco fourneau
+2024-02-25T11:30:00Z,26,juventus,frosinone,3,2,2,2,1,juventus,frosinone,antonio rapuano
+2024-02-25T14:00:00Z,26,cagliari,napoli,1,1,0,0,0,draw,draw,luca pairetto
+2024-02-25T17:00:00Z,26,lecce,inter,0,4,0,1,4,inter,lecce,daniele doveri
+2024-02-25T19:45:00Z,26,milan,atalanta,1,1,1,1,0,draw,draw,daniele orsato
+2024-02-26T17:30:00Z,26,roma,torino,3,2,1,1,1,roma,torino,juan luca sacchi
+2024-02-26T19:45:00Z,26,fiorentina,lazio,2,1,0,1,1,fiorentina,lazio,marco guida
+2024-02-28T17:00:00Z,21,sassuolo,napoli,1,6,1,3,5,napoli,sassuolo,daniele chiffi
+2024-02-28T19:45:00Z,21,inter,atalanta,4,0,2,0,4,inter,atalanta,andrea colombo
+2024-03-01T19:45:00Z,27,lazio,milan,0,1,0,0,1,milan,lazio,marco di bello
+2024-03-02T14:00:00Z,27,udinese,salernitana,1,1,1,1,0,draw,draw,gianluca manganiello
+2024-03-02T17:00:00Z,27,monza,roma,1,4,0,2,3,roma,monza,marco piccinini
+2024-03-02T19:45:00Z,27,torino,fiorentina,0,0,0,0,0,draw,draw,matteo marchetti
+2024-03-03T11:30:00Z,27,verona,sassuolo,1,0,0,0,1,verona,sassuolo,fabio maresca
+2024-03-03T14:00:00Z,27,empoli,cagliari,0,1,0,0,1,cagliari,empoli,antonio rapuano
+2024-03-03T14:00:00Z,27,frosinone,lecce,1,1,1,0,0,draw,draw,marco guida
+2024-03-03T17:00:00Z,27,atalanta,bologna,1,2,1,0,1,bologna,atalanta,federico la penna
+2024-03-03T19:45:00Z,27,napoli,juventus,2,1,1,0,1,napoli,juventus,maurizio mariani
+2024-03-04T19:45:00Z,27,inter,genoa,2,1,2,0,1,inter,genoa,giovanni ayroldi
+2024-03-08T19:45:00Z,28,napoli,torino,1,1,0,0,0,draw,draw,daniele orsato
+2024-03-09T14:00:00Z,28,cagliari,salernitana,4,2,2,0,2,cagliari,salernitana,francesco fourneau
+2024-03-09T14:00:00Z,28,sassuolo,frosinone,1,0,0,0,1,sassuolo,frosinone,federico la penna
+2024-03-09T17:00:00Z,28,bologna,inter,0,1,0,1,1,inter,bologna,luca pairetto
+2024-03-09T19:45:00Z,28,genoa,monza,2,3,0,2,1,monza,genoa,ermanno feliciani
+2024-03-10T11:30:00Z,28,lecce,verona,0,1,0,1,1,verona,lecce,daniele chiffi
+2024-03-10T14:00:00Z,28,milan,empoli,1,0,1,0,1,milan,empoli,juan luca sacchi
+2024-03-10T17:00:00Z,28,juventus,atalanta,2,2,0,1,0,draw,draw,marco guida
+2024-03-10T19:45:00Z,28,fiorentina,roma,2,2,1,0,0,draw,draw,davide massa
+2024-03-11T19:45:00Z,28,lazio,udinese,1,2,0,0,1,udinese,lazio,gianluca aureliano
+2024-03-15T19:45:00Z,29,empoli,bologna,0,1,0,0,1,bologna,empoli,michael fabbri
+2024-03-16T14:00:00Z,29,monza,cagliari,1,0,1,0,1,monza,cagliari,matteo marcenaro
+2024-03-16T14:00:00Z,29,udinese,torino,0,2,0,1,2,torino,udinese,andrea colombo
+2024-03-16T17:00:00Z,29,salernitana,lecce,0,1,0,1,1,lecce,salernitana,fabio maresca
+2024-03-16T19:45:00Z,29,frosinone,lazio,2,3,1,1,1,lazio,frosinone,antonio rapuano
+2024-03-17T11:30:00Z,29,juventus,genoa,0,0,0,0,0,draw,draw,antonio giua
+2024-03-17T14:00:00Z,29,verona,milan,1,3,0,1,2,milan,verona,maurizio mariani
+2024-03-17T17:00:00Z,29,roma,sassuolo,1,0,0,0,1,roma,sassuolo,gianluca manganiello
+2024-03-17T19:45:00Z,29,inter,napoli,1,1,1,0,0,draw,draw,federico la penna
+2024-03-30T11:30:00Z,30,napoli,atalanta,0,3,0,2,3,atalanta,napoli,luca pairetto
+2024-03-30T14:00:00Z,30,genoa,frosinone,1,1,1,1,0,draw,draw,juan luca sacchi
+2024-03-30T14:00:00Z,30,torino,monza,1,0,0,0,1,torino,monza,gianluca aureliano
+2024-03-30T17:00:00Z,30,lazio,juventus,1,0,0,0,1,lazio,juventus,andrea colombo
+2024-03-30T19:45:00Z,30,fiorentina,milan,1,2,0,0,1,milan,fiorentina,fabio maresca
+2024-04-01T10:30:00Z,30,bologna,salernitana,3,0,2,0,3,bologna,salernitana,ermanno feliciani
+2024-04-01T13:00:00Z,30,cagliari,verona,1,1,0,1,0,draw,draw,daniele doveri
+2024-04-01T13:00:00Z,30,sassuolo,udinese,1,1,1,1,0,draw,draw,michael fabbri
+2024-04-01T16:00:00Z,30,lecce,roma,0,0,0,0,0,draw,draw,matteo marcenaro
+2024-04-01T18:45:00Z,30,inter,empoli,2,0,1,0,2,inter,empoli,federico dionisi
+2024-04-05T18:45:00Z,31,salernitana,sassuolo,2,2,0,2,0,draw,draw,simone sozza
+2024-04-06T13:00:00Z,31,milan,lecce,3,0,2,0,3,milan,lecce,luca massimi
+2024-04-06T16:00:00Z,31,roma,lazio,1,0,1,0,1,roma,lazio,marco guida
+2024-04-06T18:45:00Z,31,empoli,torino,3,2,1,0,1,empoli,torino,davide massa
+2024-04-07T10:30:00Z,31,frosinone,bologna,0,0,0,0,0,draw,draw,daniele orsato
+2024-04-07T13:00:00Z,31,monza,napoli,2,4,1,0,2,napoli,monza,daniele doveri
+2024-04-07T16:00:00Z,31,cagliari,atalanta,2,1,1,1,1,cagliari,atalanta,antonio rapuano
+2024-04-07T16:00:00Z,31,verona,genoa,1,2,1,1,1,genoa,verona,gianluca manganiello
+2024-04-07T18:45:00Z,31,juventus,fiorentina,1,0,1,0,1,juventus,fiorentina,federico la penna
+2024-04-08T18:45:00Z,31,udinese,inter,1,2,1,0,1,inter,udinese,marco piccinini
+2024-04-12T18:45:00Z,32,lazio,salernitana,4,1,3,1,3,lazio,salernitana,luca zufferli
+2024-04-13T13:00:00Z,32,lecce,empoli,1,0,0,0,1,lecce,empoli,maurizio mariani
+2024-04-13T16:00:00Z,32,torino,juventus,0,0,0,0,0,draw,draw,fabio maresca
+2024-04-13T18:45:00Z,32,bologna,monza,0,0,0,0,0,draw,draw,federico la penna
+2024-04-14T10:30:00Z,32,napoli,frosinone,2,2,1,0,0,draw,draw,michael fabbri
+2024-04-14T13:00:00Z,32,sassuolo,milan,3,3,2,1,0,draw,draw,davide massa
+2024-04-14T18:45:00Z,32,inter,cagliari,2,2,1,0,0,draw,draw,francesco fourneau
+2024-04-15T16:30:00Z,32,fiorentina,genoa,1,1,0,1,0,draw,draw,davide di marco
+2024-04-15T18:45:00Z,32,atalanta,verona,2,2,2,0,0,draw,draw,juan luca sacchi
+2024-04-19T16:30:00Z,33,genoa,lazio,0,1,0,0,1,lazio,genoa,ermanno feliciani
+2024-04-19T18:45:00Z,33,cagliari,juventus,2,2,2,0,0,draw,draw,marco piccinini
+2024-04-20T16:00:00Z,33,empoli,napoli,1,0,1,0,1,empoli,napoli,gianluca manganiello
+2024-04-20T18:45:00Z,33,verona,udinese,1,0,0,0,1,verona,udinese,marco guida
+2024-04-21T10:30:00Z,33,sassuolo,lecce,0,3,0,2,3,lecce,sassuolo,daniele doveri
+2024-04-21T13:00:00Z,33,torino,frosinone,0,0,0,0,0,draw,draw,antonio rapuano
+2024-04-21T16:00:00Z,33,salernitana,fiorentina,0,2,0,0,2,fiorentina,salernitana,matteo marchetti
+2024-04-21T18:45:00Z,33,monza,atalanta,1,2,0,1,1,atalanta,monza,antonio giua
+2024-04-22T16:30:00Z,33,roma,bologna,1,3,0,2,2,bologna,roma,fabio maresca
+2024-04-22T18:45:00Z,33,milan,inter,1,2,0,1,1,inter,milan,andrea colombo
+2024-04-25T18:00:00Z,32,udinese,roma,1,2,1,0,1,roma,udinese,luca pairetto
+2024-04-26T18:45:00Z,34,frosinone,salernitana,3,0,2,0,3,frosinone,salernitana,francesco fourneau
+2024-04-27T13:00:00Z,34,lecce,monza,1,1,0,0,0,draw,draw,alberto santoro
+2024-04-27T16:00:00Z,34,juventus,milan,0,0,0,0,0,draw,draw,maurizio mariani
+2024-04-27T18:45:00Z,34,lazio,verona,1,0,0,0,1,lazio,verona,davide massa
+2024-04-28T10:30:00Z,34,inter,torino,2,0,0,0,2,inter,torino,maria caputi
+2024-04-28T13:00:00Z,34,bologna,udinese,1,1,0,1,0,draw,draw,juan luca sacchi
+2024-04-28T16:00:00Z,34,atalanta,empoli,2,0,1,0,2,atalanta,empoli,michael fabbri
+2024-04-28T16:00:00Z,34,napoli,roma,2,2,0,0,0,draw,draw,simone sozza
+2024-04-28T18:45:00Z,34,fiorentina,sassuolo,5,1,1,0,4,fiorentina,sassuolo,matteo marcenaro
+2024-04-29T18:45:00Z,34,genoa,cagliari,3,0,2,0,3,genoa,cagliari,federico dionisi
+2024-05-03T18:45:00Z,35,torino,bologna,0,0,0,0,0,draw,draw,simone sozza
+2024-05-04T16:00:00Z,35,monza,lazio,2,2,0,1,0,draw,draw,luca pairetto
+2024-05-04T18:45:00Z,35,sassuolo,inter,1,0,1,0,1,sassuolo,inter,matteo marchetti
+2024-05-05T10:30:00Z,35,cagliari,lecce,1,1,1,0,0,draw,draw,matteo marcenaro
+2024-05-05T13:00:00Z,35,empoli,frosinone,0,0,0,0,0,draw,draw,daniele doveri
+2024-05-05T13:00:00Z,35,verona,fiorentina,2,1,1,1,1,verona,fiorentina,antonio rapuano
+2024-05-05T16:00:00Z,35,milan,genoa,3,3,1,1,0,draw,draw,alessandro prontera
+2024-05-05T18:45:00Z,35,roma,juventus,1,1,1,1,0,draw,draw,andrea colombo
+2024-05-06T16:00:00Z,35,salernitana,atalanta,1,2,1,0,1,atalanta,salernitana,ermanno feliciani
+2024-05-06T18:45:00Z,35,udinese,napoli,1,1,0,0,0,draw,draw,gianluca aureliano
+2024-05-10T18:45:00Z,36,frosinone,inter,0,5,0,1,5,inter,frosinone,antonio giua
+2024-05-11T16:00:00Z,36,napoli,bologna,0,2,0,2,2,bologna,napoli,luca pairetto
+2024-05-11T18:45:00Z,36,milan,cagliari,5,1,1,0,4,milan,cagliari,simone sozza
+2024-05-12T10:30:00Z,36,lazio,empoli,2,0,1,0,2,lazio,empoli,gianluca aureliano
+2024-05-12T13:00:00Z,36,genoa,sassuolo,2,1,0,1,1,genoa,sassuolo,maurizio mariani
+2024-05-12T13:00:00Z,36,verona,torino,1,2,0,0,1,torino,verona,livio marinelli
+2024-05-12T16:00:00Z,36,juventus,salernitana,1,1,0,1,0,draw,draw,alberto santoro
+2024-05-12T18:45:00Z,36,atalanta,roma,2,1,2,0,1,atalanta,roma,marco guida
+2024-05-13T16:30:00Z,36,lecce,udinese,0,2,0,1,2,udinese,lecce,davide massa
+2024-05-13T18:45:00Z,36,fiorentina,monza,2,1,1,1,1,fiorentina,monza,luca zufferli
+2024-05-17T18:45:00Z,37,fiorentina,napoli,2,2,2,1,0,draw,draw,matteo marchetti
+2024-05-18T16:00:00Z,37,lecce,atalanta,0,2,0,0,2,atalanta,lecce,antonio rapuano
+2024-05-18T18:45:00Z,37,torino,milan,3,1,2,0,2,torino,milan,ermanno feliciani
+2024-05-19T10:30:00Z,37,sassuolo,cagliari,0,2,0,0,2,cagliari,sassuolo,daniele doveri
+2024-05-19T13:00:00Z,37,monza,frosinone,0,1,0,1,1,frosinone,monza,michael fabbri
+2024-05-19T13:00:00Z,37,udinese,empoli,1,1,0,0,0,draw,draw,daniele orsato
+2024-05-19T16:00:00Z,37,inter,lazio,1,1,0,1,0,draw,draw,juan luca sacchi
+2024-05-19T18:45:00Z,37,roma,genoa,1,0,0,0,1,roma,genoa,gianluca manganiello
+2024-05-20T16:30:00Z,37,salernitana,verona,1,2,0,2,1,verona,salernitana,marco di bello
+2024-05-20T18:45:00Z,37,bologna,juventus,3,3,2,0,0,draw,draw,giovanni ayroldi
+2024-05-23T18:45:00Z,38,cagliari,fiorentina,2,3,0,1,1,fiorentina,cagliari,alessandro prontera
+2024-05-24T18:45:00Z,38,genoa,bologna,2,0,1,0,2,genoa,bologna,alberto santoro
+2024-05-25T16:00:00Z,38,juventus,monza,2,0,2,0,2,juventus,monza,maria caputi
+2024-05-25T18:45:00Z,38,milan,salernitana,3,3,2,0,0,draw,draw,davide di marco
+2024-05-26T16:00:00Z,38,atalanta,torino,3,0,2,0,3,atalanta,torino,simone sozza
+2024-05-26T16:00:00Z,38,napoli,lecce,0,0,0,0,0,draw,draw,federico dionisi
+2024-05-26T18:45:00Z,38,empoli,roma,2,1,1,1,1,empoli,roma,davide massa
+2024-05-26T18:45:00Z,38,frosinone,udinese,0,1,0,0,1,udinese,frosinone,daniele doveri
+2024-05-26T18:45:00Z,38,verona,inter,2,2,2,2,0,draw,draw,luca zufferli
+2024-05-26T18:45:00Z,38,lazio,sassuolo,1,1,0,0,0,draw,draw,paride tremolada
+2024-06-02T16:00:00Z,29,atalanta,fiorentina,2,3,2,3,1,fiorentina,atalanta,juan luca sacchi

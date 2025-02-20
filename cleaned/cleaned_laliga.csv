@@ -1,0 +1,381 @@
+date,matchday,home_team,away_team,home_score_full_time,away_score_full_time,home_score_half_time,away_score_half_time,goal_diff,winner,defeat,ref
+2023-08-11T17:30:00Z,1,almería,rayo vallecano,0,2,0,2,2,rayo vallecano,almería,javier alberola rojas
+2023-08-11T20:00:00Z,1,sevilla fc,valencia,1,2,0,0,1,valencia,sevilla fc,josé sánchez martínez
+2023-08-12T15:00:00Z,1,real sociedad,girona,1,1,1,0,0,draw,draw,francisco hernández maeso
+2023-08-12T17:30:00Z,1,las palmas,mallorca,1,1,1,0,0,draw,draw,víctor garcía verdura
+2023-08-12T19:30:00Z,1,athletic,real madrid,0,2,0,2,2,real madrid,athletic,jesús gil manzano
+2023-08-13T15:00:00Z,1,celta,osasuna,0,2,0,1,2,osasuna,celta,pablo gonzález fuertes
+2023-08-13T17:30:00Z,1,villarreal,real betis,1,2,0,1,1,real betis,villarreal,miguel ortiz arias
+2023-08-13T19:30:00Z,1,getafe,barça,0,0,0,0,0,draw,draw,césar soto grado
+2023-08-14T17:30:00Z,1,cádiz cf,alavés,1,0,1,0,1,cádiz cf,alavés,isidro díaz de mera
+2023-08-14T19:30:00Z,1,atleti,granada,3,1,1,0,2,atleti,granada,juan pulido santana
+2023-08-18T17:30:00Z,2,mallorca,villarreal,0,1,0,0,1,villarreal,mallorca,javier alberola rojas
+2023-08-18T19:30:00Z,2,valencia,las palmas,1,0,0,0,1,valencia,las palmas,javier iglesias villanueva
+2023-08-19T15:00:00Z,2,real sociedad,celta,1,1,1,0,0,draw,draw,miguel ortiz arias
+2023-08-19T17:30:00Z,2,almería,real madrid,1,3,1,1,2,real madrid,almería,josé sánchez martínez
+2023-08-19T19:30:00Z,2,osasuna,athletic,0,2,0,2,2,athletic,osasuna,josé munuera montero
+2023-08-20T17:00:00Z,2,girona,getafe,3,0,1,0,3,girona,getafe,jorge figueroa vázquez
+2023-08-20T17:30:00Z,2,barça,cádiz cf,2,0,0,0,2,barça,cádiz cf,alejandro muñiz ruiz
+2023-08-20T19:30:00Z,2,real betis,atleti,0,0,0,0,0,draw,draw,ricardo de burgos
+2023-08-21T17:00:00Z,2,alavés,sevilla fc,4,3,2,2,1,alavés,sevilla fc,guillermo cuadra fernández
+2023-08-21T19:30:00Z,2,granada,rayo vallecano,0,2,0,0,2,rayo vallecano,granada,pablo gonzález fuertes
+2023-08-25T17:30:00Z,3,las palmas,real sociedad,0,0,0,0,0,draw,draw,guillermo cuadra fernández
+2023-08-25T19:30:00Z,3,celta,real madrid,0,1,0,0,1,real madrid,celta,isidro díaz de mera
+2023-08-26T17:00:00Z,3,cádiz cf,almería,1,1,0,0,0,draw,draw,víctor garcía verdura
+2023-08-26T17:30:00Z,3,granada,mallorca,3,2,1,1,1,granada,mallorca,francisco hernández maeso
+2023-08-26T19:30:00Z,3,sevilla fc,girona,1,2,1,1,1,girona,sevilla fc,jesús gil manzano
+2023-08-27T15:30:00Z,3,villarreal,barça,3,4,2,2,1,barça,villarreal,alejandro hernández hernández
+2023-08-27T17:30:00Z,3,valencia,osasuna,1,2,0,1,1,osasuna,valencia,juan pulido santana
+2023-08-27T19:30:00Z,3,athletic,real betis,4,2,3,2,2,athletic,real betis,césar soto grado
+2023-08-28T17:30:00Z,3,getafe,alavés,1,0,0,0,1,getafe,alavés,juan martínez munuera
+2023-08-28T19:30:00Z,3,rayo vallecano,atleti,0,7,0,3,7,atleti,rayo vallecano,josé munuera montero
+2023-09-01T17:30:00Z,4,cádiz cf,villarreal,3,1,2,1,2,cádiz cf,villarreal,juan pulido santana
+2023-09-01T20:00:00Z,4,almería,celta,2,3,0,2,1,celta,almería,ricardo de burgos
+2023-09-02T12:00:00Z,4,real sociedad,granada,5,3,2,1,2,real sociedad,granada,javier iglesias villanueva
+2023-09-02T14:15:00Z,4,real madrid,getafe,2,1,0,1,1,real madrid,getafe,mario melero lópez
+2023-09-02T16:30:00Z,4,alavés,valencia,1,0,1,0,1,alavés,valencia,pablo gonzález fuertes
+2023-09-02T19:00:00Z,4,real betis,rayo vallecano,1,0,0,0,1,real betis,rayo vallecano,alejandro muñiz ruiz
+2023-09-03T12:00:00Z,4,girona,las palmas,1,0,0,0,1,girona,las palmas,mateo busquets ferrer
+2023-09-03T14:15:00Z,4,mallorca,athletic,0,0,0,0,0,draw,draw,jorge figueroa vázquez
+2023-09-03T19:00:00Z,4,osasuna,barça,1,2,0,1,1,barça,osasuna,miguel ortiz arias
+2023-09-15T19:00:00Z,5,rayo vallecano,alavés,2,0,1,0,2,rayo vallecano,alavés,víctor garcía verdura
+2023-09-16T12:00:00Z,5,athletic,cádiz cf,3,0,0,0,3,athletic,cádiz cf,guillermo cuadra fernández
+2023-09-16T14:15:00Z,5,valencia,atleti,3,0,2,0,3,valencia,atleti,jesús gil manzano
+2023-09-16T16:30:00Z,5,celta,mallorca,0,1,0,0,1,mallorca,celta,josé munuera montero
+2023-09-16T19:00:00Z,5,barça,real betis,5,0,2,0,5,barça,real betis,josé sánchez martínez
+2023-09-17T12:00:00Z,5,getafe,osasuna,3,2,1,1,1,getafe,osasuna,alejandro hernández hernández
+2023-09-17T14:15:00Z,5,villarreal,almería,2,1,1,1,1,villarreal,almería,francisco hernández maeso
+2023-09-17T16:30:00Z,5,sevilla fc,las palmas,1,0,0,0,1,sevilla fc,las palmas,juan martínez munuera
+2023-09-17T19:00:00Z,5,real madrid,real sociedad,2,1,0,1,1,real madrid,real sociedad,césar soto grado
+2023-09-18T19:00:00Z,5,granada,girona,2,4,0,3,2,girona,granada,isidro díaz de mera
+2023-09-22T19:00:00Z,6,alavés,athletic,0,2,0,1,2,athletic,alavés,alejandro muñiz ruiz
+2023-09-23T12:00:00Z,6,girona,mallorca,5,3,4,1,2,girona,mallorca,pablo gonzález fuertes
+2023-09-23T14:15:00Z,6,osasuna,sevilla fc,0,0,0,0,0,draw,draw,javier iglesias villanueva
+2023-09-23T16:30:00Z,6,barça,celta,3,2,0,1,1,barça,celta,mario melero lópez
+2023-09-23T19:00:00Z,6,almería,valencia,2,2,0,1,0,draw,draw,mateo busquets ferrer
+2023-09-24T12:00:00Z,6,real sociedad,getafe,4,3,1,2,1,real sociedad,getafe,juan pulido santana
+2023-09-24T14:15:00Z,6,rayo vallecano,villarreal,1,1,1,1,0,draw,draw,jorge figueroa vázquez
+2023-09-24T16:30:00Z,6,las palmas,granada,1,0,0,0,1,las palmas,granada,ricardo de burgos
+2023-09-24T16:30:00Z,6,real betis,cádiz cf,1,1,0,1,0,draw,draw,miguel ortiz arias
+2023-09-24T19:00:00Z,6,atleti,real madrid,3,1,2,1,2,atleti,real madrid,javier alberola rojas
+2023-09-26T17:00:00Z,7,sevilla fc,almería,5,1,3,0,4,sevilla fc,almería,guillermo cuadra fernández
+2023-09-26T19:30:00Z,7,mallorca,barça,2,2,2,1,0,draw,draw,alejandro muñiz ruiz
+2023-09-27T17:00:00Z,7,athletic,getafe,2,2,1,0,0,draw,draw,isidro díaz de mera
+2023-09-27T17:00:00Z,7,villarreal,girona,1,2,0,0,1,girona,villarreal,josé sánchez martínez
+2023-09-27T17:00:00Z,7,real madrid,las palmas,2,0,1,0,2,real madrid,las palmas,josé munuera montero
+2023-09-27T19:30:00Z,7,cádiz cf,rayo vallecano,0,0,0,0,0,draw,draw,francisco hernández maeso
+2023-09-27T19:30:00Z,7,valencia,real sociedad,0,1,0,1,1,real sociedad,valencia,alejandro hernández hernández
+2023-09-28T17:00:00Z,7,celta,alavés,1,1,1,0,0,draw,draw,césar soto grado
+2023-09-28T17:00:00Z,7,granada,real betis,1,1,0,0,0,draw,draw,víctor garcía verdura
+2023-09-28T19:30:00Z,7,osasuna,atleti,0,2,0,1,2,atleti,osasuna,juan martínez munuera
+2023-09-29T19:00:00Z,8,barça,sevilla fc,1,0,0,0,1,barça,sevilla fc,miguel ortiz arias
+2023-09-30T12:00:00Z,8,getafe,villarreal,0,0,0,0,0,draw,draw,mateo busquets ferrer
+2023-09-30T14:15:00Z,8,rayo vallecano,mallorca,2,2,1,1,0,draw,draw,mario melero lópez
+2023-09-30T16:30:00Z,8,girona,real madrid,0,3,0,2,3,real madrid,girona,juan pulido santana
+2023-09-30T19:00:00Z,8,real sociedad,athletic,3,0,1,0,3,real sociedad,athletic,jesús gil manzano
+2023-10-01T12:00:00Z,8,almería,granada,3,3,3,0,0,draw,draw,pablo gonzález fuertes
+2023-10-01T14:15:00Z,8,alavés,osasuna,0,2,0,1,2,osasuna,alavés,jorge figueroa vázquez
+2023-10-01T19:00:00Z,8,atleti,cádiz cf,3,2,1,2,1,atleti,cádiz cf,javier iglesias villanueva
+2023-10-01T19:00:00Z,8,real betis,valencia,3,0,1,0,3,real betis,valencia,ricardo de burgos
+2023-10-02T19:00:00Z,8,las palmas,celta,2,1,0,0,1,las palmas,celta,javier alberola rojas
+2023-10-06T19:00:00Z,9,athletic,almería,3,0,1,0,3,athletic,almería,víctor garcía verdura
+2023-10-07T12:00:00Z,9,cádiz cf,girona,0,1,0,0,1,girona,cádiz cf,juan martínez munuera
+2023-10-07T14:15:00Z,9,real madrid,osasuna,4,0,1,0,4,real madrid,osasuna,guillermo cuadra fernández
+2023-10-07T16:30:00Z,9,mallorca,valencia,1,1,1,1,0,draw,draw,francisco hernández maeso
+2023-10-07T19:00:00Z,9,sevilla fc,rayo vallecano,2,2,0,2,0,draw,draw,isidro díaz de mera
+2023-10-08T12:00:00Z,9,villarreal,las palmas,1,2,0,1,1,las palmas,villarreal,alejandro muñiz ruiz
+2023-10-08T14:15:00Z,9,atleti,real sociedad,2,1,1,0,1,atleti,real sociedad,josé munuera montero
+2023-10-08T16:30:00Z,9,celta,getafe,2,2,2,2,0,draw,draw,josé sánchez martínez
+2023-10-08T16:30:00Z,9,alavés,real betis,1,1,1,1,0,draw,draw,alejandro hernández hernández
+2023-10-08T19:00:00Z,9,granada,barça,2,2,2,1,0,draw,draw,césar soto grado
+2023-10-20T19:00:00Z,10,osasuna,granada,2,0,1,0,2,osasuna,granada,mateo busquets ferrer
+2023-10-21T12:00:00Z,10,real sociedad,mallorca,1,0,0,0,1,real sociedad,mallorca,jorge figueroa vázquez
+2023-10-21T14:15:00Z,10,getafe,real betis,1,1,1,1,0,draw,draw,césar soto grado
+2023-10-21T16:30:00Z,10,sevilla fc,real madrid,1,1,0,0,0,draw,draw,ricardo de burgos
+2023-10-21T19:00:00Z,10,celta,atleti,0,3,0,1,3,atleti,celta,guillermo cuadra fernández
+2023-10-22T12:00:00Z,10,las palmas,rayo vallecano,0,1,0,0,1,rayo vallecano,las palmas,javier iglesias villanueva
+2023-10-22T14:15:00Z,10,girona,almería,5,2,3,2,3,girona,almería,miguel ortiz arias
+2023-10-22T16:30:00Z,10,villarreal,alavés,1,1,0,0,0,draw,draw,jesús gil manzano
+2023-10-22T19:00:00Z,10,barça,athletic,1,0,0,0,1,barça,athletic,juan martínez munuera
+2023-10-23T19:00:00Z,10,valencia,cádiz cf,2,0,2,0,2,valencia,cádiz cf,pablo gonzález fuertes
+2023-10-27T19:00:00Z,11,girona,celta,1,0,0,0,1,girona,celta,isidro díaz de mera
+2023-10-28T12:00:00Z,11,almería,las palmas,1,2,0,1,1,las palmas,almería,francisco hernández maeso
+2023-10-28T14:15:00Z,11,barça,real madrid,1,2,1,0,1,real madrid,barça,jesús gil manzano
+2023-10-28T16:30:00Z,11,mallorca,getafe,0,0,0,0,0,draw,draw,pablo gonzález fuertes
+2023-10-28T19:00:00Z,11,cádiz cf,sevilla fc,2,2,2,1,0,draw,draw,césar soto grado
+2023-10-29T13:00:00Z,11,real betis,osasuna,2,1,1,0,1,real betis,osasuna,josé sánchez martínez
+2023-10-29T15:15:00Z,11,rayo vallecano,real sociedad,2,2,1,1,0,draw,draw,mateo busquets ferrer
+2023-10-29T17:30:00Z,11,athletic,valencia,2,2,1,0,0,draw,draw,jorge figueroa vázquez
+2023-10-29T20:00:00Z,11,atleti,alavés,2,1,2,0,1,atleti,alavés,alejandro muñiz ruiz
+2023-10-30T20:00:00Z,11,granada,villarreal,2,3,2,3,1,villarreal,granada,javier iglesias villanueva
+2023-11-03T20:00:00Z,12,las palmas,atleti,2,1,0,0,1,las palmas,atleti,mario melero lópez
+2023-11-04T13:00:00Z,12,osasuna,girona,2,4,1,1,2,girona,osasuna,josé munuera montero
+2023-11-04T15:15:00Z,12,real betis,mallorca,2,0,1,0,2,real betis,mallorca,miguel ortiz arias
+2023-11-04T17:30:00Z,12,celta,sevilla fc,1,1,1,0,0,draw,draw,alejandro hernández hernández
+2023-11-04T20:00:00Z,12,real sociedad,barça,0,1,0,0,1,barça,real sociedad,javier alberola rojas
+2023-11-05T13:00:00Z,12,alavés,almería,1,0,0,0,1,alavés,almería,juan pulido santana
+2023-11-05T15:15:00Z,12,valencia,granada,1,0,1,0,1,valencia,granada,víctor garcía verdura
+2023-11-05T17:30:00Z,12,villarreal,athletic,2,3,0,3,1,athletic,villarreal,guillermo cuadra fernández
+2023-11-05T20:00:00Z,12,real madrid,rayo vallecano,0,0,0,0,0,draw,draw,juan martínez munuera
+2023-11-06T20:00:00Z,12,getafe,cádiz cf,1,0,0,0,1,getafe,cádiz cf,ricardo de burgos
+2023-11-10T20:00:00Z,13,athletic,celta,4,3,2,2,1,athletic,celta,juan pulido santana
+2023-11-11T13:00:00Z,13,rayo vallecano,girona,1,2,1,1,1,girona,rayo vallecano,pablo gonzález fuertes
+2023-11-11T15:15:00Z,13,almería,real sociedad,1,3,0,0,2,real sociedad,almería,isidro díaz de mera
+2023-11-11T17:30:00Z,13,osasuna,las palmas,1,1,0,0,0,draw,draw,jorge figueroa vázquez
+2023-11-11T17:30:00Z,13,granada,getafe,1,1,1,1,0,draw,draw,alejandro muñiz ruiz
+2023-11-11T20:00:00Z,13,real madrid,valencia,5,1,2,0,4,real madrid,valencia,josé sánchez martínez
+2023-11-12T15:15:00Z,13,barça,alavés,2,1,0,1,1,barça,alavés,mateo busquets ferrer
+2023-11-12T17:30:00Z,13,sevilla fc,real betis,1,1,0,0,0,draw,draw,jesús gil manzano
+2023-11-12T20:00:00Z,13,atleti,villarreal,3,1,1,1,2,atleti,villarreal,francisco hernández maeso
+2023-11-24T20:00:00Z,14,alavés,granada,3,1,2,0,2,alavés,granada,javier alberola rojas
+2023-11-25T13:00:00Z,14,rayo vallecano,barça,1,1,1,0,0,draw,draw,josé munuera montero
+2023-11-25T15:15:00Z,14,valencia,celta,0,0,0,0,0,draw,draw,césar soto grado
+2023-11-25T17:30:00Z,14,getafe,almería,2,1,2,1,1,getafe,almería,alejandro hernández hernández
+2023-11-25T20:00:00Z,14,atleti,mallorca,1,0,0,0,1,atleti,mallorca,juan martínez munuera
+2023-11-26T13:00:00Z,14,villarreal,osasuna,3,1,0,0,2,villarreal,osasuna,ricardo de burgos
+2023-11-26T15:15:00Z,14,real sociedad,sevilla fc,2,1,2,0,1,real sociedad,sevilla fc,miguel ortiz arias
+2023-11-26T17:30:00Z,14,cádiz cf,real madrid,0,3,0,1,3,real madrid,cádiz cf,guillermo cuadra fernández
+2023-11-26T20:00:00Z,14,real betis,las palmas,1,0,1,0,1,real betis,las palmas,víctor garcía verdura
+2023-11-27T20:00:00Z,14,girona,athletic,1,1,0,0,0,draw,draw,mario melero lópez
+2023-11-29T20:00:00Z,13,mallorca,cádiz cf,1,1,1,1,0,draw,draw,javier iglesias villanueva
+2023-12-01T20:00:00Z,15,las palmas,getafe,2,0,1,0,2,las palmas,getafe,mateo busquets ferrer
+2023-12-02T13:00:00Z,15,girona,valencia,2,1,0,0,1,girona,valencia,javier iglesias villanueva
+2023-12-02T15:15:00Z,15,athletic,rayo vallecano,4,0,1,0,4,athletic,rayo vallecano,francisco hernández maeso
+2023-12-02T17:30:00Z,15,real madrid,granada,2,0,1,0,2,real madrid,granada,pablo gonzález fuertes
+2023-12-02T20:00:00Z,15,osasuna,real sociedad,1,1,1,1,0,draw,draw,juan pulido santana
+2023-12-03T13:00:00Z,15,mallorca,alavés,0,0,0,0,0,draw,draw,jorge figueroa vázquez
+2023-12-03T15:15:00Z,15,almería,real betis,0,0,0,0,0,draw,draw,alejandro muñiz ruiz
+2023-12-03T17:30:00Z,15,sevilla fc,villarreal,1,1,0,0,0,draw,draw,isidro díaz de mera
+2023-12-03T20:00:00Z,15,barça,atleti,1,0,1,0,1,barça,atleti,josé sánchez martínez
+2023-12-04T20:00:00Z,15,celta,cádiz cf,1,1,0,1,0,draw,draw,jesús gil manzano
+2023-12-08T20:00:00Z,16,getafe,valencia,1,0,0,0,1,getafe,valencia,guillermo cuadra fernández
+2023-12-09T13:00:00Z,16,alavés,las palmas,0,1,0,1,1,las palmas,alavés,josé munuera montero
+2023-12-09T15:15:00Z,16,real betis,real madrid,1,1,0,0,0,draw,draw,césar soto grado
+2023-12-09T17:30:00Z,16,villarreal,real sociedad,0,3,0,3,3,real sociedad,villarreal,mario melero lópez
+2023-12-09T20:00:00Z,16,mallorca,sevilla fc,1,0,1,0,1,mallorca,sevilla fc,javier alberola rojas
+2023-12-10T13:00:00Z,16,atleti,almería,2,1,2,0,1,atleti,almería,ricardo de burgos
+2023-12-10T17:30:00Z,16,cádiz cf,osasuna,1,1,1,0,0,draw,draw,juan martínez munuera
+2023-12-10T20:00:00Z,16,barça,girona,2,4,1,2,2,girona,barça,isidro díaz de mera
+2023-12-11T20:00:00Z,16,granada,athletic,1,1,0,1,0,draw,draw,miguel ortiz arias
+2023-12-11T20:00:00Z,16,rayo vallecano,celta,0,0,0,0,0,draw,draw,víctor garcía verdura
+2023-12-15T20:00:00Z,17,osasuna,rayo vallecano,1,0,0,0,1,osasuna,rayo vallecano,javier iglesias villanueva
+2023-12-16T13:00:00Z,17,celta,granada,1,0,1,0,1,celta,granada,josé sánchez martínez
+2023-12-16T15:15:00Z,17,athletic,atleti,2,0,0,0,2,athletic,atleti,jesús gil manzano
+2023-12-16T17:30:00Z,17,sevilla fc,getafe,0,3,0,2,3,getafe,sevilla fc,juan pulido santana
+2023-12-16T20:00:00Z,17,valencia,barça,1,1,0,0,0,draw,draw,miguel ortiz arias
+2023-12-17T13:00:00Z,17,almería,mallorca,0,0,0,0,0,draw,draw,pablo gonzález fuertes
+2023-12-17T15:15:00Z,17,real sociedad,real betis,0,0,0,0,0,draw,draw,mateo busquets ferrer
+2023-12-17T17:30:00Z,17,las palmas,cádiz cf,1,1,1,0,0,draw,draw,alejandro muñiz ruiz
+2023-12-17T20:00:00Z,17,real madrid,villarreal,4,1,2,0,3,real madrid,villarreal,jorge figueroa vázquez
+2023-12-18T20:00:00Z,17,girona,alavés,3,0,2,0,3,girona,alavés,francisco hernández maeso
+2023-12-19T18:00:00Z,18,rayo vallecano,valencia,0,1,0,0,1,valencia,rayo vallecano,javier alberola rojas
+2023-12-19T20:30:00Z,18,atleti,getafe,3,3,1,0,0,draw,draw,josé munuera montero
+2023-12-19T20:30:00Z,18,granada,sevilla fc,0,3,0,2,3,sevilla fc,granada,mateo busquets ferrer
+2023-12-20T18:00:00Z,18,barça,almería,3,2,1,1,1,barça,almería,guillermo cuadra fernández
+2023-12-20T20:30:00Z,18,athletic,las palmas,1,0,0,0,1,athletic,las palmas,juan martínez munuera
+2023-12-20T20:30:00Z,18,villarreal,celta,3,2,2,0,1,villarreal,celta,césar soto grado
+2023-12-21T18:00:00Z,18,real betis,girona,1,1,0,1,0,draw,draw,ricardo de burgos
+2023-12-21T18:00:00Z,18,cádiz cf,real sociedad,0,0,0,0,0,draw,draw,javier iglesias villanueva
+2023-12-21T20:30:00Z,18,alavés,real madrid,0,1,0,0,1,real madrid,alavés,isidro díaz de mera
+2023-12-21T20:30:00Z,18,mallorca,osasuna,3,2,1,1,1,mallorca,osasuna,mario melero lópez
+2023-12-23T15:15:00Z,4,atleti,sevilla fc,1,0,0,0,1,atleti,sevilla fc,unknown
+2024-01-02T16:00:00Z,19,getafe,rayo vallecano,0,2,0,1,2,rayo vallecano,getafe,jorge figueroa vázquez
+2024-01-02T18:15:00Z,19,real sociedad,alavés,1,1,0,0,0,draw,draw,víctor garcía verdura
+2024-01-02T20:30:00Z,19,valencia,villarreal,3,1,2,0,2,valencia,villarreal,jesús gil manzano
+2024-01-03T16:00:00Z,19,granada,cádiz cf,2,0,1,0,2,granada,cádiz cf,juan pulido santana
+2024-01-03T18:15:00Z,19,celta,real betis,2,1,1,1,1,celta,real betis,miguel ortiz arias
+2024-01-03T18:15:00Z,19,real madrid,mallorca,1,0,0,0,1,real madrid,mallorca,alejandro muñiz ruiz
+2024-01-03T20:30:00Z,19,girona,atleti,4,3,3,2,1,girona,atleti,alejandro hernández hernández
+2024-01-04T16:00:00Z,19,osasuna,almería,1,0,1,0,1,osasuna,almería,césar soto grado
+2024-01-04T18:15:00Z,19,sevilla fc,athletic,0,2,0,1,2,athletic,sevilla fc,josé sánchez martínez
+2024-01-04T20:30:00Z,19,las palmas,barça,1,2,1,0,1,barça,las palmas,pablo gonzález fuertes
+2024-01-12T20:00:00Z,20,sevilla fc,alavés,2,3,0,2,1,alavés,sevilla fc,alejandro hernández hernández
+2024-01-13T13:00:00Z,20,las palmas,villarreal,3,0,1,0,3,las palmas,villarreal,javier iglesias villanueva
+2024-01-13T15:15:00Z,20,mallorca,celta,1,1,1,1,0,draw,draw,víctor garcía verdura
+2024-01-13T17:30:00Z,20,athletic,real sociedad,2,1,2,0,1,athletic,real sociedad,josé munuera montero
+2024-01-13T20:00:00Z,20,real betis,granada,1,0,0,0,1,real betis,granada,guillermo cuadra fernández
+2024-01-14T13:00:00Z,20,almería,girona,0,0,0,0,0,draw,draw,mateo busquets ferrer
+2024-01-14T15:15:00Z,20,cádiz cf,valencia,1,4,1,1,3,valencia,cádiz cf,isidro díaz de mera
+2024-01-19T20:00:00Z,21,alavés,cádiz cf,1,0,0,0,1,alavés,cádiz cf,alejandro muñiz ruiz
+2024-01-20T13:00:00Z,21,rayo vallecano,las palmas,0,2,0,1,2,las palmas,rayo vallecano,mario melero lópez
+2024-01-20T15:15:00Z,21,villarreal,mallorca,1,1,1,0,0,draw,draw,miguel ortiz arias
+2024-01-20T17:30:00Z,21,valencia,athletic,1,0,0,0,1,valencia,athletic,juan pulido santana
+2024-01-20T20:00:00Z,21,celta,real sociedad,0,1,0,1,1,real sociedad,celta,jorge figueroa vázquez
+2024-01-21T13:00:00Z,21,osasuna,getafe,3,2,2,0,1,osasuna,getafe,josé sánchez martínez
+2024-01-21T15:15:00Z,21,real madrid,almería,3,2,0,2,1,real madrid,almería,francisco hernández maeso
+2024-01-21T17:30:00Z,21,real betis,barça,2,4,0,1,2,barça,real betis,jesús gil manzano
+2024-01-21T20:00:00Z,21,girona,sevilla fc,5,1,3,1,4,girona,sevilla fc,pablo gonzález fuertes
+2024-01-22T20:00:00Z,21,granada,atleti,0,1,0,0,1,atleti,granada,juan martínez munuera
+2024-01-26T20:00:00Z,22,almería,alavés,0,3,0,1,3,alavés,almería,miguel ortiz arias
+2024-01-27T13:00:00Z,22,real sociedad,rayo vallecano,0,0,0,0,0,draw,draw,alejandro hernández hernández
+2024-01-27T15:15:00Z,22,las palmas,real madrid,1,2,0,0,1,real madrid,las palmas,césar soto grado
+2024-01-27T17:30:00Z,22,barça,villarreal,3,5,0,1,2,villarreal,barça,josé munuera montero
+2024-01-27T20:00:00Z,22,mallorca,real betis,0,1,0,1,1,real betis,mallorca,javier iglesias villanueva
+2024-01-28T13:00:00Z,22,celta,girona,0,1,0,1,1,girona,celta,mario melero lópez
+2024-01-28T15:15:00Z,22,cádiz cf,athletic,0,0,0,0,0,draw,draw,mateo busquets ferrer
+2024-01-28T17:30:00Z,22,sevilla fc,osasuna,1,1,1,0,0,draw,draw,guillermo cuadra fernández
+2024-01-28T20:00:00Z,22,atleti,valencia,2,0,1,0,2,atleti,valencia,ricardo de burgos
+2024-01-29T20:00:00Z,22,getafe,granada,2,0,2,0,2,getafe,granada,víctor garcía verdura
+2024-01-31T18:00:00Z,20,barça,osasuna,1,0,0,0,1,barça,osasuna,jorge figueroa vázquez
+2024-01-31T20:00:00Z,20,atleti,rayo vallecano,2,1,1,1,1,atleti,rayo vallecano,césar soto grado
+2024-02-01T20:00:00Z,20,getafe,real madrid,0,2,0,1,2,real madrid,getafe,ricardo de burgos
+2024-02-02T20:00:00Z,23,athletic,mallorca,4,0,2,0,4,athletic,mallorca,jorge figueroa vázquez
+2024-02-03T13:00:00Z,23,valencia,almería,2,1,2,0,1,valencia,almería,alejandro muñiz ruiz
+2024-02-03T15:15:00Z,23,granada,las palmas,1,1,1,0,0,draw,draw,mateo busquets ferrer
+2024-02-03T17:30:00Z,23,alavés,barça,1,3,0,1,2,barça,alavés,juan martínez munuera
+2024-02-03T20:00:00Z,23,girona,real sociedad,0,0,0,0,0,draw,draw,jesús gil manzano
+2024-02-04T13:00:00Z,23,villarreal,cádiz cf,0,0,0,0,0,draw,draw,pablo gonzález fuertes
+2024-02-04T15:15:00Z,23,osasuna,celta,0,3,0,2,3,celta,osasuna,javier alberola rojas
+2024-02-04T17:30:00Z,23,real betis,getafe,1,1,1,1,0,draw,draw,juan pulido santana
+2024-02-04T20:00:00Z,23,real madrid,atleti,1,1,1,0,0,draw,draw,josé sánchez martínez
+2024-02-05T20:00:00Z,23,rayo vallecano,sevilla fc,1,2,1,2,1,sevilla fc,rayo vallecano,francisco hernández maeso
+2024-02-09T20:00:00Z,24,cádiz cf,real betis,0,2,0,1,2,real betis,cádiz cf,ricardo de burgos
+2024-02-10T13:00:00Z,24,alavés,villarreal,1,1,1,1,0,draw,draw,mario melero lópez
+2024-02-10T15:15:00Z,24,real sociedad,osasuna,0,1,0,0,1,osasuna,real sociedad,isidro díaz de mera
+2024-02-10T17:30:00Z,24,real madrid,girona,4,0,2,0,4,real madrid,girona,juan martínez munuera
+2024-02-10T20:00:00Z,24,las palmas,valencia,2,0,0,0,2,las palmas,valencia,guillermo cuadra fernández
+2024-02-11T13:00:00Z,24,getafe,celta,3,2,2,0,1,getafe,celta,alejandro hernández hernández
+2024-02-11T15:15:00Z,24,mallorca,rayo vallecano,2,1,0,0,1,mallorca,rayo vallecano,josé munuera montero
+2024-02-11T17:30:00Z,24,sevilla fc,atleti,1,0,1,0,1,sevilla fc,atleti,javier iglesias villanueva
+2024-02-11T20:00:00Z,24,barça,granada,3,3,1,1,0,draw,draw,miguel ortiz arias
+2024-02-12T20:00:00Z,24,almería,athletic,0,0,0,0,0,draw,draw,víctor garcía verdura
+2024-02-16T20:00:00Z,25,villarreal,getafe,1,1,0,1,0,draw,draw,javier alberola rojas
+2024-02-17T13:00:00Z,25,atleti,las palmas,5,0,2,0,5,atleti,las palmas,jorge figueroa vázquez
+2024-02-17T15:15:00Z,25,osasuna,cádiz cf,2,0,0,0,2,osasuna,cádiz cf,francisco hernández maeso
+2024-02-17T17:30:00Z,25,celta,barça,1,2,0,1,1,barça,celta,juan pulido santana
+2024-02-17T20:00:00Z,25,valencia,sevilla fc,0,0,0,0,0,draw,draw,césar soto grado
+2024-02-18T13:00:00Z,25,rayo vallecano,real madrid,1,1,1,1,0,draw,draw,alejandro muñiz ruiz
+2024-02-18T15:15:00Z,25,granada,almería,1,1,0,1,0,draw,draw,jesús gil manzano
+2024-02-18T17:30:00Z,25,mallorca,real sociedad,1,2,1,1,1,real sociedad,mallorca,pablo gonzález fuertes
+2024-02-18T20:00:00Z,25,real betis,alavés,0,0,0,0,0,draw,draw,mateo busquets ferrer
+2024-02-19T20:00:00Z,25,athletic,girona,3,2,1,0,1,athletic,girona,josé sánchez martínez
+2024-02-23T20:00:00Z,26,real sociedad,villarreal,1,3,0,1,2,villarreal,real sociedad,javier iglesias villanueva
+2024-02-24T15:15:00Z,26,barça,getafe,4,0,1,0,4,barça,getafe,alejandro muñiz ruiz
+2024-02-24T17:30:00Z,26,alavés,mallorca,1,1,0,0,0,draw,draw,víctor garcía verdura
+2024-02-24T20:00:00Z,26,almería,atleti,2,2,1,1,0,draw,draw,javier alberola rojas
+2024-02-25T13:00:00Z,26,cádiz cf,celta,2,2,0,1,0,draw,draw,miguel ortiz arias
+2024-02-25T15:15:00Z,26,real betis,athletic,3,1,2,1,2,real betis,athletic,guillermo cuadra fernández
+2024-02-25T17:30:00Z,26,las palmas,osasuna,1,1,0,0,0,draw,draw,josé munuera montero
+2024-02-25T20:00:00Z,26,real madrid,sevilla fc,1,0,0,0,1,real madrid,sevilla fc,isidro díaz de mera
+2024-02-26T20:00:00Z,26,girona,rayo vallecano,3,0,0,0,3,girona,rayo vallecano,ricardo de burgos
+2024-03-01T20:00:00Z,27,celta,almería,1,0,0,0,1,celta,almería,josé sánchez martínez
+2024-03-02T13:00:00Z,27,sevilla fc,real sociedad,3,2,2,1,1,sevilla fc,real sociedad,mateo busquets ferrer
+2024-03-02T15:15:00Z,27,rayo vallecano,cádiz cf,1,1,0,0,0,draw,draw,javier alberola rojas
+2024-03-02T17:30:00Z,27,getafe,las palmas,3,3,3,1,0,draw,draw,pablo gonzález fuertes
+2024-03-02T20:00:00Z,27,valencia,real madrid,2,2,2,1,0,draw,draw,jesús gil manzano
+2024-03-03T13:00:00Z,27,villarreal,granada,5,1,3,0,4,villarreal,granada,juan pulido santana
+2024-03-03T15:15:00Z,27,atleti,real betis,2,1,2,0,1,atleti,real betis,césar soto grado
+2024-03-03T17:30:00Z,27,mallorca,girona,1,0,1,0,1,mallorca,girona,francisco hernández maeso
+2024-03-03T20:00:00Z,27,athletic,barça,0,0,0,0,0,draw,draw,alejandro hernández hernández
+2024-03-04T20:00:00Z,27,osasuna,alavés,1,0,0,0,1,osasuna,alavés,jorge figueroa vázquez
+2024-03-08T20:00:00Z,28,barça,mallorca,1,0,0,0,1,barça,mallorca,javier iglesias villanueva
+2024-03-09T13:00:00Z,28,valencia,getafe,1,0,1,0,1,valencia,getafe,juan pulido santana
+2024-03-09T15:15:00Z,28,cádiz cf,atleti,2,0,1,0,2,cádiz cf,atleti,pablo gonzález fuertes
+2024-03-09T17:30:00Z,28,granada,real sociedad,2,3,2,1,1,real sociedad,granada,juan martínez munuera
+2024-03-09T20:00:00Z,28,girona,osasuna,2,0,1,0,2,girona,osasuna,mateo busquets ferrer
+2024-03-10T13:00:00Z,28,alavés,rayo vallecano,1,0,1,0,1,alavés,rayo vallecano,josé munuera montero
+2024-03-10T15:15:00Z,28,las palmas,athletic,0,2,0,1,2,athletic,las palmas,miguel ortiz arias
+2024-03-10T17:30:00Z,28,real madrid,celta,4,0,1,0,4,real madrid,celta,mario melero lópez
+2024-03-10T20:00:00Z,28,real betis,villarreal,2,3,2,1,1,villarreal,real betis,alejandro hernández hernández
+2024-03-11T20:00:00Z,28,almería,sevilla fc,2,2,1,0,0,draw,draw,ricardo de burgos
+2024-03-15T20:00:00Z,29,real sociedad,cádiz cf,2,0,1,0,2,real sociedad,cádiz cf,césar soto grado
+2024-03-16T13:00:00Z,29,mallorca,granada,1,0,0,0,1,mallorca,granada,ricardo de burgos
+2024-03-16T15:15:00Z,29,osasuna,real madrid,2,4,1,2,2,real madrid,osasuna,juan martínez munuera
+2024-03-16T17:30:00Z,29,getafe,girona,1,0,1,0,1,getafe,girona,josé munuera montero
+2024-03-16T20:00:00Z,29,athletic,alavés,2,0,2,0,2,athletic,alavés,alejandro muñiz ruiz
+2024-03-17T13:00:00Z,29,sevilla fc,celta,1,2,1,0,1,celta,sevilla fc,francisco hernández maeso
+2024-03-17T15:15:00Z,29,villarreal,valencia,1,0,0,0,1,villarreal,valencia,jorge figueroa vázquez
+2024-03-17T15:15:00Z,29,las palmas,almería,0,1,0,1,1,almería,las palmas,víctor garcía verdura
+2024-03-17T17:30:00Z,29,rayo vallecano,real betis,2,0,1,0,2,rayo vallecano,real betis,juan pulido santana
+2024-03-17T20:00:00Z,29,atleti,barça,0,3,0,1,3,barça,atleti,josé sánchez martínez
+2024-03-29T20:00:00Z,30,cádiz cf,granada,1,0,0,0,1,cádiz cf,granada,guillermo cuadra fernández
+2024-03-30T13:00:00Z,30,getafe,sevilla fc,0,1,0,1,1,sevilla fc,getafe,javier iglesias villanueva
+2024-03-30T15:15:00Z,30,almería,osasuna,0,3,0,2,3,osasuna,almería,pablo gonzález fuertes
+2024-03-30T17:30:00Z,30,valencia,mallorca,0,0,0,0,0,draw,draw,miguel ortiz arias
+2024-03-30T20:00:00Z,30,barça,las palmas,1,0,0,0,1,barça,las palmas,mateo busquets ferrer
+2024-03-31T12:00:00Z,30,celta,rayo vallecano,0,0,0,0,0,draw,draw,alejandro hernández hernández
+2024-03-31T14:15:00Z,30,girona,real betis,3,2,1,1,1,girona,real betis,jesús gil manzano
+2024-03-31T16:30:00Z,30,alavés,real sociedad,0,1,0,0,1,real sociedad,alavés,francisco hernández maeso
+2024-03-31T19:00:00Z,30,real madrid,athletic,2,0,1,0,2,real madrid,athletic,javier alberola rojas
+2024-04-01T19:00:00Z,30,villarreal,atleti,1,2,0,1,1,atleti,villarreal,mario melero lópez
+2024-04-04T18:00:00Z,26,granada,valencia,0,1,0,0,1,valencia,granada,alejandro hernández hernández
+2024-04-12T19:00:00Z,31,real betis,celta,2,1,0,0,1,real betis,celta,juan martínez munuera
+2024-04-13T12:00:00Z,31,atleti,girona,3,1,2,1,2,atleti,girona,ricardo de burgos
+2024-04-13T14:15:00Z,31,rayo vallecano,getafe,0,0,0,0,0,draw,draw,jorge figueroa vázquez
+2024-04-13T16:30:00Z,31,mallorca,real madrid,0,1,0,0,1,real madrid,mallorca,josé sánchez martínez
+2024-04-13T19:00:00Z,31,cádiz cf,barça,0,1,0,1,1,barça,cádiz cf,juan pulido santana
+2024-04-14T12:00:00Z,31,las palmas,sevilla fc,0,2,0,1,2,sevilla fc,las palmas,alejandro muñiz ruiz
+2024-04-14T14:15:00Z,31,granada,alavés,2,0,2,0,2,granada,alavés,víctor garcía verdura
+2024-04-14T16:30:00Z,31,athletic,villarreal,1,1,0,0,0,draw,draw,guillermo cuadra fernández
+2024-04-14T19:00:00Z,31,real sociedad,almería,2,2,1,1,0,draw,draw,isidro díaz de mera
+2024-04-15T19:00:00Z,31,osasuna,valencia,0,1,0,1,1,valencia,osasuna,josé munuera montero
+2024-04-19T19:00:00Z,32,athletic,granada,1,1,1,1,0,draw,draw,javier iglesias villanueva
+2024-04-20T12:00:00Z,32,celta,las palmas,4,1,2,1,3,celta,las palmas,francisco hernández maeso
+2024-04-20T14:15:00Z,32,rayo vallecano,osasuna,2,1,0,1,1,rayo vallecano,osasuna,mario melero lópez
+2024-04-20T16:30:00Z,32,valencia,real betis,1,2,0,1,1,real betis,valencia,mateo busquets ferrer
+2024-04-20T19:00:00Z,32,girona,cádiz cf,4,1,2,0,3,girona,cádiz cf,javier alberola rojas
+2024-04-21T12:00:00Z,32,getafe,real sociedad,1,1,1,1,0,draw,draw,víctor garcía verdura
+2024-04-21T14:15:00Z,32,almería,villarreal,1,2,1,1,1,villarreal,almería,miguel ortiz arias
+2024-04-21T16:30:00Z,32,alavés,atleti,2,0,1,0,2,alavés,atleti,jesús gil manzano
+2024-04-21T19:00:00Z,32,real madrid,barça,3,2,1,1,1,real madrid,barça,césar soto grado
+2024-04-22T19:00:00Z,32,sevilla fc,mallorca,2,1,0,0,1,sevilla fc,mallorca,alejandro hernández hernández
+2024-04-26T19:00:00Z,33,real sociedad,real madrid,0,1,0,1,1,real madrid,real sociedad,josé munuera montero
+2024-04-27T12:00:00Z,33,las palmas,girona,0,2,0,1,2,girona,las palmas,jorge figueroa vázquez
+2024-04-27T14:15:00Z,33,almería,getafe,1,3,1,1,2,getafe,almería,guillermo cuadra fernández
+2024-04-27T16:30:00Z,33,alavés,celta,3,0,0,0,3,alavés,celta,juan pulido santana
+2024-04-27T19:00:00Z,33,atleti,athletic,3,1,1,1,2,atleti,athletic,juan martínez munuera
+2024-04-28T12:00:00Z,33,cádiz cf,mallorca,1,1,0,1,0,draw,draw,isidro díaz de mera
+2024-04-28T14:15:00Z,33,granada,osasuna,3,0,1,0,3,granada,osasuna,alejandro muñiz ruiz
+2024-04-28T16:30:00Z,33,villarreal,rayo vallecano,3,0,1,0,3,villarreal,rayo vallecano,pablo gonzález fuertes
+2024-04-28T19:00:00Z,33,real betis,sevilla fc,1,1,1,0,0,draw,draw,josé sánchez martínez
+2024-04-29T19:00:00Z,33,barça,valencia,4,2,1,2,2,barça,valencia,ricardo de burgos
+2024-05-03T19:00:00Z,34,getafe,athletic,0,2,0,1,2,athletic,getafe,jesús gil manzano
+2024-05-04T12:00:00Z,34,real sociedad,las palmas,2,0,2,0,2,real sociedad,las palmas,miguel ortiz arias
+2024-05-04T14:15:00Z,34,real madrid,cádiz cf,3,0,0,0,3,real madrid,cádiz cf,javier iglesias villanueva
+2024-05-04T16:30:00Z,34,girona,barça,4,2,1,2,2,girona,barça,alejandro hernández hernández
+2024-05-04T19:00:00Z,34,mallorca,atleti,0,1,0,1,1,atleti,mallorca,javier alberola rojas
+2024-05-05T12:00:00Z,34,osasuna,real betis,0,2,0,2,2,real betis,osasuna,víctor garcía verdura
+2024-05-05T14:15:00Z,34,celta,villarreal,3,2,2,1,1,celta,villarreal,césar soto grado
+2024-05-05T16:30:00Z,34,valencia,alavés,0,1,0,0,1,alavés,valencia,mario melero lópez
+2024-05-05T19:00:00Z,34,sevilla fc,granada,3,0,1,0,3,sevilla fc,granada,mateo busquets ferrer
+2024-05-05T19:00:00Z,34,rayo vallecano,almería,0,1,0,1,1,almería,rayo vallecano,francisco hernández maeso
+2024-05-10T19:00:00Z,35,alavés,girona,2,2,1,2,0,draw,draw,josé munuera montero
+2024-05-11T12:00:00Z,35,mallorca,las palmas,1,0,1,0,1,mallorca,las palmas,juan martínez munuera
+2024-05-11T14:15:00Z,35,villarreal,sevilla fc,3,2,1,2,1,villarreal,sevilla fc,isidro díaz de mera
+2024-05-11T16:30:00Z,35,granada,real madrid,0,4,0,2,4,real madrid,granada,pablo gonzález fuertes
+2024-05-11T19:00:00Z,35,athletic,osasuna,2,2,0,1,0,draw,draw,josé sánchez martínez
+2024-05-12T12:00:00Z,35,cádiz cf,getafe,1,0,1,0,1,cádiz cf,getafe,ricardo de burgos
+2024-05-12T14:15:00Z,35,atleti,celta,1,0,0,0,1,atleti,celta,jorge figueroa vázquez
+2024-05-12T16:30:00Z,35,valencia,rayo vallecano,0,0,0,0,0,draw,draw,juan pulido santana
+2024-05-12T19:00:00Z,35,real betis,almería,3,2,2,1,1,real betis,almería,alejandro muñiz ruiz
+2024-05-13T19:00:00Z,35,barça,real sociedad,2,0,1,0,2,barça,real sociedad,guillermo cuadra fernández
+2024-05-14T17:30:00Z,36,osasuna,mallorca,1,1,1,0,0,draw,draw,francisco hernández maeso
+2024-05-14T19:30:00Z,36,real madrid,alavés,5,0,3,0,5,real madrid,alavés,mateo busquets ferrer
+2024-05-14T20:00:00Z,36,girona,villarreal,0,1,0,0,1,villarreal,girona,josé sánchez martínez
+2024-05-15T17:30:00Z,36,sevilla fc,cádiz cf,0,1,0,0,1,cádiz cf,sevilla fc,miguel ortiz arias
+2024-05-15T17:30:00Z,36,rayo vallecano,granada,2,1,1,0,1,rayo vallecano,granada,isidro díaz de mera
+2024-05-15T20:00:00Z,36,celta,athletic,2,1,0,1,1,celta,athletic,víctor garcía verdura
+2024-05-15T20:00:00Z,36,getafe,atleti,0,3,0,2,3,atleti,getafe,mario melero lópez
+2024-05-16T17:30:00Z,36,las palmas,real betis,2,2,1,1,0,draw,draw,javier iglesias villanueva
+2024-05-16T19:30:00Z,36,almería,barça,0,2,0,1,2,barça,almería,javier alberola rojas
+2024-05-16T20:00:00Z,36,real sociedad,valencia,1,0,1,0,1,real sociedad,valencia,césar soto grado
+2024-05-18T19:00:00Z,37,alavés,getafe,1,0,1,0,1,alavés,getafe,jorge figueroa vázquez
+2024-05-19T17:00:00Z,37,athletic,sevilla fc,2,0,2,0,2,athletic,sevilla fc,juan pulido santana
+2024-05-19T17:00:00Z,37,atleti,osasuna,1,4,0,1,3,osasuna,atleti,pablo gonzález fuertes
+2024-05-19T17:00:00Z,37,real betis,real sociedad,0,2,0,2,2,real sociedad,real betis,juan martínez munuera
+2024-05-19T17:00:00Z,37,barça,rayo vallecano,3,0,1,0,3,barça,rayo vallecano,jesús gil manzano
+2024-05-19T17:00:00Z,37,cádiz cf,las palmas,0,0,0,0,0,draw,draw,césar soto grado
+2024-05-19T17:00:00Z,37,granada,celta,1,2,0,0,1,celta,granada,javier alberola rojas
+2024-05-19T17:00:00Z,37,valencia,girona,1,3,0,1,2,girona,valencia,guillermo cuadra fernández
+2024-05-19T17:00:00Z,37,villarreal,real madrid,4,4,1,4,0,draw,draw,alejandro hernández hernández
+2024-05-19T17:00:00Z,37,mallorca,almería,2,2,1,1,0,draw,draw,ricardo de burgos
+2024-05-24T19:00:00Z,38,girona,granada,7,0,3,0,7,girona,granada,alejandro muñiz ruiz
+2024-05-25T12:00:00Z,38,osasuna,villarreal,1,1,1,0,0,draw,draw,mario melero lópez
+2024-05-25T14:15:00Z,38,real sociedad,atleti,0,2,0,1,2,atleti,real sociedad,josé sánchez martínez
+2024-05-25T16:30:00Z,38,rayo vallecano,athletic,0,1,0,0,1,athletic,rayo vallecano,josé munuera montero
+2024-05-25T16:30:00Z,38,almería,cádiz cf,6,1,0,1,5,almería,cádiz cf,mateo busquets ferrer
+2024-05-25T19:00:00Z,38,real madrid,real betis,0,0,0,0,0,draw,draw,isidro díaz de mera
+2024-05-26T12:00:00Z,38,getafe,mallorca,1,2,0,0,1,mallorca,getafe,víctor garcía verdura
+2024-05-26T14:15:00Z,38,celta,valencia,2,2,0,1,0,draw,draw,miguel ortiz arias
+2024-05-26T14:15:00Z,38,las palmas,alavés,1,1,0,0,0,draw,draw,francisco hernández maeso
+2024-05-26T19:00:00Z,38,sevilla fc,barça,1,2,1,1,1,barça,sevilla fc,javier iglesias villanueva

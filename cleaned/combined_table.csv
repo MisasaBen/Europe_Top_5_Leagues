@@ -1,0 +1,1753 @@
+date,matchday,home_team,away_team,home_score_full_time,away_score_full_time,home_score_half_time,away_score_half_time,goal_diff,winner,defeat,ref,league
+2023-08-18T18:30:00Z,1,bremen,bayern,0,4,0,1,4,bayern,bremen,felix zwayer,Bundesliga
+2023-08-19T13:30:00Z,1,leverkusen,rb leipzig,3,2,2,1,1,leverkusen,rb leipzig,felix brych,Bundesliga
+2023-08-19T13:30:00Z,1,wolfsburg,heidenheim,2,0,2,0,2,wolfsburg,heidenheim,florian badstübner,Bundesliga
+2023-08-19T13:30:00Z,1,hoffenheim,freiburg,1,2,0,2,1,freiburg,hoffenheim,sven jablonski,Bundesliga
+2023-08-19T13:30:00Z,1,augsburg,m'gladbach,4,4,3,3,0,draw,draw,daniel schlager,Bundesliga
+2023-08-19T13:30:00Z,1,stuttgart,bochum,5,0,2,0,5,stuttgart,bochum,daniel siebert,Bundesliga
+2023-08-19T16:30:00Z,1,dortmund,1. fc köln,1,0,0,0,1,dortmund,1. fc köln,deniz aytekin,Bundesliga
+2023-08-20T13:30:00Z,1,union berlin,mainz,4,1,2,0,3,union berlin,mainz,tobias stieler,Bundesliga
+2023-08-20T15:30:00Z,1,frankfurt,darmstadt,1,0,1,0,1,frankfurt,darmstadt,harm osmers,Bundesliga
+2023-08-25T18:30:00Z,2,rb leipzig,stuttgart,5,1,0,1,4,rb leipzig,stuttgart,frank willenborg,Bundesliga
+2023-08-26T13:30:00Z,2,freiburg,bremen,1,0,0,0,1,freiburg,bremen,benjamin brand,Bundesliga
+2023-08-26T13:30:00Z,2,1. fc köln,wolfsburg,1,2,0,0,1,wolfsburg,1. fc köln,matthias jöllenbeck,Bundesliga
+2023-08-26T13:30:00Z,2,bochum,dortmund,1,1,1,0,0,draw,draw,robert schröder,Bundesliga
+2023-08-26T13:30:00Z,2,heidenheim,hoffenheim,2,3,1,0,1,hoffenheim,heidenheim,robert hartmann,Bundesliga
+2023-08-26T13:30:00Z,2,darmstadt,union berlin,1,4,1,3,3,union berlin,darmstadt,patrick ittrich,Bundesliga
+2023-08-26T16:30:00Z,2,m'gladbach,leverkusen,0,3,0,2,3,leverkusen,m'gladbach,christian dingert,Bundesliga
+2023-08-27T13:30:00Z,2,mainz,frankfurt,1,1,1,0,0,draw,draw,bastian dankert,Bundesliga
+2023-08-27T15:30:00Z,2,bayern,augsburg,3,1,2,0,2,bayern,augsburg,daniel siebert,Bundesliga
+2023-09-01T18:30:00Z,3,dortmund,heidenheim,2,2,2,0,0,draw,draw,tobias reichel,Bundesliga
+2023-09-02T13:30:00Z,3,leverkusen,darmstadt,5,1,1,1,4,leverkusen,darmstadt,sven jablonski,Bundesliga
+2023-09-02T13:30:00Z,3,hoffenheim,wolfsburg,3,1,1,1,2,hoffenheim,wolfsburg,felix zwayer,Bundesliga
+2023-09-02T13:30:00Z,3,bremen,mainz,4,0,1,0,4,bremen,mainz,robert schröder,Bundesliga
+2023-09-02T13:30:00Z,3,augsburg,bochum,2,2,1,1,0,draw,draw,martin petersen,Bundesliga
+2023-09-02T13:30:00Z,3,stuttgart,freiburg,5,0,3,0,5,stuttgart,freiburg,felix brych,Bundesliga
+2023-09-02T16:30:00Z,3,m'gladbach,bayern,1,2,1,0,1,bayern,m'gladbach,deniz aytekin,Bundesliga
+2023-09-03T13:30:00Z,3,frankfurt,1. fc köln,1,1,0,1,0,draw,draw,florian badstübner,Bundesliga
+2023-09-03T15:30:00Z,3,union berlin,rb leipzig,0,3,0,0,3,rb leipzig,union berlin,daniel schlager,Bundesliga
+2023-09-15T18:30:00Z,4,bayern,leverkusen,2,2,1,1,0,draw,draw,daniel schlager,Bundesliga
+2023-09-16T13:30:00Z,4,rb leipzig,augsburg,3,0,3,0,3,rb leipzig,augsburg,sascha stegemann,Bundesliga
+2023-09-16T13:30:00Z,4,freiburg,dortmund,2,4,2,1,2,dortmund,freiburg,tobias stieler,Bundesliga
+2023-09-16T13:30:00Z,4,wolfsburg,union berlin,2,1,2,1,1,wolfsburg,union berlin,felix brych,Bundesliga
+2023-09-16T13:30:00Z,4,mainz,stuttgart,1,3,0,0,2,stuttgart,mainz,harm osmers,Bundesliga
+2023-09-16T13:30:00Z,4,1. fc köln,hoffenheim,1,3,0,2,2,hoffenheim,1. fc köln,daniel siebert,Bundesliga
+2023-09-16T16:30:00Z,4,bochum,frankfurt,1,1,0,0,0,draw,draw,benjamin brand,Bundesliga
+2023-09-17T13:30:00Z,4,heidenheim,bremen,4,2,2,0,2,heidenheim,bremen,patrick ittrich,Bundesliga
+2023-09-17T15:30:00Z,4,darmstadt,m'gladbach,3,3,3,0,0,draw,draw,timo gerach,Bundesliga
+2023-09-22T18:30:00Z,5,stuttgart,darmstadt,3,1,2,1,2,stuttgart,darmstadt,matthias jöllenbeck,Bundesliga
+2023-09-23T13:30:00Z,5,bayern,bochum,7,0,4,0,7,bayern,bochum,robert hartmann,Bundesliga
+2023-09-23T13:30:00Z,5,dortmund,wolfsburg,1,0,0,0,1,dortmund,wolfsburg,sven jablonski,Bundesliga
+2023-09-23T13:30:00Z,5,union berlin,hoffenheim,0,2,0,2,2,hoffenheim,union berlin,deniz aytekin,Bundesliga
+2023-09-23T13:30:00Z,5,m'gladbach,rb leipzig,0,1,0,0,1,rb leipzig,m'gladbach,robert schröder,Bundesliga
+2023-09-23T13:30:00Z,5,augsburg,mainz,2,1,2,1,1,augsburg,mainz,marco fritz,Bundesliga
+2023-09-23T16:30:00Z,5,bremen,1. fc köln,2,1,1,1,1,bremen,1. fc köln,bastian dankert,Bundesliga
+2023-09-24T13:30:00Z,5,leverkusen,heidenheim,4,1,1,0,3,leverkusen,heidenheim,christian dingert,Bundesliga
+2023-09-24T15:30:00Z,5,frankfurt,freiburg,0,0,0,0,0,draw,draw,felix zwayer,Bundesliga
+2023-09-29T18:30:00Z,6,hoffenheim,dortmund,1,3,1,2,2,dortmund,hoffenheim,florian badstübner,Bundesliga
+2023-09-30T13:30:00Z,6,wolfsburg,frankfurt,2,0,1,0,2,wolfsburg,frankfurt,frank willenborg,Bundesliga
+2023-09-30T13:30:00Z,6,mainz,leverkusen,0,3,0,1,3,leverkusen,mainz,benjamin brand,Bundesliga
+2023-09-30T13:30:00Z,6,1. fc köln,stuttgart,0,2,0,0,2,stuttgart,1. fc köln,tobias stieler,Bundesliga
+2023-09-30T13:30:00Z,6,bochum,m'gladbach,1,3,0,3,2,m'gladbach,bochum,felix brych,Bundesliga
+2023-09-30T13:30:00Z,6,heidenheim,union berlin,1,0,0,0,1,heidenheim,union berlin,sascha stegemann,Bundesliga
+2023-09-30T16:30:00Z,6,rb leipzig,bayern,2,2,2,0,0,draw,draw,marco fritz,Bundesliga
+2023-10-01T13:30:00Z,6,darmstadt,bremen,4,2,2,0,2,darmstadt,bremen,martin petersen,Bundesliga
+2023-10-01T15:30:00Z,6,freiburg,augsburg,2,0,1,0,2,freiburg,augsburg,harm osmers,Bundesliga
+2023-10-06T18:30:00Z,7,m'gladbach,mainz,2,2,1,1,0,draw,draw,sven jablonski,Bundesliga
+2023-10-07T13:30:00Z,7,dortmund,union berlin,4,2,1,2,2,dortmund,union berlin,patrick ittrich,Bundesliga
+2023-10-07T13:30:00Z,7,rb leipzig,bochum,0,0,0,0,0,draw,draw,timo gerach,Bundesliga
+2023-10-07T13:30:00Z,7,augsburg,darmstadt,1,2,0,0,1,darmstadt,augsburg,deniz aytekin,Bundesliga
+2023-10-07T13:30:00Z,7,stuttgart,wolfsburg,3,1,0,1,2,stuttgart,wolfsburg,daniel siebert,Bundesliga
+2023-10-07T16:30:00Z,7,bremen,hoffenheim,2,3,1,2,1,hoffenheim,bremen,christian dingert,Bundesliga
+2023-10-08T13:30:00Z,7,leverkusen,1. fc köln,3,0,2,0,3,leverkusen,1. fc köln,felix zwayer,Bundesliga
+2023-10-08T15:30:00Z,7,bayern,freiburg,3,0,2,0,3,bayern,freiburg,robert schröder,Bundesliga
+2023-10-08T17:30:00Z,7,frankfurt,heidenheim,2,0,1,0,2,frankfurt,heidenheim,daniel schlager,Bundesliga
+2023-10-20T18:30:00Z,8,dortmund,bremen,1,0,0,0,1,dortmund,bremen,felix brych,Bundesliga
+2023-10-21T13:30:00Z,8,hoffenheim,frankfurt,1,3,1,3,2,frankfurt,hoffenheim,matthias jöllenbeck,Bundesliga
+2023-10-21T13:30:00Z,8,darmstadt,rb leipzig,1,3,1,2,2,rb leipzig,darmstadt,harm osmers,Bundesliga
+2023-10-21T13:30:00Z,8,union berlin,stuttgart,0,3,0,1,3,stuttgart,union berlin,bastian dankert,Bundesliga
+2023-10-21T13:30:00Z,8,freiburg,bochum,2,1,2,1,1,freiburg,bochum,tobias reichel,Bundesliga
+2023-10-21T13:30:00Z,8,wolfsburg,leverkusen,1,2,1,1,1,leverkusen,wolfsburg,marco fritz,Bundesliga
+2023-10-21T16:30:00Z,8,mainz,bayern,1,3,1,2,2,bayern,mainz,sascha stegemann,Bundesliga
+2023-10-22T13:30:00Z,8,1. fc köln,m'gladbach,3,1,1,0,2,1. fc köln,m'gladbach,deniz aytekin,Bundesliga
+2023-10-22T15:30:00Z,8,heidenheim,augsburg,2,5,2,3,3,augsburg,heidenheim,tobias stieler,Bundesliga
+2023-10-27T18:30:00Z,9,bochum,mainz,2,2,1,0,0,draw,draw,patrick ittrich,Bundesliga
+2023-10-28T13:30:00Z,9,bayern,darmstadt,8,0,0,0,8,bayern,darmstadt,martin petersen,Bundesliga
+2023-10-28T13:30:00Z,9,m'gladbach,heidenheim,2,1,1,1,1,m'gladbach,heidenheim,robert hartmann,Bundesliga
+2023-10-28T13:30:00Z,9,bremen,union berlin,2,0,1,0,2,bremen,union berlin,tobias stieler,Bundesliga
+2023-10-28T13:30:00Z,9,augsburg,wolfsburg,3,2,1,2,1,augsburg,wolfsburg,daniel schlager,Bundesliga
+2023-10-28T13:30:00Z,9,stuttgart,hoffenheim,2,3,0,2,1,hoffenheim,stuttgart,felix zwayer,Bundesliga
+2023-10-28T16:30:00Z,9,rb leipzig,1. fc köln,6,0,4,0,6,rb leipzig,1. fc köln,benjamin brand,Bundesliga
+2023-10-29T14:30:00Z,9,frankfurt,dortmund,3,3,2,1,0,draw,draw,robert schröder,Bundesliga
+2023-10-29T16:30:00Z,9,leverkusen,freiburg,2,1,1,0,1,leverkusen,freiburg,daniel siebert,Bundesliga
+2023-11-03T19:30:00Z,10,darmstadt,bochum,1,2,1,1,1,bochum,darmstadt,marco fritz,Bundesliga
+2023-11-04T14:30:00Z,10,union berlin,frankfurt,0,3,0,2,3,frankfurt,union berlin,sven jablonski,Bundesliga
+2023-11-04T14:30:00Z,10,freiburg,m'gladbach,3,3,1,3,0,draw,draw,felix brych,Bundesliga
+2023-11-04T14:30:00Z,10,mainz,rb leipzig,2,0,0,0,2,mainz,rb leipzig,bastian dankert,Bundesliga
+2023-11-04T14:30:00Z,10,1. fc köln,augsburg,1,1,1,1,0,draw,draw,christian dingert,Bundesliga
+2023-11-04T14:30:00Z,10,hoffenheim,leverkusen,2,3,0,2,1,leverkusen,hoffenheim,frank willenborg,Bundesliga
+2023-11-04T17:30:00Z,10,dortmund,bayern,0,4,0,2,4,bayern,dortmund,deniz aytekin,Bundesliga
+2023-11-05T14:30:00Z,10,wolfsburg,bremen,2,2,1,1,0,draw,draw,unknown,Bundesliga
+2023-11-05T16:30:00Z,10,heidenheim,stuttgart,2,0,0,0,2,heidenheim,stuttgart,unknown,Bundesliga
+2023-11-10T19:30:00Z,11,m'gladbach,wolfsburg,4,0,2,0,4,m'gladbach,wolfsburg,felix zwayer,Bundesliga
+2023-11-11T14:30:00Z,11,bayern,heidenheim,4,2,2,0,2,bayern,heidenheim,harm osmers,Bundesliga
+2023-11-11T14:30:00Z,11,augsburg,hoffenheim,1,1,0,1,0,draw,draw,felix brych,Bundesliga
+2023-11-11T14:30:00Z,11,stuttgart,dortmund,2,1,1,1,1,stuttgart,dortmund,tobias stieler,Bundesliga
+2023-11-11T14:30:00Z,11,darmstadt,mainz,0,0,0,0,0,draw,draw,daniel siebert,Bundesliga
+2023-11-11T17:30:00Z,11,bochum,1. fc köln,1,1,1,0,0,draw,draw,matthias jöllenbeck,Bundesliga
+2023-11-12T14:30:00Z,11,leverkusen,union berlin,4,0,1,0,4,leverkusen,union berlin,timo gerach,Bundesliga
+2023-11-12T16:30:00Z,11,bremen,frankfurt,2,2,1,0,0,draw,draw,benjamin brand,Bundesliga
+2023-11-12T18:30:00Z,11,rb leipzig,freiburg,3,1,1,1,2,rb leipzig,freiburg,patrick ittrich,Bundesliga
+2023-11-24T19:30:00Z,12,1. fc köln,bayern,0,1,0,1,1,bayern,1. fc köln,marco fritz,Bundesliga
+2023-11-25T14:30:00Z,12,dortmund,m'gladbach,4,2,3,2,2,dortmund,m'gladbach,sven jablonski,Bundesliga
+2023-11-25T14:30:00Z,12,union berlin,augsburg,1,1,0,1,0,draw,draw,florian badstübner,Bundesliga
+2023-11-25T14:30:00Z,12,freiburg,darmstadt,1,1,1,1,0,draw,draw,sascha stegemann,Bundesliga
+2023-11-25T14:30:00Z,12,wolfsburg,rb leipzig,2,1,1,0,1,wolfsburg,rb leipzig,robert hartmann,Bundesliga
+2023-11-25T14:30:00Z,12,bremen,leverkusen,0,3,0,2,3,leverkusen,bremen,martin petersen,Bundesliga
+2023-11-25T17:30:00Z,12,frankfurt,stuttgart,1,2,1,2,1,stuttgart,frankfurt,felix brych,Bundesliga
+2023-11-26T14:30:00Z,12,heidenheim,bochum,0,0,0,0,0,draw,draw,felix zwayer,Bundesliga
+2023-11-26T16:30:00Z,12,hoffenheim,mainz,1,1,0,1,0,draw,draw,deniz aytekin,Bundesliga
+2023-12-01T19:30:00Z,13,darmstadt,1. fc köln,0,1,0,0,1,1. fc köln,darmstadt,patrick ittrich,Bundesliga
+2023-12-02T14:30:00Z,13,rb leipzig,heidenheim,2,1,2,1,1,rb leipzig,heidenheim,christian dingert,Bundesliga
+2023-12-02T14:30:00Z,13,m'gladbach,hoffenheim,2,1,0,0,1,m'gladbach,hoffenheim,tobias reichel,Bundesliga
+2023-12-02T14:30:00Z,13,bochum,wolfsburg,3,1,2,1,2,bochum,wolfsburg,robert schröder,Bundesliga
+2023-12-02T17:30:00Z,13,stuttgart,bremen,2,0,1,0,2,stuttgart,bremen,bastian dankert,Bundesliga
+2023-12-03T14:30:00Z,13,mainz,freiburg,0,1,0,0,1,freiburg,mainz,tobias stieler,Bundesliga
+2023-12-03T16:30:00Z,13,leverkusen,dortmund,1,1,0,1,0,draw,draw,daniel siebert,Bundesliga
+2023-12-03T18:30:00Z,13,augsburg,frankfurt,2,1,1,0,1,augsburg,frankfurt,harm osmers,Bundesliga
+2023-12-08T19:30:00Z,14,hoffenheim,bochum,3,1,2,0,2,hoffenheim,bochum,matthias jöllenbeck,Bundesliga
+2023-12-09T14:30:00Z,14,union berlin,m'gladbach,3,1,1,0,2,union berlin,m'gladbach,martin petersen,Bundesliga
+2023-12-09T14:30:00Z,14,frankfurt,bayern,5,1,3,1,4,frankfurt,bayern,felix zwayer,Bundesliga
+2023-12-09T14:30:00Z,14,wolfsburg,freiburg,0,1,0,0,1,freiburg,wolfsburg,marco fritz,Bundesliga
+2023-12-09T14:30:00Z,14,bremen,augsburg,2,0,1,0,2,bremen,augsburg,sascha stegemann,Bundesliga
+2023-12-09T14:30:00Z,14,heidenheim,darmstadt,3,2,1,0,1,heidenheim,darmstadt,daniel schlager,Bundesliga
+2023-12-09T17:30:00Z,14,dortmund,rb leipzig,2,3,1,1,1,rb leipzig,dortmund,sven jablonski,Bundesliga
+2023-12-10T14:30:00Z,14,stuttgart,leverkusen,1,1,1,0,0,draw,draw,deniz aytekin,Bundesliga
+2023-12-10T16:30:00Z,14,1. fc köln,mainz,0,0,0,0,0,draw,draw,frank willenborg,Bundesliga
+2023-12-15T19:30:00Z,15,m'gladbach,bremen,2,2,1,1,0,draw,draw,felix zwayer,Bundesliga
+2023-12-16T14:30:00Z,15,mainz,heidenheim,0,1,0,1,1,heidenheim,mainz,bastian dankert,Bundesliga
+2023-12-16T14:30:00Z,15,bochum,union berlin,3,0,1,0,3,bochum,union berlin,sven jablonski,Bundesliga
+2023-12-16T14:30:00Z,15,augsburg,dortmund,1,1,1,1,0,draw,draw,matthias jöllenbeck,Bundesliga
+2023-12-16T14:30:00Z,15,darmstadt,wolfsburg,0,1,0,0,1,wolfsburg,darmstadt,robert hartmann,Bundesliga
+2023-12-16T17:30:00Z,15,rb leipzig,hoffenheim,3,1,1,1,2,rb leipzig,hoffenheim,robert schröder,Bundesliga
+2023-12-17T14:30:00Z,15,freiburg,1. fc köln,2,0,0,0,2,freiburg,1. fc köln,harm osmers,Bundesliga
+2023-12-17T16:30:00Z,15,leverkusen,frankfurt,3,0,1,0,3,leverkusen,frankfurt,christian dingert,Bundesliga
+2023-12-17T18:30:00Z,15,bayern,stuttgart,3,0,1,0,3,bayern,stuttgart,tobias stieler,Bundesliga
+2023-12-19T17:30:00Z,16,bremen,rb leipzig,1,1,0,0,0,draw,draw,tobias reichel,Bundesliga
+2023-12-19T19:30:00Z,16,dortmund,mainz,1,1,1,1,0,draw,draw,marco fritz,Bundesliga
+2023-12-19T19:30:00Z,16,hoffenheim,darmstadt,3,3,2,1,0,draw,draw,frank willenborg,Bundesliga
+2023-12-20T17:30:00Z,16,union berlin,1. fc köln,2,0,0,0,2,union berlin,1. fc köln,deniz aytekin,Bundesliga
+2023-12-20T19:30:00Z,16,leverkusen,bochum,4,0,3,0,4,leverkusen,bochum,daniel schlager,Bundesliga
+2023-12-20T19:30:00Z,16,frankfurt,m'gladbach,2,1,0,1,1,frankfurt,m'gladbach,florian badstübner,Bundesliga
+2023-12-20T19:30:00Z,16,wolfsburg,bayern,1,2,1,2,1,bayern,wolfsburg,sascha stegemann,Bundesliga
+2023-12-20T19:30:00Z,16,stuttgart,augsburg,3,0,2,0,3,stuttgart,augsburg,daniel siebert,Bundesliga
+2023-12-20T19:30:00Z,16,heidenheim,freiburg,3,2,0,1,1,heidenheim,freiburg,benjamin brand,Bundesliga
+2024-01-12T19:30:00Z,17,bayern,hoffenheim,3,0,1,0,3,bayern,hoffenheim,benjamin brand,Bundesliga
+2024-01-13T14:30:00Z,17,rb leipzig,frankfurt,0,1,0,1,1,frankfurt,rb leipzig,frank willenborg,Bundesliga
+2024-01-13T14:30:00Z,17,freiburg,union berlin,0,0,0,0,0,draw,draw,christian dingert,Bundesliga
+2024-01-13T14:30:00Z,17,mainz,wolfsburg,1,1,0,1,0,draw,draw,patrick ittrich,Bundesliga
+2024-01-13T14:30:00Z,17,1. fc köln,heidenheim,1,1,1,0,0,draw,draw,felix zwayer,Bundesliga
+2024-01-13T14:30:00Z,17,augsburg,leverkusen,0,1,0,0,1,leverkusen,augsburg,sven jablonski,Bundesliga
+2024-01-13T17:30:00Z,17,darmstadt,dortmund,0,3,0,1,3,dortmund,darmstadt,deniz aytekin,Bundesliga
+2024-01-14T14:30:00Z,17,bochum,bremen,1,1,0,0,0,draw,draw,tobias stieler,Bundesliga
+2024-01-14T16:30:00Z,17,m'gladbach,stuttgart,3,1,2,0,2,m'gladbach,stuttgart,harm osmers,Bundesliga
+2024-01-20T14:30:00Z,18,1. fc köln,dortmund,0,4,0,1,4,dortmund,1. fc köln,daniel schlager,Bundesliga
+2024-01-20T14:30:00Z,18,darmstadt,frankfurt,2,2,0,1,0,draw,draw,daniel siebert,Bundesliga
+2024-01-20T14:30:00Z,18,heidenheim,wolfsburg,1,1,1,1,0,draw,draw,timo gerach,Bundesliga
+2024-01-20T14:30:00Z,18,freiburg,hoffenheim,3,2,1,0,1,freiburg,hoffenheim,sascha stegemann,Bundesliga
+2024-01-20T14:30:00Z,18,bochum,stuttgart,1,0,0,0,1,bochum,stuttgart,bastian dankert,Bundesliga
+2024-01-20T17:30:00Z,18,rb leipzig,leverkusen,2,3,1,0,1,leverkusen,rb leipzig,matthias jöllenbeck,Bundesliga
+2024-01-21T14:30:00Z,18,bayern,bremen,0,1,0,0,1,bremen,bayern,marco fritz,Bundesliga
+2024-01-21T16:30:00Z,18,m'gladbach,augsburg,1,2,1,0,1,augsburg,m'gladbach,martin petersen,Bundesliga
+2024-01-24T19:30:00Z,13,bayern,union berlin,1,0,0,0,1,bayern,union berlin,frank willenborg,Bundesliga
+2024-01-26T19:30:00Z,19,frankfurt,mainz,1,0,0,0,1,frankfurt,mainz,felix zwayer,Bundesliga
+2024-01-27T14:30:00Z,19,augsburg,bayern,2,3,0,2,1,bayern,augsburg,christian dingert,Bundesliga
+2024-01-27T14:30:00Z,19,stuttgart,rb leipzig,5,2,2,1,3,stuttgart,rb leipzig,sven jablonski,Bundesliga
+2024-01-27T14:30:00Z,19,bremen,freiburg,3,1,1,1,2,bremen,freiburg,robert hartmann,Bundesliga
+2024-01-27T14:30:00Z,19,wolfsburg,1. fc köln,1,1,1,1,0,draw,draw,sören storks,Bundesliga
+2024-01-27T14:30:00Z,19,hoffenheim,heidenheim,1,1,1,1,0,draw,draw,tobias welz,Bundesliga
+2024-01-27T17:30:00Z,19,leverkusen,m'gladbach,0,0,0,0,0,draw,draw,deniz aytekin,Bundesliga
+2024-01-28T14:30:00Z,19,union berlin,darmstadt,1,0,0,0,1,union berlin,darmstadt,harm osmers,Bundesliga
+2024-01-28T16:30:00Z,19,dortmund,bochum,3,1,1,1,2,dortmund,bochum,benjamin brand,Bundesliga
+2024-02-02T19:30:00Z,20,heidenheim,dortmund,0,0,0,0,0,draw,draw,bastian dankert,Bundesliga
+2024-02-03T14:30:00Z,20,darmstadt,leverkusen,0,2,0,1,2,leverkusen,darmstadt,tobias reichel,Bundesliga
+2024-02-03T14:30:00Z,20,bayern,m'gladbach,3,1,1,1,2,bayern,m'gladbach,tobias stieler,Bundesliga
+2024-02-03T14:30:00Z,20,mainz,bremen,0,1,0,1,1,bremen,mainz,benjamin brand,Bundesliga
+2024-02-03T14:30:00Z,20,bochum,augsburg,1,1,1,0,0,draw,draw,patrick ittrich,Bundesliga
+2024-02-03T14:30:00Z,20,freiburg,stuttgart,1,3,1,2,2,stuttgart,freiburg,daniel siebert,Bundesliga
+2024-02-03T17:30:00Z,20,1. fc köln,frankfurt,2,0,0,0,2,1. fc köln,frankfurt,timo gerach,Bundesliga
+2024-02-04T14:30:00Z,20,wolfsburg,hoffenheim,2,2,0,1,0,draw,draw,florian badstübner,Bundesliga
+2024-02-04T16:30:00Z,20,rb leipzig,union berlin,2,0,1,0,2,rb leipzig,union berlin,marco fritz,Bundesliga
+2024-02-07T17:30:00Z,18,mainz,union berlin,1,1,1,1,0,draw,draw,martin petersen,Bundesliga
+2024-02-09T19:30:00Z,21,dortmund,freiburg,3,0,2,0,3,dortmund,freiburg,harm osmers,Bundesliga
+2024-02-10T14:30:00Z,21,augsburg,rb leipzig,2,2,1,1,0,draw,draw,benjamin brand,Bundesliga
+2024-02-10T14:30:00Z,21,union berlin,wolfsburg,1,0,1,0,1,union berlin,wolfsburg,matthias jöllenbeck,Bundesliga
+2024-02-10T14:30:00Z,21,frankfurt,bochum,1,1,1,1,0,draw,draw,sven jablonski,Bundesliga
+2024-02-10T14:30:00Z,21,bremen,heidenheim,1,2,1,2,1,heidenheim,bremen,robert schröder,Bundesliga
+2024-02-10T14:30:00Z,21,m'gladbach,darmstadt,0,0,0,0,0,draw,draw,sascha stegemann,Bundesliga
+2024-02-10T17:30:00Z,21,leverkusen,bayern,3,0,1,0,3,leverkusen,bayern,felix zwayer,Bundesliga
+2024-02-11T14:30:00Z,21,stuttgart,mainz,3,1,2,0,2,stuttgart,mainz,deniz aytekin,Bundesliga
+2024-02-11T16:30:00Z,21,hoffenheim,1. fc köln,1,1,0,0,0,draw,draw,christian dingert,Bundesliga
+2024-02-16T19:30:00Z,22,1. fc köln,bremen,0,1,0,0,1,bremen,1. fc köln,daniel siebert,Bundesliga
+2024-02-17T14:30:00Z,22,wolfsburg,dortmund,1,1,0,1,0,draw,draw,martin petersen,Bundesliga
+2024-02-17T14:30:00Z,22,hoffenheim,union berlin,0,1,0,0,1,union berlin,hoffenheim,robert hartmann,Bundesliga
+2024-02-17T14:30:00Z,22,heidenheim,leverkusen,1,2,0,1,1,leverkusen,heidenheim,harm osmers,Bundesliga
+2024-02-17T14:30:00Z,22,mainz,augsburg,1,0,1,0,1,mainz,augsburg,tobias reichel,Bundesliga
+2024-02-17T14:30:00Z,22,darmstadt,stuttgart,1,2,0,1,1,stuttgart,darmstadt,tobias welz,Bundesliga
+2024-02-17T17:30:00Z,22,rb leipzig,m'gladbach,2,0,1,0,2,rb leipzig,m'gladbach,sören storks,Bundesliga
+2024-02-18T14:30:00Z,22,freiburg,frankfurt,3,3,2,2,0,draw,draw,tobias stieler,Bundesliga
+2024-02-18T16:30:00Z,22,bochum,bayern,3,2,2,1,1,bochum,bayern,daniel schlager,Bundesliga
+2024-02-23T19:30:00Z,23,leverkusen,mainz,2,1,1,1,1,leverkusen,mainz,timo gerach,Bundesliga
+2024-02-24T14:30:00Z,23,stuttgart,1. fc köln,1,1,0,0,0,draw,draw,patrick ittrich,Bundesliga
+2024-02-24T14:30:00Z,23,union berlin,heidenheim,2,2,2,1,0,draw,draw,deniz aytekin,Bundesliga
+2024-02-24T14:30:00Z,23,bremen,darmstadt,1,1,1,1,0,draw,draw,florian badstübner,Bundesliga
+2024-02-24T14:40:00Z,23,m'gladbach,bochum,5,2,2,0,3,m'gladbach,bochum,frank willenborg,Bundesliga
+2024-02-24T17:30:00Z,23,bayern,rb leipzig,2,1,0,0,1,bayern,rb leipzig,sascha stegemann,Bundesliga
+2024-02-25T14:30:00Z,23,frankfurt,wolfsburg,2,2,1,2,0,draw,draw,daniel schlager,Bundesliga
+2024-02-25T16:30:00Z,23,dortmund,hoffenheim,2,3,2,1,1,hoffenheim,dortmund,marco fritz,Bundesliga
+2024-02-25T18:30:00Z,23,augsburg,freiburg,2,1,0,1,1,augsburg,freiburg,bastian dankert,Bundesliga
+2024-03-01T19:30:00Z,24,freiburg,bayern,2,2,1,1,0,draw,draw,sven jablonski,Bundesliga
+2024-03-02T14:30:00Z,24,union berlin,dortmund,0,2,0,1,2,dortmund,union berlin,christian dingert,Bundesliga
+2024-03-02T14:30:00Z,24,bochum,rb leipzig,1,4,1,1,3,rb leipzig,bochum,harm osmers,Bundesliga
+2024-03-02T14:30:00Z,24,heidenheim,frankfurt,1,2,0,1,1,frankfurt,heidenheim,sören storks,Bundesliga
+2024-03-02T14:30:00Z,24,mainz,m'gladbach,1,1,1,0,0,draw,draw,robert schröder,Bundesliga
+2024-03-02T14:30:00Z,24,darmstadt,augsburg,0,6,0,5,6,augsburg,darmstadt,felix zwayer,Bundesliga
+2024-03-02T17:30:00Z,24,wolfsburg,stuttgart,2,3,0,1,1,stuttgart,wolfsburg,benjamin brand,Bundesliga
+2024-03-03T14:30:00Z,24,1. fc köln,leverkusen,0,2,0,1,2,leverkusen,1. fc köln,tobias stieler,Bundesliga
+2024-03-03T16:30:00Z,24,hoffenheim,bremen,2,1,2,0,1,hoffenheim,bremen,matthias jöllenbeck,Bundesliga
+2024-03-08T19:30:00Z,25,stuttgart,union berlin,2,0,1,0,2,stuttgart,union berlin,robert schröder,Bundesliga
+2024-03-09T14:30:00Z,25,bayern,mainz,8,1,3,1,7,bayern,mainz,patrick ittrich,Bundesliga
+2024-03-09T14:30:00Z,25,m'gladbach,1. fc köln,3,3,1,1,0,draw,draw,felix zwayer,Bundesliga
+2024-03-09T14:30:00Z,25,augsburg,heidenheim,1,0,1,0,1,augsburg,heidenheim,tobias welz,Bundesliga
+2024-03-09T14:30:00Z,25,rb leipzig,darmstadt,2,0,1,0,2,rb leipzig,darmstadt,robert hartmann,Bundesliga
+2024-03-09T17:30:00Z,25,bremen,dortmund,1,2,0,2,1,dortmund,bremen,deniz aytekin,Bundesliga
+2024-03-10T14:30:00Z,25,bochum,freiburg,1,2,0,1,1,freiburg,bochum,marco fritz,Bundesliga
+2024-03-10T16:30:00Z,25,frankfurt,hoffenheim,3,1,1,1,2,frankfurt,hoffenheim,bastian dankert,Bundesliga
+2024-03-10T18:30:00Z,25,leverkusen,wolfsburg,2,0,1,0,2,leverkusen,wolfsburg,daniel siebert,Bundesliga
+2024-03-15T19:30:00Z,26,1. fc köln,rb leipzig,1,5,1,1,4,rb leipzig,1. fc köln,florian badstübner,Bundesliga
+2024-03-16T14:30:00Z,26,darmstadt,bayern,2,5,1,2,3,bayern,darmstadt,tobias reichel,Bundesliga
+2024-03-16T14:30:00Z,26,heidenheim,m'gladbach,1,1,0,1,0,draw,draw,martin petersen,Bundesliga
+2024-03-16T14:30:00Z,26,union berlin,bremen,2,1,0,0,1,union berlin,bremen,daniel schlager,Bundesliga
+2024-03-16T14:30:00Z,26,mainz,bochum,2,0,1,0,2,mainz,bochum,matthias jöllenbeck,Bundesliga
+2024-03-16T14:30:00Z,26,wolfsburg,augsburg,1,3,1,1,2,augsburg,wolfsburg,timo gerach,Bundesliga
+2024-03-16T17:30:00Z,26,hoffenheim,stuttgart,0,3,0,2,3,stuttgart,hoffenheim,sascha stegemann,Bundesliga
+2024-03-17T14:30:00Z,26,freiburg,leverkusen,2,3,1,2,1,leverkusen,freiburg,harm osmers,Bundesliga
+2024-03-17T16:30:00Z,26,dortmund,frankfurt,3,1,1,1,2,dortmund,frankfurt,tobias stieler,Bundesliga
+2024-03-30T14:30:00Z,27,frankfurt,union berlin,0,0,0,0,0,draw,draw,marco fritz,Bundesliga
+2024-03-30T14:30:00Z,27,m'gladbach,freiburg,0,3,0,1,3,freiburg,m'gladbach,christian dingert,Bundesliga
+2024-03-30T14:30:00Z,27,bremen,wolfsburg,0,2,0,1,2,wolfsburg,bremen,sascha stegemann,Bundesliga
+2024-03-30T14:30:00Z,27,rb leipzig,mainz,0,0,0,0,0,draw,draw,frank willenborg,Bundesliga
+2024-03-30T14:30:00Z,27,leverkusen,hoffenheim,2,1,0,1,1,leverkusen,hoffenheim,deniz aytekin,Bundesliga
+2024-03-30T17:30:00Z,27,bayern,dortmund,0,2,0,1,2,dortmund,bayern,harm osmers,Bundesliga
+2024-03-31T13:30:00Z,27,augsburg,1. fc köln,1,1,1,1,0,draw,draw,sören storks,Bundesliga
+2024-03-31T15:30:00Z,27,stuttgart,heidenheim,3,3,1,0,0,draw,draw,felix zwayer,Bundesliga
+2024-03-31T17:30:00Z,27,bochum,darmstadt,2,2,1,0,0,draw,draw,sven jablonski,Bundesliga
+2024-04-05T18:30:00Z,28,frankfurt,bremen,1,1,0,0,0,draw,draw,robert hartmann,Bundesliga
+2024-04-06T13:30:00Z,28,heidenheim,bayern,3,2,0,2,1,heidenheim,bayern,robert schröder,Bundesliga
+2024-04-06T13:30:00Z,28,freiburg,rb leipzig,1,4,0,3,3,rb leipzig,freiburg,daniel siebert,Bundesliga
+2024-04-06T13:30:00Z,28,union berlin,leverkusen,0,1,0,1,1,leverkusen,union berlin,benjamin brand,Bundesliga
+2024-04-06T13:30:00Z,28,1. fc köln,bochum,2,1,0,0,1,1. fc köln,bochum,tobias welz,Bundesliga
+2024-04-06T13:30:00Z,28,mainz,darmstadt,4,0,1,0,4,mainz,darmstadt,daniel schlager,Bundesliga
+2024-04-06T16:30:00Z,28,dortmund,stuttgart,0,1,0,0,1,stuttgart,dortmund,matthias jöllenbeck,Bundesliga
+2024-04-07T13:30:00Z,28,hoffenheim,augsburg,3,1,2,0,2,hoffenheim,augsburg,florian exner,Bundesliga
+2024-04-07T15:30:00Z,28,wolfsburg,m'gladbach,1,3,1,0,2,m'gladbach,wolfsburg,bastian dankert,Bundesliga
+2024-04-12T18:30:00Z,29,augsburg,union berlin,2,0,0,0,2,augsburg,union berlin,tobias stieler,Bundesliga
+2024-04-13T13:30:00Z,29,m'gladbach,dortmund,1,2,1,2,1,dortmund,m'gladbach,florian badstübner,Bundesliga
+2024-04-13T13:30:00Z,29,rb leipzig,wolfsburg,3,0,1,0,3,rb leipzig,wolfsburg,christian dingert,Bundesliga
+2024-04-13T13:30:00Z,29,bayern,1. fc köln,2,0,0,0,2,bayern,1. fc köln,frank willenborg,Bundesliga
+2024-04-13T13:30:00Z,29,mainz,hoffenheim,4,1,0,1,3,mainz,hoffenheim,felix zwayer,Bundesliga
+2024-04-13T13:30:00Z,29,bochum,heidenheim,1,1,0,0,0,draw,draw,patrick ittrich,Bundesliga
+2024-04-13T16:30:00Z,29,stuttgart,frankfurt,3,0,3,0,3,stuttgart,frankfurt,deniz aytekin,Bundesliga
+2024-04-14T13:30:00Z,29,darmstadt,freiburg,0,1,0,1,1,freiburg,darmstadt,sascha stegemann,Bundesliga
+2024-04-14T15:30:00Z,29,leverkusen,bremen,5,0,1,0,5,leverkusen,bremen,harm osmers,Bundesliga
+2024-04-19T18:30:00Z,30,frankfurt,augsburg,3,1,0,1,2,frankfurt,augsburg,martin petersen,Bundesliga
+2024-04-20T13:30:00Z,30,heidenheim,rb leipzig,1,2,0,1,1,rb leipzig,heidenheim,tobias welz,Bundesliga
+2024-04-20T13:30:00Z,30,hoffenheim,m'gladbach,4,3,1,1,1,hoffenheim,m'gladbach,sören storks,Bundesliga
+2024-04-20T13:30:00Z,30,wolfsburg,bochum,1,0,1,0,1,wolfsburg,bochum,tobias reichel,Bundesliga
+2024-04-20T13:30:00Z,30,1. fc köln,darmstadt,0,2,0,0,2,darmstadt,1. fc köln,matthias jöllenbeck,Bundesliga
+2024-04-20T16:30:00Z,30,union berlin,bayern,1,5,0,2,4,bayern,union berlin,sven jablonski,Bundesliga
+2024-04-21T13:30:00Z,30,bremen,stuttgart,2,1,1,0,1,bremen,stuttgart,robert schröder,Bundesliga
+2024-04-21T15:30:00Z,30,dortmund,leverkusen,1,1,0,0,0,draw,draw,daniel siebert,Bundesliga
+2024-04-21T17:30:00Z,30,freiburg,mainz,1,1,1,1,0,draw,draw,marco fritz,Bundesliga
+2024-04-26T18:30:00Z,31,bochum,hoffenheim,3,2,2,0,1,bochum,hoffenheim,tobias stieler,Bundesliga
+2024-04-27T13:30:00Z,31,rb leipzig,dortmund,4,1,2,1,3,rb leipzig,dortmund,deniz aytekin,Bundesliga
+2024-04-27T13:30:00Z,31,bayern,frankfurt,2,1,1,1,1,bayern,frankfurt,daniel schlager,Bundesliga
+2024-04-27T13:30:00Z,31,freiburg,wolfsburg,1,2,1,0,1,wolfsburg,freiburg,frank willenborg,Bundesliga
+2024-04-27T13:30:00Z,31,augsburg,bremen,0,3,0,0,3,bremen,augsburg,tobias welz,Bundesliga
+2024-04-27T16:30:00Z,31,leverkusen,stuttgart,2,2,0,0,0,draw,draw,felix zwayer,Bundesliga
+2024-04-28T13:30:00Z,31,m'gladbach,union berlin,0,0,0,0,0,draw,draw,sascha stegemann,Bundesliga
+2024-04-28T15:30:00Z,31,mainz,1. fc köln,1,1,1,0,0,draw,draw,benjamin brand,Bundesliga
+2024-04-28T17:30:00Z,31,darmstadt,heidenheim,0,1,0,0,1,heidenheim,darmstadt,bastian dankert,Bundesliga
+2024-05-03T18:30:00Z,32,hoffenheim,rb leipzig,1,1,0,1,0,draw,draw,harm osmers,Bundesliga
+2024-05-04T13:30:00Z,32,stuttgart,bayern,3,1,1,1,2,stuttgart,bayern,tobias welz,Bundesliga
+2024-05-04T13:30:00Z,32,bremen,m'gladbach,2,2,1,1,0,draw,draw,timo gerach,Bundesliga
+2024-05-04T13:30:00Z,32,dortmund,augsburg,5,1,4,1,4,dortmund,augsburg,robert schröder,Bundesliga
+2024-05-04T13:30:00Z,32,wolfsburg,darmstadt,3,0,2,0,3,wolfsburg,darmstadt,robert hartmann,Bundesliga
+2024-05-04T16:30:00Z,32,1. fc köln,freiburg,0,0,0,0,0,draw,draw,sören storks,Bundesliga
+2024-05-05T13:30:00Z,32,union berlin,bochum,3,4,0,3,1,bochum,union berlin,marco fritz,Bundesliga
+2024-05-05T15:30:00Z,32,frankfurt,leverkusen,1,5,1,2,4,leverkusen,frankfurt,christian dingert,Bundesliga
+2024-05-05T17:30:00Z,32,heidenheim,mainz,1,1,0,1,0,draw,draw,sven jablonski,Bundesliga
+2024-05-10T18:30:00Z,33,augsburg,stuttgart,0,1,0,0,1,stuttgart,augsburg,patrick ittrich,Bundesliga
+2024-05-11T13:30:00Z,33,1. fc köln,union berlin,3,2,1,2,1,1. fc köln,union berlin,deniz aytekin,Bundesliga
+2024-05-11T13:30:00Z,33,m'gladbach,frankfurt,1,1,1,1,0,draw,draw,robert schröder,Bundesliga
+2024-05-11T13:30:00Z,33,rb leipzig,bremen,1,1,0,1,0,draw,draw,sascha stegemann,Bundesliga
+2024-05-11T13:30:00Z,33,freiburg,heidenheim,1,1,1,1,0,draw,draw,daniel siebert,Bundesliga
+2024-05-11T16:30:00Z,33,mainz,dortmund,3,0,3,0,3,mainz,dortmund,tobias stieler,Bundesliga
+2024-05-12T13:30:00Z,33,darmstadt,hoffenheim,0,6,0,5,6,hoffenheim,darmstadt,florian badstübner,Bundesliga
+2024-05-12T15:30:00Z,33,bayern,wolfsburg,2,0,2,0,2,bayern,wolfsburg,bastian dankert,Bundesliga
+2024-05-12T17:30:00Z,33,bochum,leverkusen,0,5,0,2,5,leverkusen,bochum,benjamin brand,Bundesliga
+2024-05-18T13:30:00Z,34,hoffenheim,bayern,4,2,1,2,2,hoffenheim,bayern,marco fritz,Bundesliga
+2024-05-18T13:30:00Z,34,frankfurt,rb leipzig,2,2,0,1,0,draw,draw,felix zwayer,Bundesliga
+2024-05-18T13:30:00Z,34,union berlin,freiburg,2,1,0,0,1,union berlin,freiburg,christian dingert,Bundesliga
+2024-05-18T13:30:00Z,34,wolfsburg,mainz,1,3,1,1,2,mainz,wolfsburg,frank willenborg,Bundesliga
+2024-05-18T13:30:00Z,34,stuttgart,m'gladbach,4,0,2,0,4,stuttgart,m'gladbach,daniel schlager,Bundesliga
+2024-05-18T13:30:00Z,34,heidenheim,1. fc köln,4,1,3,0,3,heidenheim,1. fc köln,tobias welz,Bundesliga
+2024-05-18T13:30:00Z,34,bremen,bochum,4,1,1,0,3,bremen,bochum,martin petersen,Bundesliga
+2024-05-18T13:30:00Z,34,leverkusen,augsburg,2,1,2,0,1,leverkusen,augsburg,matthias jöllenbeck,Bundesliga
+2024-05-18T13:30:00Z,34,dortmund,darmstadt,4,0,2,0,4,dortmund,darmstadt,daniel siebert,Bundesliga
+2023-08-11T17:30:00Z,1,almería,rayo vallecano,0,2,0,2,2,rayo vallecano,almería,javier alberola rojas,Laliga
+2023-08-11T20:00:00Z,1,sevilla fc,valencia,1,2,0,0,1,valencia,sevilla fc,josé sánchez martínez,Laliga
+2023-08-12T15:00:00Z,1,real sociedad,girona,1,1,1,0,0,draw,draw,francisco hernández maeso,Laliga
+2023-08-12T17:30:00Z,1,las palmas,mallorca,1,1,1,0,0,draw,draw,víctor garcía verdura,Laliga
+2023-08-12T19:30:00Z,1,athletic,real madrid,0,2,0,2,2,real madrid,athletic,jesús gil manzano,Laliga
+2023-08-13T15:00:00Z,1,celta,osasuna,0,2,0,1,2,osasuna,celta,pablo gonzález fuertes,Laliga
+2023-08-13T17:30:00Z,1,villarreal,real betis,1,2,0,1,1,real betis,villarreal,miguel ortiz arias,Laliga
+2023-08-13T19:30:00Z,1,getafe,barça,0,0,0,0,0,draw,draw,césar soto grado,Laliga
+2023-08-14T17:30:00Z,1,cádiz cf,alavés,1,0,1,0,1,cádiz cf,alavés,isidro díaz de mera,Laliga
+2023-08-14T19:30:00Z,1,atleti,granada,3,1,1,0,2,atleti,granada,juan pulido santana,Laliga
+2023-08-18T17:30:00Z,2,mallorca,villarreal,0,1,0,0,1,villarreal,mallorca,javier alberola rojas,Laliga
+2023-08-18T19:30:00Z,2,valencia,las palmas,1,0,0,0,1,valencia,las palmas,javier iglesias villanueva,Laliga
+2023-08-19T15:00:00Z,2,real sociedad,celta,1,1,1,0,0,draw,draw,miguel ortiz arias,Laliga
+2023-08-19T17:30:00Z,2,almería,real madrid,1,3,1,1,2,real madrid,almería,josé sánchez martínez,Laliga
+2023-08-19T19:30:00Z,2,osasuna,athletic,0,2,0,2,2,athletic,osasuna,josé munuera montero,Laliga
+2023-08-20T17:00:00Z,2,girona,getafe,3,0,1,0,3,girona,getafe,jorge figueroa vázquez,Laliga
+2023-08-20T17:30:00Z,2,barça,cádiz cf,2,0,0,0,2,barça,cádiz cf,alejandro muñiz ruiz,Laliga
+2023-08-20T19:30:00Z,2,real betis,atleti,0,0,0,0,0,draw,draw,ricardo de burgos,Laliga
+2023-08-21T17:00:00Z,2,alavés,sevilla fc,4,3,2,2,1,alavés,sevilla fc,guillermo cuadra fernández,Laliga
+2023-08-21T19:30:00Z,2,granada,rayo vallecano,0,2,0,0,2,rayo vallecano,granada,pablo gonzález fuertes,Laliga
+2023-08-25T17:30:00Z,3,las palmas,real sociedad,0,0,0,0,0,draw,draw,guillermo cuadra fernández,Laliga
+2023-08-25T19:30:00Z,3,celta,real madrid,0,1,0,0,1,real madrid,celta,isidro díaz de mera,Laliga
+2023-08-26T17:00:00Z,3,cádiz cf,almería,1,1,0,0,0,draw,draw,víctor garcía verdura,Laliga
+2023-08-26T17:30:00Z,3,granada,mallorca,3,2,1,1,1,granada,mallorca,francisco hernández maeso,Laliga
+2023-08-26T19:30:00Z,3,sevilla fc,girona,1,2,1,1,1,girona,sevilla fc,jesús gil manzano,Laliga
+2023-08-27T15:30:00Z,3,villarreal,barça,3,4,2,2,1,barça,villarreal,alejandro hernández hernández,Laliga
+2023-08-27T17:30:00Z,3,valencia,osasuna,1,2,0,1,1,osasuna,valencia,juan pulido santana,Laliga
+2023-08-27T19:30:00Z,3,athletic,real betis,4,2,3,2,2,athletic,real betis,césar soto grado,Laliga
+2023-08-28T17:30:00Z,3,getafe,alavés,1,0,0,0,1,getafe,alavés,juan martínez munuera,Laliga
+2023-08-28T19:30:00Z,3,rayo vallecano,atleti,0,7,0,3,7,atleti,rayo vallecano,josé munuera montero,Laliga
+2023-09-01T17:30:00Z,4,cádiz cf,villarreal,3,1,2,1,2,cádiz cf,villarreal,juan pulido santana,Laliga
+2023-09-01T20:00:00Z,4,almería,celta,2,3,0,2,1,celta,almería,ricardo de burgos,Laliga
+2023-09-02T12:00:00Z,4,real sociedad,granada,5,3,2,1,2,real sociedad,granada,javier iglesias villanueva,Laliga
+2023-09-02T14:15:00Z,4,real madrid,getafe,2,1,0,1,1,real madrid,getafe,mario melero lópez,Laliga
+2023-09-02T16:30:00Z,4,alavés,valencia,1,0,1,0,1,alavés,valencia,pablo gonzález fuertes,Laliga
+2023-09-02T19:00:00Z,4,real betis,rayo vallecano,1,0,0,0,1,real betis,rayo vallecano,alejandro muñiz ruiz,Laliga
+2023-09-03T12:00:00Z,4,girona,las palmas,1,0,0,0,1,girona,las palmas,mateo busquets ferrer,Laliga
+2023-09-03T14:15:00Z,4,mallorca,athletic,0,0,0,0,0,draw,draw,jorge figueroa vázquez,Laliga
+2023-09-03T19:00:00Z,4,osasuna,barça,1,2,0,1,1,barça,osasuna,miguel ortiz arias,Laliga
+2023-09-15T19:00:00Z,5,rayo vallecano,alavés,2,0,1,0,2,rayo vallecano,alavés,víctor garcía verdura,Laliga
+2023-09-16T12:00:00Z,5,athletic,cádiz cf,3,0,0,0,3,athletic,cádiz cf,guillermo cuadra fernández,Laliga
+2023-09-16T14:15:00Z,5,valencia,atleti,3,0,2,0,3,valencia,atleti,jesús gil manzano,Laliga
+2023-09-16T16:30:00Z,5,celta,mallorca,0,1,0,0,1,mallorca,celta,josé munuera montero,Laliga
+2023-09-16T19:00:00Z,5,barça,real betis,5,0,2,0,5,barça,real betis,josé sánchez martínez,Laliga
+2023-09-17T12:00:00Z,5,getafe,osasuna,3,2,1,1,1,getafe,osasuna,alejandro hernández hernández,Laliga
+2023-09-17T14:15:00Z,5,villarreal,almería,2,1,1,1,1,villarreal,almería,francisco hernández maeso,Laliga
+2023-09-17T16:30:00Z,5,sevilla fc,las palmas,1,0,0,0,1,sevilla fc,las palmas,juan martínez munuera,Laliga
+2023-09-17T19:00:00Z,5,real madrid,real sociedad,2,1,0,1,1,real madrid,real sociedad,césar soto grado,Laliga
+2023-09-18T19:00:00Z,5,granada,girona,2,4,0,3,2,girona,granada,isidro díaz de mera,Laliga
+2023-09-22T19:00:00Z,6,alavés,athletic,0,2,0,1,2,athletic,alavés,alejandro muñiz ruiz,Laliga
+2023-09-23T12:00:00Z,6,girona,mallorca,5,3,4,1,2,girona,mallorca,pablo gonzález fuertes,Laliga
+2023-09-23T14:15:00Z,6,osasuna,sevilla fc,0,0,0,0,0,draw,draw,javier iglesias villanueva,Laliga
+2023-09-23T16:30:00Z,6,barça,celta,3,2,0,1,1,barça,celta,mario melero lópez,Laliga
+2023-09-23T19:00:00Z,6,almería,valencia,2,2,0,1,0,draw,draw,mateo busquets ferrer,Laliga
+2023-09-24T12:00:00Z,6,real sociedad,getafe,4,3,1,2,1,real sociedad,getafe,juan pulido santana,Laliga
+2023-09-24T14:15:00Z,6,rayo vallecano,villarreal,1,1,1,1,0,draw,draw,jorge figueroa vázquez,Laliga
+2023-09-24T16:30:00Z,6,las palmas,granada,1,0,0,0,1,las palmas,granada,ricardo de burgos,Laliga
+2023-09-24T16:30:00Z,6,real betis,cádiz cf,1,1,0,1,0,draw,draw,miguel ortiz arias,Laliga
+2023-09-24T19:00:00Z,6,atleti,real madrid,3,1,2,1,2,atleti,real madrid,javier alberola rojas,Laliga
+2023-09-26T17:00:00Z,7,sevilla fc,almería,5,1,3,0,4,sevilla fc,almería,guillermo cuadra fernández,Laliga
+2023-09-26T19:30:00Z,7,mallorca,barça,2,2,2,1,0,draw,draw,alejandro muñiz ruiz,Laliga
+2023-09-27T17:00:00Z,7,athletic,getafe,2,2,1,0,0,draw,draw,isidro díaz de mera,Laliga
+2023-09-27T17:00:00Z,7,villarreal,girona,1,2,0,0,1,girona,villarreal,josé sánchez martínez,Laliga
+2023-09-27T17:00:00Z,7,real madrid,las palmas,2,0,1,0,2,real madrid,las palmas,josé munuera montero,Laliga
+2023-09-27T19:30:00Z,7,cádiz cf,rayo vallecano,0,0,0,0,0,draw,draw,francisco hernández maeso,Laliga
+2023-09-27T19:30:00Z,7,valencia,real sociedad,0,1,0,1,1,real sociedad,valencia,alejandro hernández hernández,Laliga
+2023-09-28T17:00:00Z,7,celta,alavés,1,1,1,0,0,draw,draw,césar soto grado,Laliga
+2023-09-28T17:00:00Z,7,granada,real betis,1,1,0,0,0,draw,draw,víctor garcía verdura,Laliga
+2023-09-28T19:30:00Z,7,osasuna,atleti,0,2,0,1,2,atleti,osasuna,juan martínez munuera,Laliga
+2023-09-29T19:00:00Z,8,barça,sevilla fc,1,0,0,0,1,barça,sevilla fc,miguel ortiz arias,Laliga
+2023-09-30T12:00:00Z,8,getafe,villarreal,0,0,0,0,0,draw,draw,mateo busquets ferrer,Laliga
+2023-09-30T14:15:00Z,8,rayo vallecano,mallorca,2,2,1,1,0,draw,draw,mario melero lópez,Laliga
+2023-09-30T16:30:00Z,8,girona,real madrid,0,3,0,2,3,real madrid,girona,juan pulido santana,Laliga
+2023-09-30T19:00:00Z,8,real sociedad,athletic,3,0,1,0,3,real sociedad,athletic,jesús gil manzano,Laliga
+2023-10-01T12:00:00Z,8,almería,granada,3,3,3,0,0,draw,draw,pablo gonzález fuertes,Laliga
+2023-10-01T14:15:00Z,8,alavés,osasuna,0,2,0,1,2,osasuna,alavés,jorge figueroa vázquez,Laliga
+2023-10-01T19:00:00Z,8,atleti,cádiz cf,3,2,1,2,1,atleti,cádiz cf,javier iglesias villanueva,Laliga
+2023-10-01T19:00:00Z,8,real betis,valencia,3,0,1,0,3,real betis,valencia,ricardo de burgos,Laliga
+2023-10-02T19:00:00Z,8,las palmas,celta,2,1,0,0,1,las palmas,celta,javier alberola rojas,Laliga
+2023-10-06T19:00:00Z,9,athletic,almería,3,0,1,0,3,athletic,almería,víctor garcía verdura,Laliga
+2023-10-07T12:00:00Z,9,cádiz cf,girona,0,1,0,0,1,girona,cádiz cf,juan martínez munuera,Laliga
+2023-10-07T14:15:00Z,9,real madrid,osasuna,4,0,1,0,4,real madrid,osasuna,guillermo cuadra fernández,Laliga
+2023-10-07T16:30:00Z,9,mallorca,valencia,1,1,1,1,0,draw,draw,francisco hernández maeso,Laliga
+2023-10-07T19:00:00Z,9,sevilla fc,rayo vallecano,2,2,0,2,0,draw,draw,isidro díaz de mera,Laliga
+2023-10-08T12:00:00Z,9,villarreal,las palmas,1,2,0,1,1,las palmas,villarreal,alejandro muñiz ruiz,Laliga
+2023-10-08T14:15:00Z,9,atleti,real sociedad,2,1,1,0,1,atleti,real sociedad,josé munuera montero,Laliga
+2023-10-08T16:30:00Z,9,celta,getafe,2,2,2,2,0,draw,draw,josé sánchez martínez,Laliga
+2023-10-08T16:30:00Z,9,alavés,real betis,1,1,1,1,0,draw,draw,alejandro hernández hernández,Laliga
+2023-10-08T19:00:00Z,9,granada,barça,2,2,2,1,0,draw,draw,césar soto grado,Laliga
+2023-10-20T19:00:00Z,10,osasuna,granada,2,0,1,0,2,osasuna,granada,mateo busquets ferrer,Laliga
+2023-10-21T12:00:00Z,10,real sociedad,mallorca,1,0,0,0,1,real sociedad,mallorca,jorge figueroa vázquez,Laliga
+2023-10-21T14:15:00Z,10,getafe,real betis,1,1,1,1,0,draw,draw,césar soto grado,Laliga
+2023-10-21T16:30:00Z,10,sevilla fc,real madrid,1,1,0,0,0,draw,draw,ricardo de burgos,Laliga
+2023-10-21T19:00:00Z,10,celta,atleti,0,3,0,1,3,atleti,celta,guillermo cuadra fernández,Laliga
+2023-10-22T12:00:00Z,10,las palmas,rayo vallecano,0,1,0,0,1,rayo vallecano,las palmas,javier iglesias villanueva,Laliga
+2023-10-22T14:15:00Z,10,girona,almería,5,2,3,2,3,girona,almería,miguel ortiz arias,Laliga
+2023-10-22T16:30:00Z,10,villarreal,alavés,1,1,0,0,0,draw,draw,jesús gil manzano,Laliga
+2023-10-22T19:00:00Z,10,barça,athletic,1,0,0,0,1,barça,athletic,juan martínez munuera,Laliga
+2023-10-23T19:00:00Z,10,valencia,cádiz cf,2,0,2,0,2,valencia,cádiz cf,pablo gonzález fuertes,Laliga
+2023-10-27T19:00:00Z,11,girona,celta,1,0,0,0,1,girona,celta,isidro díaz de mera,Laliga
+2023-10-28T12:00:00Z,11,almería,las palmas,1,2,0,1,1,las palmas,almería,francisco hernández maeso,Laliga
+2023-10-28T14:15:00Z,11,barça,real madrid,1,2,1,0,1,real madrid,barça,jesús gil manzano,Laliga
+2023-10-28T16:30:00Z,11,mallorca,getafe,0,0,0,0,0,draw,draw,pablo gonzález fuertes,Laliga
+2023-10-28T19:00:00Z,11,cádiz cf,sevilla fc,2,2,2,1,0,draw,draw,césar soto grado,Laliga
+2023-10-29T13:00:00Z,11,real betis,osasuna,2,1,1,0,1,real betis,osasuna,josé sánchez martínez,Laliga
+2023-10-29T15:15:00Z,11,rayo vallecano,real sociedad,2,2,1,1,0,draw,draw,mateo busquets ferrer,Laliga
+2023-10-29T17:30:00Z,11,athletic,valencia,2,2,1,0,0,draw,draw,jorge figueroa vázquez,Laliga
+2023-10-29T20:00:00Z,11,atleti,alavés,2,1,2,0,1,atleti,alavés,alejandro muñiz ruiz,Laliga
+2023-10-30T20:00:00Z,11,granada,villarreal,2,3,2,3,1,villarreal,granada,javier iglesias villanueva,Laliga
+2023-11-03T20:00:00Z,12,las palmas,atleti,2,1,0,0,1,las palmas,atleti,mario melero lópez,Laliga
+2023-11-04T13:00:00Z,12,osasuna,girona,2,4,1,1,2,girona,osasuna,josé munuera montero,Laliga
+2023-11-04T15:15:00Z,12,real betis,mallorca,2,0,1,0,2,real betis,mallorca,miguel ortiz arias,Laliga
+2023-11-04T17:30:00Z,12,celta,sevilla fc,1,1,1,0,0,draw,draw,alejandro hernández hernández,Laliga
+2023-11-04T20:00:00Z,12,real sociedad,barça,0,1,0,0,1,barça,real sociedad,javier alberola rojas,Laliga
+2023-11-05T13:00:00Z,12,alavés,almería,1,0,0,0,1,alavés,almería,juan pulido santana,Laliga
+2023-11-05T15:15:00Z,12,valencia,granada,1,0,1,0,1,valencia,granada,víctor garcía verdura,Laliga
+2023-11-05T17:30:00Z,12,villarreal,athletic,2,3,0,3,1,athletic,villarreal,guillermo cuadra fernández,Laliga
+2023-11-05T20:00:00Z,12,real madrid,rayo vallecano,0,0,0,0,0,draw,draw,juan martínez munuera,Laliga
+2023-11-06T20:00:00Z,12,getafe,cádiz cf,1,0,0,0,1,getafe,cádiz cf,ricardo de burgos,Laliga
+2023-11-10T20:00:00Z,13,athletic,celta,4,3,2,2,1,athletic,celta,juan pulido santana,Laliga
+2023-11-11T13:00:00Z,13,rayo vallecano,girona,1,2,1,1,1,girona,rayo vallecano,pablo gonzález fuertes,Laliga
+2023-11-11T15:15:00Z,13,almería,real sociedad,1,3,0,0,2,real sociedad,almería,isidro díaz de mera,Laliga
+2023-11-11T17:30:00Z,13,osasuna,las palmas,1,1,0,0,0,draw,draw,jorge figueroa vázquez,Laliga
+2023-11-11T17:30:00Z,13,granada,getafe,1,1,1,1,0,draw,draw,alejandro muñiz ruiz,Laliga
+2023-11-11T20:00:00Z,13,real madrid,valencia,5,1,2,0,4,real madrid,valencia,josé sánchez martínez,Laliga
+2023-11-12T15:15:00Z,13,barça,alavés,2,1,0,1,1,barça,alavés,mateo busquets ferrer,Laliga
+2023-11-12T17:30:00Z,13,sevilla fc,real betis,1,1,0,0,0,draw,draw,jesús gil manzano,Laliga
+2023-11-12T20:00:00Z,13,atleti,villarreal,3,1,1,1,2,atleti,villarreal,francisco hernández maeso,Laliga
+2023-11-24T20:00:00Z,14,alavés,granada,3,1,2,0,2,alavés,granada,javier alberola rojas,Laliga
+2023-11-25T13:00:00Z,14,rayo vallecano,barça,1,1,1,0,0,draw,draw,josé munuera montero,Laliga
+2023-11-25T15:15:00Z,14,valencia,celta,0,0,0,0,0,draw,draw,césar soto grado,Laliga
+2023-11-25T17:30:00Z,14,getafe,almería,2,1,2,1,1,getafe,almería,alejandro hernández hernández,Laliga
+2023-11-25T20:00:00Z,14,atleti,mallorca,1,0,0,0,1,atleti,mallorca,juan martínez munuera,Laliga
+2023-11-26T13:00:00Z,14,villarreal,osasuna,3,1,0,0,2,villarreal,osasuna,ricardo de burgos,Laliga
+2023-11-26T15:15:00Z,14,real sociedad,sevilla fc,2,1,2,0,1,real sociedad,sevilla fc,miguel ortiz arias,Laliga
+2023-11-26T17:30:00Z,14,cádiz cf,real madrid,0,3,0,1,3,real madrid,cádiz cf,guillermo cuadra fernández,Laliga
+2023-11-26T20:00:00Z,14,real betis,las palmas,1,0,1,0,1,real betis,las palmas,víctor garcía verdura,Laliga
+2023-11-27T20:00:00Z,14,girona,athletic,1,1,0,0,0,draw,draw,mario melero lópez,Laliga
+2023-11-29T20:00:00Z,13,mallorca,cádiz cf,1,1,1,1,0,draw,draw,javier iglesias villanueva,Laliga
+2023-12-01T20:00:00Z,15,las palmas,getafe,2,0,1,0,2,las palmas,getafe,mateo busquets ferrer,Laliga
+2023-12-02T13:00:00Z,15,girona,valencia,2,1,0,0,1,girona,valencia,javier iglesias villanueva,Laliga
+2023-12-02T15:15:00Z,15,athletic,rayo vallecano,4,0,1,0,4,athletic,rayo vallecano,francisco hernández maeso,Laliga
+2023-12-02T17:30:00Z,15,real madrid,granada,2,0,1,0,2,real madrid,granada,pablo gonzález fuertes,Laliga
+2023-12-02T20:00:00Z,15,osasuna,real sociedad,1,1,1,1,0,draw,draw,juan pulido santana,Laliga
+2023-12-03T13:00:00Z,15,mallorca,alavés,0,0,0,0,0,draw,draw,jorge figueroa vázquez,Laliga
+2023-12-03T15:15:00Z,15,almería,real betis,0,0,0,0,0,draw,draw,alejandro muñiz ruiz,Laliga
+2023-12-03T17:30:00Z,15,sevilla fc,villarreal,1,1,0,0,0,draw,draw,isidro díaz de mera,Laliga
+2023-12-03T20:00:00Z,15,barça,atleti,1,0,1,0,1,barça,atleti,josé sánchez martínez,Laliga
+2023-12-04T20:00:00Z,15,celta,cádiz cf,1,1,0,1,0,draw,draw,jesús gil manzano,Laliga
+2023-12-08T20:00:00Z,16,getafe,valencia,1,0,0,0,1,getafe,valencia,guillermo cuadra fernández,Laliga
+2023-12-09T13:00:00Z,16,alavés,las palmas,0,1,0,1,1,las palmas,alavés,josé munuera montero,Laliga
+2023-12-09T15:15:00Z,16,real betis,real madrid,1,1,0,0,0,draw,draw,césar soto grado,Laliga
+2023-12-09T17:30:00Z,16,villarreal,real sociedad,0,3,0,3,3,real sociedad,villarreal,mario melero lópez,Laliga
+2023-12-09T20:00:00Z,16,mallorca,sevilla fc,1,0,1,0,1,mallorca,sevilla fc,javier alberola rojas,Laliga
+2023-12-10T13:00:00Z,16,atleti,almería,2,1,2,0,1,atleti,almería,ricardo de burgos,Laliga
+2023-12-10T17:30:00Z,16,cádiz cf,osasuna,1,1,1,0,0,draw,draw,juan martínez munuera,Laliga
+2023-12-10T20:00:00Z,16,barça,girona,2,4,1,2,2,girona,barça,isidro díaz de mera,Laliga
+2023-12-11T20:00:00Z,16,granada,athletic,1,1,0,1,0,draw,draw,miguel ortiz arias,Laliga
+2023-12-11T20:00:00Z,16,rayo vallecano,celta,0,0,0,0,0,draw,draw,víctor garcía verdura,Laliga
+2023-12-15T20:00:00Z,17,osasuna,rayo vallecano,1,0,0,0,1,osasuna,rayo vallecano,javier iglesias villanueva,Laliga
+2023-12-16T13:00:00Z,17,celta,granada,1,0,1,0,1,celta,granada,josé sánchez martínez,Laliga
+2023-12-16T15:15:00Z,17,athletic,atleti,2,0,0,0,2,athletic,atleti,jesús gil manzano,Laliga
+2023-12-16T17:30:00Z,17,sevilla fc,getafe,0,3,0,2,3,getafe,sevilla fc,juan pulido santana,Laliga
+2023-12-16T20:00:00Z,17,valencia,barça,1,1,0,0,0,draw,draw,miguel ortiz arias,Laliga
+2023-12-17T13:00:00Z,17,almería,mallorca,0,0,0,0,0,draw,draw,pablo gonzález fuertes,Laliga
+2023-12-17T15:15:00Z,17,real sociedad,real betis,0,0,0,0,0,draw,draw,mateo busquets ferrer,Laliga
+2023-12-17T17:30:00Z,17,las palmas,cádiz cf,1,1,1,0,0,draw,draw,alejandro muñiz ruiz,Laliga
+2023-12-17T20:00:00Z,17,real madrid,villarreal,4,1,2,0,3,real madrid,villarreal,jorge figueroa vázquez,Laliga
+2023-12-18T20:00:00Z,17,girona,alavés,3,0,2,0,3,girona,alavés,francisco hernández maeso,Laliga
+2023-12-19T18:00:00Z,18,rayo vallecano,valencia,0,1,0,0,1,valencia,rayo vallecano,javier alberola rojas,Laliga
+2023-12-19T20:30:00Z,18,atleti,getafe,3,3,1,0,0,draw,draw,josé munuera montero,Laliga
+2023-12-19T20:30:00Z,18,granada,sevilla fc,0,3,0,2,3,sevilla fc,granada,mateo busquets ferrer,Laliga
+2023-12-20T18:00:00Z,18,barça,almería,3,2,1,1,1,barça,almería,guillermo cuadra fernández,Laliga
+2023-12-20T20:30:00Z,18,athletic,las palmas,1,0,0,0,1,athletic,las palmas,juan martínez munuera,Laliga
+2023-12-20T20:30:00Z,18,villarreal,celta,3,2,2,0,1,villarreal,celta,césar soto grado,Laliga
+2023-12-21T18:00:00Z,18,real betis,girona,1,1,0,1,0,draw,draw,ricardo de burgos,Laliga
+2023-12-21T18:00:00Z,18,cádiz cf,real sociedad,0,0,0,0,0,draw,draw,javier iglesias villanueva,Laliga
+2023-12-21T20:30:00Z,18,alavés,real madrid,0,1,0,0,1,real madrid,alavés,isidro díaz de mera,Laliga
+2023-12-21T20:30:00Z,18,mallorca,osasuna,3,2,1,1,1,mallorca,osasuna,mario melero lópez,Laliga
+2023-12-23T15:15:00Z,4,atleti,sevilla fc,1,0,0,0,1,atleti,sevilla fc,unknown,Laliga
+2024-01-02T16:00:00Z,19,getafe,rayo vallecano,0,2,0,1,2,rayo vallecano,getafe,jorge figueroa vázquez,Laliga
+2024-01-02T18:15:00Z,19,real sociedad,alavés,1,1,0,0,0,draw,draw,víctor garcía verdura,Laliga
+2024-01-02T20:30:00Z,19,valencia,villarreal,3,1,2,0,2,valencia,villarreal,jesús gil manzano,Laliga
+2024-01-03T16:00:00Z,19,granada,cádiz cf,2,0,1,0,2,granada,cádiz cf,juan pulido santana,Laliga
+2024-01-03T18:15:00Z,19,celta,real betis,2,1,1,1,1,celta,real betis,miguel ortiz arias,Laliga
+2024-01-03T18:15:00Z,19,real madrid,mallorca,1,0,0,0,1,real madrid,mallorca,alejandro muñiz ruiz,Laliga
+2024-01-03T20:30:00Z,19,girona,atleti,4,3,3,2,1,girona,atleti,alejandro hernández hernández,Laliga
+2024-01-04T16:00:00Z,19,osasuna,almería,1,0,1,0,1,osasuna,almería,césar soto grado,Laliga
+2024-01-04T18:15:00Z,19,sevilla fc,athletic,0,2,0,1,2,athletic,sevilla fc,josé sánchez martínez,Laliga
+2024-01-04T20:30:00Z,19,las palmas,barça,1,2,1,0,1,barça,las palmas,pablo gonzález fuertes,Laliga
+2024-01-12T20:00:00Z,20,sevilla fc,alavés,2,3,0,2,1,alavés,sevilla fc,alejandro hernández hernández,Laliga
+2024-01-13T13:00:00Z,20,las palmas,villarreal,3,0,1,0,3,las palmas,villarreal,javier iglesias villanueva,Laliga
+2024-01-13T15:15:00Z,20,mallorca,celta,1,1,1,1,0,draw,draw,víctor garcía verdura,Laliga
+2024-01-13T17:30:00Z,20,athletic,real sociedad,2,1,2,0,1,athletic,real sociedad,josé munuera montero,Laliga
+2024-01-13T20:00:00Z,20,real betis,granada,1,0,0,0,1,real betis,granada,guillermo cuadra fernández,Laliga
+2024-01-14T13:00:00Z,20,almería,girona,0,0,0,0,0,draw,draw,mateo busquets ferrer,Laliga
+2024-01-14T15:15:00Z,20,cádiz cf,valencia,1,4,1,1,3,valencia,cádiz cf,isidro díaz de mera,Laliga
+2024-01-19T20:00:00Z,21,alavés,cádiz cf,1,0,0,0,1,alavés,cádiz cf,alejandro muñiz ruiz,Laliga
+2024-01-20T13:00:00Z,21,rayo vallecano,las palmas,0,2,0,1,2,las palmas,rayo vallecano,mario melero lópez,Laliga
+2024-01-20T15:15:00Z,21,villarreal,mallorca,1,1,1,0,0,draw,draw,miguel ortiz arias,Laliga
+2024-01-20T17:30:00Z,21,valencia,athletic,1,0,0,0,1,valencia,athletic,juan pulido santana,Laliga
+2024-01-20T20:00:00Z,21,celta,real sociedad,0,1,0,1,1,real sociedad,celta,jorge figueroa vázquez,Laliga
+2024-01-21T13:00:00Z,21,osasuna,getafe,3,2,2,0,1,osasuna,getafe,josé sánchez martínez,Laliga
+2024-01-21T15:15:00Z,21,real madrid,almería,3,2,0,2,1,real madrid,almería,francisco hernández maeso,Laliga
+2024-01-21T17:30:00Z,21,real betis,barça,2,4,0,1,2,barça,real betis,jesús gil manzano,Laliga
+2024-01-21T20:00:00Z,21,girona,sevilla fc,5,1,3,1,4,girona,sevilla fc,pablo gonzález fuertes,Laliga
+2024-01-22T20:00:00Z,21,granada,atleti,0,1,0,0,1,atleti,granada,juan martínez munuera,Laliga
+2024-01-26T20:00:00Z,22,almería,alavés,0,3,0,1,3,alavés,almería,miguel ortiz arias,Laliga
+2024-01-27T13:00:00Z,22,real sociedad,rayo vallecano,0,0,0,0,0,draw,draw,alejandro hernández hernández,Laliga
+2024-01-27T15:15:00Z,22,las palmas,real madrid,1,2,0,0,1,real madrid,las palmas,césar soto grado,Laliga
+2024-01-27T17:30:00Z,22,barça,villarreal,3,5,0,1,2,villarreal,barça,josé munuera montero,Laliga
+2024-01-27T20:00:00Z,22,mallorca,real betis,0,1,0,1,1,real betis,mallorca,javier iglesias villanueva,Laliga
+2024-01-28T13:00:00Z,22,celta,girona,0,1,0,1,1,girona,celta,mario melero lópez,Laliga
+2024-01-28T15:15:00Z,22,cádiz cf,athletic,0,0,0,0,0,draw,draw,mateo busquets ferrer,Laliga
+2024-01-28T17:30:00Z,22,sevilla fc,osasuna,1,1,1,0,0,draw,draw,guillermo cuadra fernández,Laliga
+2024-01-28T20:00:00Z,22,atleti,valencia,2,0,1,0,2,atleti,valencia,ricardo de burgos,Laliga
+2024-01-29T20:00:00Z,22,getafe,granada,2,0,2,0,2,getafe,granada,víctor garcía verdura,Laliga
+2024-01-31T18:00:00Z,20,barça,osasuna,1,0,0,0,1,barça,osasuna,jorge figueroa vázquez,Laliga
+2024-01-31T20:00:00Z,20,atleti,rayo vallecano,2,1,1,1,1,atleti,rayo vallecano,césar soto grado,Laliga
+2024-02-01T20:00:00Z,20,getafe,real madrid,0,2,0,1,2,real madrid,getafe,ricardo de burgos,Laliga
+2024-02-02T20:00:00Z,23,athletic,mallorca,4,0,2,0,4,athletic,mallorca,jorge figueroa vázquez,Laliga
+2024-02-03T13:00:00Z,23,valencia,almería,2,1,2,0,1,valencia,almería,alejandro muñiz ruiz,Laliga
+2024-02-03T15:15:00Z,23,granada,las palmas,1,1,1,0,0,draw,draw,mateo busquets ferrer,Laliga
+2024-02-03T17:30:00Z,23,alavés,barça,1,3,0,1,2,barça,alavés,juan martínez munuera,Laliga
+2024-02-03T20:00:00Z,23,girona,real sociedad,0,0,0,0,0,draw,draw,jesús gil manzano,Laliga
+2024-02-04T13:00:00Z,23,villarreal,cádiz cf,0,0,0,0,0,draw,draw,pablo gonzález fuertes,Laliga
+2024-02-04T15:15:00Z,23,osasuna,celta,0,3,0,2,3,celta,osasuna,javier alberola rojas,Laliga
+2024-02-04T17:30:00Z,23,real betis,getafe,1,1,1,1,0,draw,draw,juan pulido santana,Laliga
+2024-02-04T20:00:00Z,23,real madrid,atleti,1,1,1,0,0,draw,draw,josé sánchez martínez,Laliga
+2024-02-05T20:00:00Z,23,rayo vallecano,sevilla fc,1,2,1,2,1,sevilla fc,rayo vallecano,francisco hernández maeso,Laliga
+2024-02-09T20:00:00Z,24,cádiz cf,real betis,0,2,0,1,2,real betis,cádiz cf,ricardo de burgos,Laliga
+2024-02-10T13:00:00Z,24,alavés,villarreal,1,1,1,1,0,draw,draw,mario melero lópez,Laliga
+2024-02-10T15:15:00Z,24,real sociedad,osasuna,0,1,0,0,1,osasuna,real sociedad,isidro díaz de mera,Laliga
+2024-02-10T17:30:00Z,24,real madrid,girona,4,0,2,0,4,real madrid,girona,juan martínez munuera,Laliga
+2024-02-10T20:00:00Z,24,las palmas,valencia,2,0,0,0,2,las palmas,valencia,guillermo cuadra fernández,Laliga
+2024-02-11T13:00:00Z,24,getafe,celta,3,2,2,0,1,getafe,celta,alejandro hernández hernández,Laliga
+2024-02-11T15:15:00Z,24,mallorca,rayo vallecano,2,1,0,0,1,mallorca,rayo vallecano,josé munuera montero,Laliga
+2024-02-11T17:30:00Z,24,sevilla fc,atleti,1,0,1,0,1,sevilla fc,atleti,javier iglesias villanueva,Laliga
+2024-02-11T20:00:00Z,24,barça,granada,3,3,1,1,0,draw,draw,miguel ortiz arias,Laliga
+2024-02-12T20:00:00Z,24,almería,athletic,0,0,0,0,0,draw,draw,víctor garcía verdura,Laliga
+2024-02-16T20:00:00Z,25,villarreal,getafe,1,1,0,1,0,draw,draw,javier alberola rojas,Laliga
+2024-02-17T13:00:00Z,25,atleti,las palmas,5,0,2,0,5,atleti,las palmas,jorge figueroa vázquez,Laliga
+2024-02-17T15:15:00Z,25,osasuna,cádiz cf,2,0,0,0,2,osasuna,cádiz cf,francisco hernández maeso,Laliga
+2024-02-17T17:30:00Z,25,celta,barça,1,2,0,1,1,barça,celta,juan pulido santana,Laliga
+2024-02-17T20:00:00Z,25,valencia,sevilla fc,0,0,0,0,0,draw,draw,césar soto grado,Laliga
+2024-02-18T13:00:00Z,25,rayo vallecano,real madrid,1,1,1,1,0,draw,draw,alejandro muñiz ruiz,Laliga
+2024-02-18T15:15:00Z,25,granada,almería,1,1,0,1,0,draw,draw,jesús gil manzano,Laliga
+2024-02-18T17:30:00Z,25,mallorca,real sociedad,1,2,1,1,1,real sociedad,mallorca,pablo gonzález fuertes,Laliga
+2024-02-18T20:00:00Z,25,real betis,alavés,0,0,0,0,0,draw,draw,mateo busquets ferrer,Laliga
+2024-02-19T20:00:00Z,25,athletic,girona,3,2,1,0,1,athletic,girona,josé sánchez martínez,Laliga
+2024-02-23T20:00:00Z,26,real sociedad,villarreal,1,3,0,1,2,villarreal,real sociedad,javier iglesias villanueva,Laliga
+2024-02-24T15:15:00Z,26,barça,getafe,4,0,1,0,4,barça,getafe,alejandro muñiz ruiz,Laliga
+2024-02-24T17:30:00Z,26,alavés,mallorca,1,1,0,0,0,draw,draw,víctor garcía verdura,Laliga
+2024-02-24T20:00:00Z,26,almería,atleti,2,2,1,1,0,draw,draw,javier alberola rojas,Laliga
+2024-02-25T13:00:00Z,26,cádiz cf,celta,2,2,0,1,0,draw,draw,miguel ortiz arias,Laliga
+2024-02-25T15:15:00Z,26,real betis,athletic,3,1,2,1,2,real betis,athletic,guillermo cuadra fernández,Laliga
+2024-02-25T17:30:00Z,26,las palmas,osasuna,1,1,0,0,0,draw,draw,josé munuera montero,Laliga
+2024-02-25T20:00:00Z,26,real madrid,sevilla fc,1,0,0,0,1,real madrid,sevilla fc,isidro díaz de mera,Laliga
+2024-02-26T20:00:00Z,26,girona,rayo vallecano,3,0,0,0,3,girona,rayo vallecano,ricardo de burgos,Laliga
+2024-03-01T20:00:00Z,27,celta,almería,1,0,0,0,1,celta,almería,josé sánchez martínez,Laliga
+2024-03-02T13:00:00Z,27,sevilla fc,real sociedad,3,2,2,1,1,sevilla fc,real sociedad,mateo busquets ferrer,Laliga
+2024-03-02T15:15:00Z,27,rayo vallecano,cádiz cf,1,1,0,0,0,draw,draw,javier alberola rojas,Laliga
+2024-03-02T17:30:00Z,27,getafe,las palmas,3,3,3,1,0,draw,draw,pablo gonzález fuertes,Laliga
+2024-03-02T20:00:00Z,27,valencia,real madrid,2,2,2,1,0,draw,draw,jesús gil manzano,Laliga
+2024-03-03T13:00:00Z,27,villarreal,granada,5,1,3,0,4,villarreal,granada,juan pulido santana,Laliga
+2024-03-03T15:15:00Z,27,atleti,real betis,2,1,2,0,1,atleti,real betis,césar soto grado,Laliga
+2024-03-03T17:30:00Z,27,mallorca,girona,1,0,1,0,1,mallorca,girona,francisco hernández maeso,Laliga
+2024-03-03T20:00:00Z,27,athletic,barça,0,0,0,0,0,draw,draw,alejandro hernández hernández,Laliga
+2024-03-04T20:00:00Z,27,osasuna,alavés,1,0,0,0,1,osasuna,alavés,jorge figueroa vázquez,Laliga
+2024-03-08T20:00:00Z,28,barça,mallorca,1,0,0,0,1,barça,mallorca,javier iglesias villanueva,Laliga
+2024-03-09T13:00:00Z,28,valencia,getafe,1,0,1,0,1,valencia,getafe,juan pulido santana,Laliga
+2024-03-09T15:15:00Z,28,cádiz cf,atleti,2,0,1,0,2,cádiz cf,atleti,pablo gonzález fuertes,Laliga
+2024-03-09T17:30:00Z,28,granada,real sociedad,2,3,2,1,1,real sociedad,granada,juan martínez munuera,Laliga
+2024-03-09T20:00:00Z,28,girona,osasuna,2,0,1,0,2,girona,osasuna,mateo busquets ferrer,Laliga
+2024-03-10T13:00:00Z,28,alavés,rayo vallecano,1,0,1,0,1,alavés,rayo vallecano,josé munuera montero,Laliga
+2024-03-10T15:15:00Z,28,las palmas,athletic,0,2,0,1,2,athletic,las palmas,miguel ortiz arias,Laliga
+2024-03-10T17:30:00Z,28,real madrid,celta,4,0,1,0,4,real madrid,celta,mario melero lópez,Laliga
+2024-03-10T20:00:00Z,28,real betis,villarreal,2,3,2,1,1,villarreal,real betis,alejandro hernández hernández,Laliga
+2024-03-11T20:00:00Z,28,almería,sevilla fc,2,2,1,0,0,draw,draw,ricardo de burgos,Laliga
+2024-03-15T20:00:00Z,29,real sociedad,cádiz cf,2,0,1,0,2,real sociedad,cádiz cf,césar soto grado,Laliga
+2024-03-16T13:00:00Z,29,mallorca,granada,1,0,0,0,1,mallorca,granada,ricardo de burgos,Laliga
+2024-03-16T15:15:00Z,29,osasuna,real madrid,2,4,1,2,2,real madrid,osasuna,juan martínez munuera,Laliga
+2024-03-16T17:30:00Z,29,getafe,girona,1,0,1,0,1,getafe,girona,josé munuera montero,Laliga
+2024-03-16T20:00:00Z,29,athletic,alavés,2,0,2,0,2,athletic,alavés,alejandro muñiz ruiz,Laliga
+2024-03-17T13:00:00Z,29,sevilla fc,celta,1,2,1,0,1,celta,sevilla fc,francisco hernández maeso,Laliga
+2024-03-17T15:15:00Z,29,villarreal,valencia,1,0,0,0,1,villarreal,valencia,jorge figueroa vázquez,Laliga
+2024-03-17T15:15:00Z,29,las palmas,almería,0,1,0,1,1,almería,las palmas,víctor garcía verdura,Laliga
+2024-03-17T17:30:00Z,29,rayo vallecano,real betis,2,0,1,0,2,rayo vallecano,real betis,juan pulido santana,Laliga
+2024-03-17T20:00:00Z,29,atleti,barça,0,3,0,1,3,barça,atleti,josé sánchez martínez,Laliga
+2024-03-29T20:00:00Z,30,cádiz cf,granada,1,0,0,0,1,cádiz cf,granada,guillermo cuadra fernández,Laliga
+2024-03-30T13:00:00Z,30,getafe,sevilla fc,0,1,0,1,1,sevilla fc,getafe,javier iglesias villanueva,Laliga
+2024-03-30T15:15:00Z,30,almería,osasuna,0,3,0,2,3,osasuna,almería,pablo gonzález fuertes,Laliga
+2024-03-30T17:30:00Z,30,valencia,mallorca,0,0,0,0,0,draw,draw,miguel ortiz arias,Laliga
+2024-03-30T20:00:00Z,30,barça,las palmas,1,0,0,0,1,barça,las palmas,mateo busquets ferrer,Laliga
+2024-03-31T12:00:00Z,30,celta,rayo vallecano,0,0,0,0,0,draw,draw,alejandro hernández hernández,Laliga
+2024-03-31T14:15:00Z,30,girona,real betis,3,2,1,1,1,girona,real betis,jesús gil manzano,Laliga
+2024-03-31T16:30:00Z,30,alavés,real sociedad,0,1,0,0,1,real sociedad,alavés,francisco hernández maeso,Laliga
+2024-03-31T19:00:00Z,30,real madrid,athletic,2,0,1,0,2,real madrid,athletic,javier alberola rojas,Laliga
+2024-04-01T19:00:00Z,30,villarreal,atleti,1,2,0,1,1,atleti,villarreal,mario melero lópez,Laliga
+2024-04-04T18:00:00Z,26,granada,valencia,0,1,0,0,1,valencia,granada,alejandro hernández hernández,Laliga
+2024-04-12T19:00:00Z,31,real betis,celta,2,1,0,0,1,real betis,celta,juan martínez munuera,Laliga
+2024-04-13T12:00:00Z,31,atleti,girona,3,1,2,1,2,atleti,girona,ricardo de burgos,Laliga
+2024-04-13T14:15:00Z,31,rayo vallecano,getafe,0,0,0,0,0,draw,draw,jorge figueroa vázquez,Laliga
+2024-04-13T16:30:00Z,31,mallorca,real madrid,0,1,0,0,1,real madrid,mallorca,josé sánchez martínez,Laliga
+2024-04-13T19:00:00Z,31,cádiz cf,barça,0,1,0,1,1,barça,cádiz cf,juan pulido santana,Laliga
+2024-04-14T12:00:00Z,31,las palmas,sevilla fc,0,2,0,1,2,sevilla fc,las palmas,alejandro muñiz ruiz,Laliga
+2024-04-14T14:15:00Z,31,granada,alavés,2,0,2,0,2,granada,alavés,víctor garcía verdura,Laliga
+2024-04-14T16:30:00Z,31,athletic,villarreal,1,1,0,0,0,draw,draw,guillermo cuadra fernández,Laliga
+2024-04-14T19:00:00Z,31,real sociedad,almería,2,2,1,1,0,draw,draw,isidro díaz de mera,Laliga
+2024-04-15T19:00:00Z,31,osasuna,valencia,0,1,0,1,1,valencia,osasuna,josé munuera montero,Laliga
+2024-04-19T19:00:00Z,32,athletic,granada,1,1,1,1,0,draw,draw,javier iglesias villanueva,Laliga
+2024-04-20T12:00:00Z,32,celta,las palmas,4,1,2,1,3,celta,las palmas,francisco hernández maeso,Laliga
+2024-04-20T14:15:00Z,32,rayo vallecano,osasuna,2,1,0,1,1,rayo vallecano,osasuna,mario melero lópez,Laliga
+2024-04-20T16:30:00Z,32,valencia,real betis,1,2,0,1,1,real betis,valencia,mateo busquets ferrer,Laliga
+2024-04-20T19:00:00Z,32,girona,cádiz cf,4,1,2,0,3,girona,cádiz cf,javier alberola rojas,Laliga
+2024-04-21T12:00:00Z,32,getafe,real sociedad,1,1,1,1,0,draw,draw,víctor garcía verdura,Laliga
+2024-04-21T14:15:00Z,32,almería,villarreal,1,2,1,1,1,villarreal,almería,miguel ortiz arias,Laliga
+2024-04-21T16:30:00Z,32,alavés,atleti,2,0,1,0,2,alavés,atleti,jesús gil manzano,Laliga
+2024-04-21T19:00:00Z,32,real madrid,barça,3,2,1,1,1,real madrid,barça,césar soto grado,Laliga
+2024-04-22T19:00:00Z,32,sevilla fc,mallorca,2,1,0,0,1,sevilla fc,mallorca,alejandro hernández hernández,Laliga
+2024-04-26T19:00:00Z,33,real sociedad,real madrid,0,1,0,1,1,real madrid,real sociedad,josé munuera montero,Laliga
+2024-04-27T12:00:00Z,33,las palmas,girona,0,2,0,1,2,girona,las palmas,jorge figueroa vázquez,Laliga
+2024-04-27T14:15:00Z,33,almería,getafe,1,3,1,1,2,getafe,almería,guillermo cuadra fernández,Laliga
+2024-04-27T16:30:00Z,33,alavés,celta,3,0,0,0,3,alavés,celta,juan pulido santana,Laliga
+2024-04-27T19:00:00Z,33,atleti,athletic,3,1,1,1,2,atleti,athletic,juan martínez munuera,Laliga
+2024-04-28T12:00:00Z,33,cádiz cf,mallorca,1,1,0,1,0,draw,draw,isidro díaz de mera,Laliga
+2024-04-28T14:15:00Z,33,granada,osasuna,3,0,1,0,3,granada,osasuna,alejandro muñiz ruiz,Laliga
+2024-04-28T16:30:00Z,33,villarreal,rayo vallecano,3,0,1,0,3,villarreal,rayo vallecano,pablo gonzález fuertes,Laliga
+2024-04-28T19:00:00Z,33,real betis,sevilla fc,1,1,1,0,0,draw,draw,josé sánchez martínez,Laliga
+2024-04-29T19:00:00Z,33,barça,valencia,4,2,1,2,2,barça,valencia,ricardo de burgos,Laliga
+2024-05-03T19:00:00Z,34,getafe,athletic,0,2,0,1,2,athletic,getafe,jesús gil manzano,Laliga
+2024-05-04T12:00:00Z,34,real sociedad,las palmas,2,0,2,0,2,real sociedad,las palmas,miguel ortiz arias,Laliga
+2024-05-04T14:15:00Z,34,real madrid,cádiz cf,3,0,0,0,3,real madrid,cádiz cf,javier iglesias villanueva,Laliga
+2024-05-04T16:30:00Z,34,girona,barça,4,2,1,2,2,girona,barça,alejandro hernández hernández,Laliga
+2024-05-04T19:00:00Z,34,mallorca,atleti,0,1,0,1,1,atleti,mallorca,javier alberola rojas,Laliga
+2024-05-05T12:00:00Z,34,osasuna,real betis,0,2,0,2,2,real betis,osasuna,víctor garcía verdura,Laliga
+2024-05-05T14:15:00Z,34,celta,villarreal,3,2,2,1,1,celta,villarreal,césar soto grado,Laliga
+2024-05-05T16:30:00Z,34,valencia,alavés,0,1,0,0,1,alavés,valencia,mario melero lópez,Laliga
+2024-05-05T19:00:00Z,34,sevilla fc,granada,3,0,1,0,3,sevilla fc,granada,mateo busquets ferrer,Laliga
+2024-05-05T19:00:00Z,34,rayo vallecano,almería,0,1,0,1,1,almería,rayo vallecano,francisco hernández maeso,Laliga
+2024-05-10T19:00:00Z,35,alavés,girona,2,2,1,2,0,draw,draw,josé munuera montero,Laliga
+2024-05-11T12:00:00Z,35,mallorca,las palmas,1,0,1,0,1,mallorca,las palmas,juan martínez munuera,Laliga
+2024-05-11T14:15:00Z,35,villarreal,sevilla fc,3,2,1,2,1,villarreal,sevilla fc,isidro díaz de mera,Laliga
+2024-05-11T16:30:00Z,35,granada,real madrid,0,4,0,2,4,real madrid,granada,pablo gonzález fuertes,Laliga
+2024-05-11T19:00:00Z,35,athletic,osasuna,2,2,0,1,0,draw,draw,josé sánchez martínez,Laliga
+2024-05-12T12:00:00Z,35,cádiz cf,getafe,1,0,1,0,1,cádiz cf,getafe,ricardo de burgos,Laliga
+2024-05-12T14:15:00Z,35,atleti,celta,1,0,0,0,1,atleti,celta,jorge figueroa vázquez,Laliga
+2024-05-12T16:30:00Z,35,valencia,rayo vallecano,0,0,0,0,0,draw,draw,juan pulido santana,Laliga
+2024-05-12T19:00:00Z,35,real betis,almería,3,2,2,1,1,real betis,almería,alejandro muñiz ruiz,Laliga
+2024-05-13T19:00:00Z,35,barça,real sociedad,2,0,1,0,2,barça,real sociedad,guillermo cuadra fernández,Laliga
+2024-05-14T17:30:00Z,36,osasuna,mallorca,1,1,1,0,0,draw,draw,francisco hernández maeso,Laliga
+2024-05-14T19:30:00Z,36,real madrid,alavés,5,0,3,0,5,real madrid,alavés,mateo busquets ferrer,Laliga
+2024-05-14T20:00:00Z,36,girona,villarreal,0,1,0,0,1,villarreal,girona,josé sánchez martínez,Laliga
+2024-05-15T17:30:00Z,36,sevilla fc,cádiz cf,0,1,0,0,1,cádiz cf,sevilla fc,miguel ortiz arias,Laliga
+2024-05-15T17:30:00Z,36,rayo vallecano,granada,2,1,1,0,1,rayo vallecano,granada,isidro díaz de mera,Laliga
+2024-05-15T20:00:00Z,36,celta,athletic,2,1,0,1,1,celta,athletic,víctor garcía verdura,Laliga
+2024-05-15T20:00:00Z,36,getafe,atleti,0,3,0,2,3,atleti,getafe,mario melero lópez,Laliga
+2024-05-16T17:30:00Z,36,las palmas,real betis,2,2,1,1,0,draw,draw,javier iglesias villanueva,Laliga
+2024-05-16T19:30:00Z,36,almería,barça,0,2,0,1,2,barça,almería,javier alberola rojas,Laliga
+2024-05-16T20:00:00Z,36,real sociedad,valencia,1,0,1,0,1,real sociedad,valencia,césar soto grado,Laliga
+2024-05-18T19:00:00Z,37,alavés,getafe,1,0,1,0,1,alavés,getafe,jorge figueroa vázquez,Laliga
+2024-05-19T17:00:00Z,37,athletic,sevilla fc,2,0,2,0,2,athletic,sevilla fc,juan pulido santana,Laliga
+2024-05-19T17:00:00Z,37,atleti,osasuna,1,4,0,1,3,osasuna,atleti,pablo gonzález fuertes,Laliga
+2024-05-19T17:00:00Z,37,real betis,real sociedad,0,2,0,2,2,real sociedad,real betis,juan martínez munuera,Laliga
+2024-05-19T17:00:00Z,37,barça,rayo vallecano,3,0,1,0,3,barça,rayo vallecano,jesús gil manzano,Laliga
+2024-05-19T17:00:00Z,37,cádiz cf,las palmas,0,0,0,0,0,draw,draw,césar soto grado,Laliga
+2024-05-19T17:00:00Z,37,granada,celta,1,2,0,0,1,celta,granada,javier alberola rojas,Laliga
+2024-05-19T17:00:00Z,37,valencia,girona,1,3,0,1,2,girona,valencia,guillermo cuadra fernández,Laliga
+2024-05-19T17:00:00Z,37,villarreal,real madrid,4,4,1,4,0,draw,draw,alejandro hernández hernández,Laliga
+2024-05-19T17:00:00Z,37,mallorca,almería,2,2,1,1,0,draw,draw,ricardo de burgos,Laliga
+2024-05-24T19:00:00Z,38,girona,granada,7,0,3,0,7,girona,granada,alejandro muñiz ruiz,Laliga
+2024-05-25T12:00:00Z,38,osasuna,villarreal,1,1,1,0,0,draw,draw,mario melero lópez,Laliga
+2024-05-25T14:15:00Z,38,real sociedad,atleti,0,2,0,1,2,atleti,real sociedad,josé sánchez martínez,Laliga
+2024-05-25T16:30:00Z,38,rayo vallecano,athletic,0,1,0,0,1,athletic,rayo vallecano,josé munuera montero,Laliga
+2024-05-25T16:30:00Z,38,almería,cádiz cf,6,1,0,1,5,almería,cádiz cf,mateo busquets ferrer,Laliga
+2024-05-25T19:00:00Z,38,real madrid,real betis,0,0,0,0,0,draw,draw,isidro díaz de mera,Laliga
+2024-05-26T12:00:00Z,38,getafe,mallorca,1,2,0,0,1,mallorca,getafe,víctor garcía verdura,Laliga
+2024-05-26T14:15:00Z,38,celta,valencia,2,2,0,1,0,draw,draw,miguel ortiz arias,Laliga
+2024-05-26T14:15:00Z,38,las palmas,alavés,1,1,0,0,0,draw,draw,francisco hernández maeso,Laliga
+2024-05-26T19:00:00Z,38,sevilla fc,barça,1,2,1,1,1,barça,sevilla fc,javier iglesias villanueva,Laliga
+2023-08-11T19:00:00Z,1,nice,lille,1,1,1,0,0,draw,draw,benoît bastien,Ligue_1
+2023-08-12T15:00:00Z,1,marseille,stade de reims,2,1,1,1,1,marseille,stade de reims,eric wattellier,Ligue_1
+2023-08-12T19:00:00Z,1,psg,lorient,0,0,0,0,0,draw,draw,bastien dechepy,Ligue_1
+2023-08-13T11:00:00Z,1,brest,rc lens,3,2,1,2,1,brest,rc lens,jérémie pignard,Ligue_1
+2023-08-13T13:00:00Z,1,clermont foot,monaco,2,4,1,2,2,monaco,clermont foot,françois letexier,Ligue_1
+2023-08-13T13:00:00Z,1,nantes,toulouse,1,2,1,0,1,toulouse,nantes,willy delajod,Ligue_1
+2023-08-13T13:00:00Z,1,montpellier,le havre,2,2,0,1,0,draw,draw,clément turpin,Ligue_1
+2023-08-13T15:05:00Z,1,stade rennais,fc metz,5,1,1,1,4,stade rennais,fc metz,jeremy stinat,Ligue_1
+2023-08-13T18:45:00Z,1,strasbourg,olympique lyon,2,1,0,0,1,strasbourg,olympique lyon,jérôme brisard,Ligue_1
+2023-08-18T19:00:00Z,2,fc metz,marseille,2,2,0,1,0,draw,draw,jérôme brisard,Ligue_1
+2023-08-19T17:00:00Z,2,olympique lyon,montpellier,1,4,0,2,3,montpellier,olympique lyon,mathieu vernice,Ligue_1
+2023-08-19T19:00:00Z,2,toulouse,psg,1,1,0,0,0,draw,draw,thomas léonard,Ligue_1
+2023-08-20T11:00:00Z,2,lille,nantes,2,0,0,0,2,lille,nantes,pierre gaillouste,Ligue_1
+2023-08-20T13:00:00Z,2,le havre,brest,1,2,0,1,1,brest,le havre,florent batta,Ligue_1
+2023-08-20T13:00:00Z,2,lorient,nice,1,1,0,0,0,draw,draw,hakim ben el hadj salem,Ligue_1
+2023-08-20T13:00:00Z,2,stade de reims,clermont foot,2,0,1,0,2,stade de reims,clermont foot,romain lissorgue,Ligue_1
+2023-08-20T17:00:00Z,2,monaco,strasbourg,3,0,2,0,3,monaco,strasbourg,ruddy buquet,Ligue_1
+2023-08-20T18:45:00Z,2,rc lens,stade rennais,1,1,1,0,0,draw,draw,benoît millot,Ligue_1
+2023-08-25T19:00:00Z,3,nantes,monaco,3,3,2,1,0,draw,draw,jérémie pignard,Ligue_1
+2023-08-26T17:00:00Z,3,marseille,brest,2,0,1,0,2,marseille,brest,jeremy stinat,Ligue_1
+2023-08-26T19:00:00Z,3,psg,rc lens,3,1,1,0,2,psg,rc lens,françois letexier,Ligue_1
+2023-08-27T11:00:00Z,3,stade rennais,le havre,2,2,2,1,0,draw,draw,eric wattellier,Ligue_1
+2023-08-27T13:00:00Z,3,clermont foot,fc metz,0,1,0,0,1,fc metz,clermont foot,gaël angoula,Ligue_1
+2023-08-27T13:00:00Z,3,montpellier,stade de reims,1,3,1,2,2,stade de reims,montpellier,marc bollengier,Ligue_1
+2023-08-27T13:00:00Z,3,strasbourg,toulouse,2,0,0,0,2,strasbourg,toulouse,benoît bastien,Ligue_1
+2023-08-27T15:05:00Z,3,lorient,lille,4,1,2,0,3,lorient,lille,willy delajod,Ligue_1
+2023-08-27T18:45:00Z,3,nice,olympique lyon,0,0,0,0,0,draw,draw,bastien dechepy,Ligue_1
+2023-09-01T19:00:00Z,4,nantes,marseille,1,1,1,1,0,draw,draw,ruddy buquet,Ligue_1
+2023-09-02T15:00:00Z,4,brest,stade rennais,0,0,0,0,0,draw,draw,hakim ben el hadj salem,Ligue_1
+2023-09-02T19:00:00Z,4,monaco,rc lens,3,0,2,0,3,monaco,rc lens,willy delajod,Ligue_1
+2023-09-03T11:00:00Z,4,toulouse,clermont foot,2,2,2,1,0,draw,draw,florent batta,Ligue_1
+2023-09-03T13:00:00Z,4,le havre,lorient,3,0,0,0,3,le havre,lorient,romain lissorgue,Ligue_1
+2023-09-03T13:00:00Z,4,fc metz,stade de reims,2,2,1,1,0,draw,draw,mathieu vernice,Ligue_1
+2023-09-03T13:00:00Z,4,lille,montpellier,1,0,1,0,1,lille,montpellier,benoît millot,Ligue_1
+2023-09-03T15:05:00Z,4,nice,strasbourg,2,0,1,0,2,nice,strasbourg,jeremy stinat,Ligue_1
+2023-09-03T18:45:00Z,4,olympique lyon,psg,1,4,0,4,3,psg,olympique lyon,eric wattellier,Ligue_1
+2023-09-15T19:00:00Z,5,psg,nice,2,3,1,1,1,nice,psg,clément turpin,Ligue_1
+2023-09-16T15:00:00Z,5,stade rennais,lille,2,2,0,1,0,draw,draw,jérôme brisard,Ligue_1
+2023-09-16T19:00:00Z,5,rc lens,fc metz,0,1,0,1,1,fc metz,rc lens,stéphanie frappart,Ligue_1
+2023-09-17T11:00:00Z,5,lorient,monaco,2,2,1,1,0,draw,draw,marc bollengier,Ligue_1
+2023-09-17T13:00:00Z,5,clermont foot,nantes,0,1,0,0,1,nantes,clermont foot,thomas léonard,Ligue_1
+2023-09-17T13:00:00Z,5,strasbourg,montpellier,2,2,0,2,0,draw,draw,pierre gaillouste,Ligue_1
+2023-09-17T13:00:00Z,5,stade de reims,brest,1,2,1,0,1,brest,stade de reims,gaël angoula,Ligue_1
+2023-09-17T15:05:00Z,5,marseille,toulouse,0,0,0,0,0,draw,draw,françois letexier,Ligue_1
+2023-09-17T18:45:00Z,5,olympique lyon,le havre,0,0,0,0,0,draw,draw,benoît bastien,Ligue_1
+2023-09-22T19:00:00Z,6,monaco,nice,0,1,0,0,1,nice,monaco,benoît millot,Ligue_1
+2023-09-23T15:00:00Z,6,nantes,lorient,5,3,1,1,2,nantes,lorient,florent batta,Ligue_1
+2023-09-23T19:00:00Z,6,brest,olympique lyon,1,0,0,0,1,brest,olympique lyon,thomas léonard,Ligue_1
+2023-09-24T11:00:00Z,6,fc metz,strasbourg,0,1,0,0,1,strasbourg,fc metz,clément turpin,Ligue_1
+2023-09-24T13:00:00Z,6,le havre,clermont foot,2,1,2,1,1,le havre,clermont foot,mathieu vernice,Ligue_1
+2023-09-24T13:00:00Z,6,rc lens,toulouse,2,1,1,1,1,rc lens,toulouse,hakim ben el hadj salem,Ligue_1
+2023-09-24T15:05:00Z,6,montpellier,stade rennais,0,0,0,0,0,draw,draw,stéphanie frappart,Ligue_1
+2023-09-24T18:45:00Z,6,psg,marseille,4,0,2,0,4,psg,marseille,willy delajod,Ligue_1
+2023-09-26T19:00:00Z,6,lille,stade de reims,1,2,0,2,1,stade de reims,lille,eric wattellier,Ligue_1
+2023-09-29T19:00:00Z,7,strasbourg,rc lens,0,1,0,1,1,rc lens,strasbourg,eric wattellier,Ligue_1
+2023-09-30T15:00:00Z,7,clermont foot,psg,0,0,0,0,0,draw,draw,marc bollengier,Ligue_1
+2023-09-30T19:00:00Z,7,monaco,marseille,3,2,2,2,1,monaco,marseille,benoît bastien,Ligue_1
+2023-10-01T11:00:00Z,7,stade de reims,olympique lyon,2,0,1,0,2,stade de reims,olympique lyon,françois letexier,Ligue_1
+2023-10-01T13:00:00Z,7,le havre,lille,0,2,0,1,2,lille,le havre,bastien dechepy,Ligue_1
+2023-10-01T13:00:00Z,7,toulouse,fc metz,3,0,2,0,3,toulouse,fc metz,gaël angoula,Ligue_1
+2023-10-01T13:00:00Z,7,nice,brest,0,0,0,0,0,draw,draw,romain lissorgue,Ligue_1
+2023-10-01T15:05:00Z,7,lorient,montpellier,0,3,0,1,3,montpellier,lorient,jeremy stinat,Ligue_1
+2023-10-01T18:45:00Z,7,stade rennais,nantes,3,1,1,1,2,stade rennais,nantes,ruddy buquet,Ligue_1
+2023-10-06T19:00:00Z,8,strasbourg,nantes,1,2,0,0,1,nantes,strasbourg,stéphanie frappart,Ligue_1
+2023-10-07T15:00:00Z,8,fc metz,nice,0,1,0,1,1,nice,fc metz,jérôme brisard,Ligue_1
+2023-10-07T19:00:00Z,8,stade de reims,monaco,1,3,0,1,2,monaco,stade de reims,hakim ben el hadj salem,Ligue_1
+2023-10-08T11:00:00Z,8,marseille,le havre,3,0,2,0,3,marseille,le havre,thomas léonard,Ligue_1
+2023-10-08T13:00:00Z,8,olympique lyon,lorient,3,3,3,1,0,draw,draw,clément turpin,Ligue_1
+2023-10-08T13:00:00Z,8,brest,toulouse,1,1,0,1,0,draw,draw,pierre gaillouste,Ligue_1
+2023-10-08T15:05:00Z,8,rc lens,lille,1,1,0,1,0,draw,draw,benoît millot,Ligue_1
+2023-10-08T19:00:00Z,8,stade rennais,psg,1,3,0,2,2,psg,stade rennais,benoît bastien,Ligue_1
+2023-10-20T19:00:00Z,9,le havre,rc lens,0,0,0,0,0,draw,draw,françois letexier,Ligue_1
+2023-10-21T15:00:00Z,9,psg,strasbourg,3,0,2,0,3,psg,strasbourg,bastien dechepy,Ligue_1
+2023-10-21T19:00:00Z,9,nice,marseille,1,0,0,0,1,nice,marseille,ruddy buquet,Ligue_1
+2023-10-22T11:00:00Z,9,lorient,stade rennais,2,1,2,1,1,lorient,stade rennais,gaël angoula,Ligue_1
+2023-10-22T13:00:00Z,9,nantes,montpellier,2,0,1,0,2,nantes,montpellier,marc bollengier,Ligue_1
+2023-10-22T13:00:00Z,9,toulouse,stade de reims,1,1,0,0,0,draw,draw,jeremy stinat,Ligue_1
+2023-10-22T13:00:00Z,9,lille,brest,1,0,1,0,1,lille,brest,mathieu vernice,Ligue_1
+2023-10-22T15:05:00Z,9,monaco,fc metz,2,1,1,1,1,monaco,fc metz,romain lissorgue,Ligue_1
+2023-10-22T18:45:00Z,9,olympique lyon,clermont foot,1,2,0,2,1,clermont foot,olympique lyon,willy delajod,Ligue_1
+2023-10-27T19:00:00Z,10,clermont foot,nice,0,1,0,0,1,nice,clermont foot,jérémie pignard,Ligue_1
+2023-10-28T15:00:00Z,10,stade de reims,lorient,1,0,0,0,1,stade de reims,lorient,benoît bastien,Ligue_1
+2023-10-28T19:00:00Z,10,rc lens,nantes,4,0,1,0,4,rc lens,nantes,pierre gaillouste,Ligue_1
+2023-10-29T12:00:00Z,10,brest,psg,2,3,1,2,1,psg,brest,jérôme brisard,Ligue_1
+2023-10-29T14:00:00Z,10,fc metz,le havre,0,0,0,0,0,draw,draw,hakim ben el hadj salem,Ligue_1
+2023-10-29T14:00:00Z,10,montpellier,toulouse,3,0,1,0,3,montpellier,toulouse,thomas léonard,Ligue_1
+2023-10-29T14:00:00Z,10,lille,monaco,2,0,2,0,2,lille,monaco,clément turpin,Ligue_1
+2023-10-29T16:05:00Z,10,stade rennais,strasbourg,1,1,1,0,0,draw,draw,florent batta,Ligue_1
+2023-11-03T20:00:00Z,11,psg,montpellier,3,0,1,0,3,psg,montpellier,ruddy buquet,Ligue_1
+2023-11-04T16:00:00Z,11,lorient,rc lens,0,0,0,0,0,draw,draw,bastien dechepy,Ligue_1
+2023-11-04T20:00:00Z,11,marseille,lille,0,0,0,0,0,draw,draw,stéphanie frappart,Ligue_1
+2023-11-05T12:00:00Z,11,olympique lyon,fc metz,1,1,0,0,0,draw,draw,benoît millot,Ligue_1
+2023-11-05T14:00:00Z,11,nantes,stade de reims,0,1,0,0,1,stade de reims,nantes,gaël angoula,Ligue_1
+2023-11-05T14:00:00Z,11,toulouse,le havre,1,2,0,0,1,le havre,toulouse,marc bollengier,Ligue_1
+2023-11-05T14:00:00Z,11,strasbourg,clermont foot,0,0,0,0,0,draw,draw,jeremy stinat,Ligue_1
+2023-11-05T16:05:00Z,11,monaco,brest,2,0,1,0,2,monaco,brest,eric wattellier,Ligue_1
+2023-11-05T19:45:00Z,11,nice,stade rennais,2,0,1,0,2,nice,stade rennais,clément turpin,Ligue_1
+2023-11-10T20:00:00Z,12,montpellier,nice,0,0,0,0,0,draw,draw,hakim ben el hadj salem,Ligue_1
+2023-11-11T16:00:00Z,12,stade de reims,psg,0,3,0,1,3,psg,stade de reims,willy delajod,Ligue_1
+2023-11-11T20:00:00Z,12,le havre,monaco,0,0,0,0,0,draw,draw,thomas léonard,Ligue_1
+2023-11-12T14:00:00Z,12,clermont foot,lorient,1,0,0,0,1,clermont foot,lorient,romain lissorgue,Ligue_1
+2023-11-12T14:00:00Z,12,fc metz,nantes,3,1,2,1,2,fc metz,nantes,florent batta,Ligue_1
+2023-11-12T14:00:00Z,12,lille,toulouse,1,1,1,0,0,draw,draw,mathieu vernice,Ligue_1
+2023-11-12T16:05:00Z,12,stade rennais,olympique lyon,0,1,0,0,1,olympique lyon,stade rennais,stéphanie frappart,Ligue_1
+2023-11-12T19:45:00Z,12,rc lens,marseille,1,0,0,0,1,rc lens,marseille,benoît bastien,Ligue_1
+2023-11-24T20:00:00Z,13,psg,monaco,5,2,2,1,3,psg,monaco,benoît bastien,Ligue_1
+2023-11-25T16:00:00Z,13,clermont foot,rc lens,0,3,0,1,3,rc lens,clermont foot,benoît millot,Ligue_1
+2023-11-25T20:00:00Z,13,strasbourg,marseille,1,1,1,1,0,draw,draw,jérôme brisard,Ligue_1
+2023-11-26T12:00:00Z,13,nice,toulouse,1,0,0,0,1,nice,toulouse,françois letexier,Ligue_1
+2023-11-26T14:00:00Z,13,lorient,fc metz,2,3,2,1,1,fc metz,lorient,jérémie pignard,Ligue_1
+2023-11-26T14:00:00Z,13,nantes,le havre,0,0,0,0,0,draw,draw,miguel nogueira,Ligue_1
+2023-11-26T14:00:00Z,13,montpellier,brest,1,3,0,1,2,brest,montpellier,pierre gaillouste,Ligue_1
+2023-11-26T16:05:00Z,13,stade rennais,stade de reims,3,1,1,1,2,stade rennais,stade de reims,ruddy buquet,Ligue_1
+2023-11-26T19:45:00Z,13,olympique lyon,lille,0,2,0,2,2,lille,olympique lyon,eric wattellier,Ligue_1
+2023-11-29T18:00:00Z,8,montpellier,clermont foot,1,1,0,1,0,draw,draw,mathieu vernice,Ligue_1
+2023-12-01T20:00:00Z,14,stade de reims,strasbourg,2,1,2,0,1,stade de reims,strasbourg,hakim ben el hadj salem,Ligue_1
+2023-12-02T16:00:00Z,14,rc lens,olympique lyon,3,2,1,1,1,rc lens,olympique lyon,clément turpin,Ligue_1
+2023-12-02T20:00:00Z,14,nantes,nice,1,0,1,0,1,nantes,nice,ruddy buquet,Ligue_1
+2023-12-03T12:00:00Z,14,le havre,psg,0,2,0,1,2,psg,le havre,bastien dechepy,Ligue_1
+2023-12-03T14:00:00Z,14,monaco,montpellier,2,0,1,0,2,monaco,montpellier,jeremy stinat,Ligue_1
+2023-12-03T14:00:00Z,14,toulouse,lorient,1,1,0,0,0,draw,draw,thomas léonard,Ligue_1
+2023-12-03T14:00:00Z,14,brest,clermont foot,3,0,2,0,3,brest,clermont foot,marc bollengier,Ligue_1
+2023-12-03T16:05:00Z,14,lille,fc metz,2,0,2,0,2,lille,fc metz,gaël angoula,Ligue_1
+2023-12-03T19:45:00Z,14,marseille,stade rennais,2,0,1,0,2,marseille,stade rennais,willy delajod,Ligue_1
+2023-12-06T20:00:00Z,10,marseille,olympique lyon,3,0,2,0,3,marseille,olympique lyon,françois letexier,Ligue_1
+2023-12-07T19:30:00Z,12,brest,strasbourg,1,1,1,0,0,draw,draw,jérémie pignard,Ligue_1
+2023-12-08T20:00:00Z,15,montpellier,rc lens,0,0,0,0,0,draw,draw,stéphanie frappart,Ligue_1
+2023-12-09T16:00:00Z,15,stade rennais,monaco,1,2,0,0,1,monaco,stade rennais,clément turpin,Ligue_1
+2023-12-09T20:00:00Z,15,psg,nantes,2,1,1,0,1,psg,nantes,jérôme brisard,Ligue_1
+2023-12-10T12:00:00Z,15,nice,stade de reims,2,1,0,0,1,nice,stade de reims,benoît bastien,Ligue_1
+2023-12-10T14:00:00Z,15,clermont foot,lille,0,0,0,0,0,draw,draw,florent batta,Ligue_1
+2023-12-10T14:00:00Z,15,fc metz,brest,0,1,0,0,1,brest,fc metz,romain lissorgue,Ligue_1
+2023-12-10T14:00:00Z,15,strasbourg,le havre,2,1,1,0,1,strasbourg,le havre,benoît millot,Ligue_1
+2023-12-10T16:05:00Z,15,olympique lyon,toulouse,3,0,2,0,3,olympique lyon,toulouse,pierre gaillouste,Ligue_1
+2023-12-10T19:45:00Z,15,lorient,marseille,2,4,1,4,2,marseille,lorient,eric wattellier,Ligue_1
+2023-12-15T20:00:00Z,16,monaco,olympique lyon,0,1,0,0,1,olympique lyon,monaco,ruddy buquet,Ligue_1
+2023-12-16T16:00:00Z,16,le havre,nice,3,1,2,0,2,le havre,nice,jérémie pignard,Ligue_1
+2023-12-16T20:00:00Z,16,rc lens,stade de reims,2,0,1,0,2,rc lens,stade de reims,françois letexier,Ligue_1
+2023-12-17T12:00:00Z,16,nantes,brest,0,2,0,0,2,brest,nantes,benoît millot,Ligue_1
+2023-12-17T14:00:00Z,16,lorient,strasbourg,1,2,0,1,1,strasbourg,lorient,bastien dechepy,Ligue_1
+2023-12-17T14:00:00Z,16,fc metz,montpellier,0,1,0,1,1,montpellier,fc metz,marc bollengier,Ligue_1
+2023-12-17T14:00:00Z,16,toulouse,stade rennais,0,0,0,0,0,draw,draw,jeremy stinat,Ligue_1
+2023-12-17T16:05:00Z,16,marseille,clermont foot,2,1,2,0,1,marseille,clermont foot,gaël angoula,Ligue_1
+2023-12-17T19:45:00Z,16,lille,psg,1,1,0,0,0,draw,draw,willy delajod,Ligue_1
+2023-12-20T20:00:00Z,17,clermont foot,stade rennais,1,3,1,0,2,stade rennais,clermont foot,eric wattellier,Ligue_1
+2023-12-20T20:00:00Z,17,toulouse,monaco,1,2,1,2,1,monaco,toulouse,jérôme brisard,Ligue_1
+2023-12-20T20:00:00Z,17,montpellier,marseille,1,1,1,0,0,draw,draw,thomas léonard,Ligue_1
+2023-12-20T20:00:00Z,17,nice,rc lens,2,0,0,0,2,nice,rc lens,hakim ben el hadj salem,Ligue_1
+2023-12-20T20:00:00Z,17,olympique lyon,nantes,1,0,0,0,1,olympique lyon,nantes,benoît bastien,Ligue_1
+2023-12-20T20:00:00Z,17,psg,fc metz,3,1,0,0,2,psg,fc metz,ruddy buquet,Ligue_1
+2023-12-20T20:00:00Z,17,strasbourg,lille,2,1,1,1,1,strasbourg,lille,clément turpin,Ligue_1
+2023-12-20T20:00:00Z,17,brest,lorient,4,0,4,0,4,brest,lorient,mathieu vernice,Ligue_1
+2023-12-20T20:00:00Z,17,stade de reims,le havre,1,0,1,0,1,stade de reims,le havre,stéphanie frappart,Ligue_1
+2024-01-12T20:00:00Z,18,marseille,strasbourg,1,1,1,0,0,draw,draw,marc bollengier,Ligue_1
+2024-01-13T16:00:00Z,18,monaco,stade de reims,1,3,0,1,2,stade de reims,monaco,françois letexier,Ligue_1
+2024-01-13T20:00:00Z,18,stade rennais,nice,2,0,1,0,2,stade rennais,nice,bastien dechepy,Ligue_1
+2024-01-14T12:00:00Z,18,lille,lorient,3,0,1,0,3,lille,lorient,pierre gaillouste,Ligue_1
+2024-01-14T14:00:00Z,18,fc metz,toulouse,0,1,0,1,1,toulouse,fc metz,florent batta,Ligue_1
+2024-01-14T14:00:00Z,18,nantes,clermont foot,1,2,0,1,1,clermont foot,nantes,romain lissorgue,Ligue_1
+2024-01-14T14:00:00Z,18,brest,montpellier,2,0,0,0,2,brest,montpellier,jérémie pignard,Ligue_1
+2024-01-14T16:05:00Z,18,le havre,olympique lyon,3,1,1,0,2,le havre,olympique lyon,gaël angoula,Ligue_1
+2024-01-14T19:45:00Z,18,rc lens,psg,0,2,0,1,2,psg,rc lens,jérôme brisard,Ligue_1
+2024-01-26T20:00:00Z,19,olympique lyon,stade rennais,2,3,0,3,1,stade rennais,olympique lyon,thomas léonard,Ligue_1
+2024-01-27T16:00:00Z,19,nice,fc metz,1,0,0,0,1,nice,fc metz,stéphanie frappart,Ligue_1
+2024-01-27T20:00:00Z,19,marseille,monaco,2,2,1,2,0,draw,draw,willy delajod,Ligue_1
+2024-01-28T12:00:00Z,19,montpellier,lille,0,0,0,0,0,draw,draw,hakim ben el hadj salem,Ligue_1
+2024-01-28T14:00:00Z,19,clermont foot,strasbourg,1,1,0,1,0,draw,draw,benoît millot,Ligue_1
+2024-01-28T14:00:00Z,19,lorient,le havre,3,3,1,1,0,draw,draw,jeremy stinat,Ligue_1
+2024-01-28T14:00:00Z,19,stade de reims,nantes,0,0,0,0,0,draw,draw,jérémie pignard,Ligue_1
+2024-01-28T16:05:00Z,19,toulouse,rc lens,0,2,0,1,2,rc lens,toulouse,mathieu vernice,Ligue_1
+2024-01-28T19:45:00Z,19,psg,brest,2,2,2,0,0,draw,draw,clément turpin,Ligue_1
+2024-02-02T20:00:00Z,20,strasbourg,psg,1,2,0,1,1,psg,strasbourg,ruddy buquet,Ligue_1
+2024-02-03T16:00:00Z,20,stade rennais,montpellier,2,1,1,0,1,stade rennais,montpellier,mathieu vernice,Ligue_1
+2024-02-03T20:00:00Z,20,nantes,rc lens,0,1,0,0,1,rc lens,nantes,florent batta,Ligue_1
+2024-02-04T12:00:00Z,20,monaco,le havre,1,1,0,0,0,draw,draw,jérôme brisard,Ligue_1
+2024-02-04T14:00:00Z,20,lille,clermont foot,4,0,4,0,4,lille,clermont foot,bastien dechepy,Ligue_1
+2024-02-04T14:00:00Z,20,stade de reims,toulouse,2,3,0,3,1,toulouse,stade de reims,pierre gaillouste,Ligue_1
+2024-02-04T14:00:00Z,20,fc metz,lorient,1,2,1,1,1,lorient,fc metz,romain lissorgue,Ligue_1
+2024-02-04T16:05:00Z,20,brest,nice,0,0,0,0,0,draw,draw,willy delajod,Ligue_1
+2024-02-04T19:45:00Z,20,olympique lyon,marseille,1,0,1,0,1,olympique lyon,marseille,benoît bastien,Ligue_1
+2024-02-09T20:00:00Z,21,marseille,fc metz,1,1,0,0,0,draw,draw,hakim ben el hadj salem,Ligue_1
+2024-02-10T16:00:00Z,21,rc lens,strasbourg,3,1,2,1,2,rc lens,strasbourg,willy delajod,Ligue_1
+2024-02-10T20:00:00Z,21,psg,lille,3,1,2,1,2,psg,lille,françois letexier,Ligue_1
+2024-02-11T12:00:00Z,21,le havre,stade rennais,0,1,0,0,1,stade rennais,le havre,benoît millot,Ligue_1
+2024-02-11T14:00:00Z,21,clermont foot,brest,1,1,0,0,0,draw,draw,stéphanie frappart,Ligue_1
+2024-02-11T14:00:00Z,21,lorient,stade de reims,2,0,0,0,2,lorient,stade de reims,marc bollengier,Ligue_1
+2024-02-11T14:00:00Z,21,toulouse,nantes,1,2,0,1,1,nantes,toulouse,gaël angoula,Ligue_1
+2024-02-11T16:05:00Z,21,montpellier,olympique lyon,1,2,1,0,1,olympique lyon,montpellier,pierre gaillouste,Ligue_1
+2024-02-11T19:45:00Z,21,nice,monaco,2,3,1,1,1,monaco,nice,eric wattellier,Ligue_1
+2024-02-16T20:00:00Z,22,olympique lyon,nice,1,0,1,0,1,olympique lyon,nice,clément turpin,Ligue_1
+2024-02-17T16:00:00Z,22,lille,le havre,3,0,2,0,3,lille,le havre,jérémie pignard,Ligue_1
+2024-02-17T20:00:00Z,22,nantes,psg,0,2,0,0,2,psg,nantes,jérôme brisard,Ligue_1
+2024-02-18T12:00:00Z,22,strasbourg,lorient,1,3,0,2,2,lorient,strasbourg,thomas léonard,Ligue_1
+2024-02-18T14:00:00Z,22,monaco,toulouse,1,2,0,1,1,toulouse,monaco,benoît bastien,Ligue_1
+2024-02-18T14:00:00Z,22,montpellier,fc metz,3,0,1,0,3,montpellier,fc metz,jeremy stinat,Ligue_1
+2024-02-18T14:00:00Z,22,stade rennais,clermont foot,3,1,1,0,2,stade rennais,clermont foot,romain lissorgue,Ligue_1
+2024-02-18T16:05:00Z,22,stade de reims,rc lens,1,1,1,1,0,draw,draw,benoît millot,Ligue_1
+2024-02-18T19:45:00Z,22,brest,marseille,1,0,0,0,1,brest,marseille,ruddy buquet,Ligue_1
+2024-02-23T20:00:00Z,23,fc metz,olympique lyon,1,2,1,1,1,olympique lyon,fc metz,marc bollengier,Ligue_1
+2024-02-24T16:00:00Z,23,lorient,nantes,0,1,0,0,1,nantes,lorient,willy delajod,Ligue_1
+2024-02-24T20:00:00Z,23,strasbourg,brest,0,3,0,2,3,brest,strasbourg,jérôme brisard,Ligue_1
+2024-02-25T12:00:00Z,23,rc lens,monaco,2,3,1,2,1,monaco,rc lens,françois letexier,Ligue_1
+2024-02-25T14:00:00Z,23,le havre,stade de reims,1,2,0,0,1,stade de reims,le havre,florent batta,Ligue_1
+2024-02-25T14:00:00Z,23,toulouse,lille,3,1,0,1,2,toulouse,lille,mathieu vernice,Ligue_1
+2024-02-25T14:00:00Z,23,nice,clermont foot,0,0,0,0,0,draw,draw,hakim ben el hadj salem,Ligue_1
+2024-02-25T16:05:00Z,23,psg,stade rennais,1,1,0,1,0,draw,draw,bastien dechepy,Ligue_1
+2024-02-25T19:45:00Z,23,marseille,montpellier,4,1,2,1,3,marseille,montpellier,jérémie pignard,Ligue_1
+2024-03-01T20:00:00Z,24,monaco,psg,0,0,0,0,0,draw,draw,ruddy buquet,Ligue_1
+2024-03-02T16:00:00Z,24,stade de reims,lille,0,1,0,0,1,lille,stade de reims,jeremy stinat,Ligue_1
+2024-03-02T20:00:00Z,24,clermont foot,marseille,1,5,0,1,4,marseille,clermont foot,thomas léonard,Ligue_1
+2024-03-03T12:00:00Z,24,toulouse,nice,2,1,0,1,1,toulouse,nice,jérémie pignard,Ligue_1
+2024-03-03T14:00:00Z,24,nantes,fc metz,0,2,0,0,2,fc metz,nantes,eric wattellier,Ligue_1
+2024-03-03T14:00:00Z,24,montpellier,strasbourg,2,2,0,0,0,draw,draw,stéphanie frappart,Ligue_1
+2024-03-03T14:00:00Z,24,brest,le havre,1,0,1,0,1,brest,le havre,pierre gaillouste,Ligue_1
+2024-03-03T16:05:00Z,24,stade rennais,lorient,1,2,0,0,1,lorient,stade rennais,benoît bastien,Ligue_1
+2024-03-03T19:45:00Z,24,olympique lyon,rc lens,0,3,0,1,3,rc lens,olympique lyon,jérôme brisard,Ligue_1
+2024-03-08T20:00:00Z,25,nice,montpellier,1,2,1,2,1,montpellier,nice,ruddy buquet,Ligue_1
+2024-03-09T16:00:00Z,25,lorient,olympique lyon,0,2,0,0,2,olympique lyon,lorient,mathieu vernice,Ligue_1
+2024-03-09T20:00:00Z,25,rc lens,brest,1,0,1,0,1,rc lens,brest,stéphanie frappart,Ligue_1
+2024-03-10T12:00:00Z,25,psg,stade de reims,2,2,2,2,0,draw,draw,willy delajod,Ligue_1
+2024-03-10T14:00:00Z,25,le havre,toulouse,1,0,0,0,1,le havre,toulouse,romain lissorgue,Ligue_1
+2024-03-10T14:00:00Z,25,fc metz,clermont foot,1,0,1,0,1,fc metz,clermont foot,gaël angoula,Ligue_1
+2024-03-10T14:00:00Z,25,strasbourg,monaco,0,1,0,0,1,monaco,strasbourg,clément turpin,Ligue_1
+2024-03-10T16:00:00Z,25,lille,stade rennais,2,2,0,2,0,draw,draw,benoît millot,Ligue_1
+2024-03-10T19:45:00Z,25,marseille,nantes,2,0,1,0,2,marseille,nantes,françois letexier,Ligue_1
+2024-03-15T20:00:00Z,26,toulouse,olympique lyon,2,3,0,1,1,olympique lyon,toulouse,jeremy stinat,Ligue_1
+2024-03-16T16:00:00Z,26,nantes,strasbourg,1,3,1,1,2,strasbourg,nantes,jérémie pignard,Ligue_1
+2024-03-16T20:00:00Z,26,rc lens,nice,1,3,0,1,2,nice,rc lens,benoît bastien,Ligue_1
+2024-03-17T12:00:00Z,26,brest,lille,1,1,0,0,0,draw,draw,clément turpin,Ligue_1
+2024-03-17T14:00:00Z,26,monaco,lorient,2,2,1,1,0,draw,draw,bastien dechepy,Ligue_1
+2024-03-17T14:00:00Z,26,clermont foot,le havre,2,1,2,1,1,clermont foot,le havre,marc bollengier,Ligue_1
+2024-03-17T14:00:00Z,26,stade de reims,fc metz,2,1,1,1,1,stade de reims,fc metz,hakim ben el hadj salem,Ligue_1
+2024-03-17T16:05:00Z,26,stade rennais,marseille,2,0,1,0,2,stade rennais,marseille,eric wattellier,Ligue_1
+2024-03-17T19:45:00Z,26,montpellier,psg,2,6,2,2,4,psg,montpellier,florent batta,Ligue_1
+2024-03-29T20:00:00Z,27,lille,rc lens,2,1,1,0,1,lille,rc lens,willy delajod,Ligue_1
+2024-03-30T16:00:00Z,27,fc metz,monaco,2,5,0,3,3,monaco,fc metz,eric wattellier,Ligue_1
+2024-03-30T20:00:00Z,27,olympique lyon,stade de reims,1,1,0,0,0,draw,draw,thomas léonard,Ligue_1
+2024-03-31T11:00:00Z,27,lorient,brest,0,1,0,0,1,brest,lorient,jérôme brisard,Ligue_1
+2024-03-31T13:00:00Z,27,le havre,montpellier,0,2,0,0,2,montpellier,le havre,mathieu vernice,Ligue_1
+2024-03-31T13:00:00Z,27,clermont foot,toulouse,0,3,0,1,3,toulouse,clermont foot,pierre gaillouste,Ligue_1
+2024-03-31T13:00:00Z,27,nice,nantes,1,2,0,1,1,nantes,nice,bastien dechepy,Ligue_1
+2024-03-31T15:05:00Z,27,strasbourg,stade rennais,2,0,0,0,2,strasbourg,stade rennais,jeremy stinat,Ligue_1
+2024-03-31T18:45:00Z,27,marseille,psg,0,2,0,0,2,psg,marseille,benoît bastien,Ligue_1
+2024-04-05T19:00:00Z,28,lille,marseille,3,1,0,0,2,lille,marseille,bastien dechepy,Ligue_1
+2024-04-06T15:00:00Z,28,rc lens,le havre,1,1,0,0,0,draw,draw,françois letexier,Ligue_1
+2024-04-06T19:00:00Z,28,psg,clermont foot,1,1,0,1,0,draw,draw,gaël angoula,Ligue_1
+2024-04-07T11:00:00Z,28,brest,fc metz,4,3,3,1,1,brest,fc metz,benoît millot,Ligue_1
+2024-04-07T13:00:00Z,28,toulouse,strasbourg,0,0,0,0,0,draw,draw,ruddy buquet,Ligue_1
+2024-04-07T13:00:00Z,28,montpellier,lorient,2,0,0,0,2,montpellier,lorient,romain lissorgue,Ligue_1
+2024-04-07T13:00:00Z,28,stade de reims,nice,0,0,0,0,0,draw,draw,eric wattellier,Ligue_1
+2024-04-07T15:05:00Z,28,monaco,stade rennais,1,0,1,0,1,monaco,stade rennais,stéphanie frappart,Ligue_1
+2024-04-07T18:45:00Z,28,nantes,olympique lyon,1,3,1,0,2,olympique lyon,nantes,jérôme brisard,Ligue_1
+2024-04-12T19:00:00Z,29,fc metz,rc lens,2,1,2,1,1,fc metz,rc lens,romain lissorgue,Ligue_1
+2024-04-13T15:00:00Z,29,strasbourg,stade de reims,3,1,1,1,2,strasbourg,stade de reims,willy delajod,Ligue_1
+2024-04-13T19:00:00Z,29,stade rennais,toulouse,1,2,1,2,1,toulouse,stade rennais,florent batta,Ligue_1
+2024-04-14T11:00:00Z,29,le havre,nantes,0,1,0,0,1,nantes,le havre,hakim ben el hadj salem,Ligue_1
+2024-04-14T13:00:00Z,29,clermont foot,montpellier,1,1,1,0,0,draw,draw,thomas léonard,Ligue_1
+2024-04-14T18:45:00Z,29,olympique lyon,brest,4,3,1,0,1,olympique lyon,brest,mathieu vernice,Ligue_1
+2024-04-19T19:00:00Z,30,nice,lorient,3,0,1,0,3,nice,lorient,jeremy stinat,Ligue_1
+2024-04-20T15:00:00Z,30,nantes,stade rennais,0,3,0,0,3,stade rennais,nantes,willy delajod,Ligue_1
+2024-04-20T19:00:00Z,30,rc lens,clermont foot,1,0,1,0,1,rc lens,clermont foot,benoît bastien,Ligue_1
+2024-04-21T13:00:00Z,30,le havre,fc metz,0,1,0,0,1,fc metz,le havre,marc bollengier,Ligue_1
+2024-04-21T13:00:00Z,30,lille,strasbourg,1,0,1,0,1,lille,strasbourg,benoît millot,Ligue_1
+2024-04-21T13:00:00Z,30,stade de reims,montpellier,1,2,0,1,1,montpellier,stade de reims,pierre gaillouste,Ligue_1
+2024-04-21T15:05:00Z,30,brest,monaco,0,2,0,1,2,monaco,brest,ruddy buquet,Ligue_1
+2024-04-21T17:15:00Z,30,toulouse,marseille,2,2,1,1,0,draw,draw,clément turpin,Ligue_1
+2024-04-21T19:00:00Z,30,psg,olympique lyon,4,1,4,1,3,psg,olympique lyon,françois letexier,Ligue_1
+2024-04-24T17:00:00Z,29,lorient,psg,1,4,0,2,3,psg,lorient,marc bollengier,Ligue_1
+2024-04-24T19:00:00Z,29,monaco,lille,1,0,0,0,1,monaco,lille,clément turpin,Ligue_1
+2024-04-24T19:00:00Z,29,marseille,nice,2,2,1,1,0,draw,draw,jérémie pignard,Ligue_1
+2024-04-26T19:00:00Z,31,montpellier,nantes,1,1,1,1,0,draw,draw,jeremy stinat,Ligue_1
+2024-04-27T19:00:00Z,31,psg,le havre,3,3,1,2,0,draw,draw,willy delajod,Ligue_1
+2024-04-28T11:00:00Z,31,fc metz,lille,1,2,1,2,1,lille,fc metz,stéphanie frappart,Ligue_1
+2024-04-28T13:00:00Z,31,clermont foot,stade de reims,4,1,1,1,3,clermont foot,stade de reims,florent batta,Ligue_1
+2024-04-28T13:00:00Z,31,lorient,toulouse,1,2,1,0,1,toulouse,lorient,gaël angoula,Ligue_1
+2024-04-28T13:00:00Z,31,strasbourg,nice,1,3,1,1,2,nice,strasbourg,thomas léonard,Ligue_1
+2024-04-28T15:05:00Z,31,stade rennais,brest,4,5,2,1,1,brest,stade rennais,jérémie pignard,Ligue_1
+2024-04-28T17:00:00Z,31,olympique lyon,monaco,3,2,2,1,1,olympique lyon,monaco,bastien dechepy,Ligue_1
+2024-04-28T19:00:00Z,31,marseille,rc lens,2,1,1,0,1,marseille,rc lens,eric wattellier,Ligue_1
+2024-05-03T17:00:00Z,32,toulouse,montpellier,1,2,1,1,1,montpellier,toulouse,marc bollengier,Ligue_1
+2024-05-03T19:00:00Z,32,rc lens,lorient,2,0,0,0,2,rc lens,lorient,jérémie pignard,Ligue_1
+2024-05-04T13:00:00Z,32,le havre,strasbourg,3,1,1,0,2,le havre,strasbourg,jérôme brisard,Ligue_1
+2024-05-04T15:00:00Z,32,monaco,clermont foot,4,1,2,1,3,monaco,clermont foot,hakim ben el hadj salem,Ligue_1
+2024-05-04T17:00:00Z,32,fc metz,stade rennais,2,3,2,1,1,stade rennais,fc metz,ruddy buquet,Ligue_1
+2024-05-04T19:00:00Z,32,brest,nantes,0,0,0,0,0,draw,draw,clément turpin,Ligue_1
+2024-05-06T19:00:00Z,32,lille,olympique lyon,3,4,2,0,1,olympique lyon,lille,benoît bastien,Ligue_1
+2024-05-10T19:00:00Z,33,nice,le havre,1,0,1,0,1,nice,le havre,benoît bastien,Ligue_1
+2024-05-10T19:00:00Z,33,brest,stade de reims,1,1,1,1,0,draw,draw,jérôme brisard,Ligue_1
+2024-05-12T19:00:00Z,33,clermont foot,olympique lyon,0,1,0,0,1,olympique lyon,clermont foot,pierre gaillouste,Ligue_1
+2024-05-12T19:00:00Z,33,nantes,lille,1,2,0,2,1,lille,nantes,eric wattellier,Ligue_1
+2024-05-12T19:00:00Z,33,montpellier,monaco,0,2,0,0,2,monaco,montpellier,stéphanie frappart,Ligue_1
+2024-05-12T19:00:00Z,33,marseille,lorient,3,1,2,1,2,marseille,lorient,bastien dechepy,Ligue_1
+2024-05-12T19:00:00Z,33,psg,toulouse,1,3,1,1,2,toulouse,psg,florent batta,Ligue_1
+2024-05-12T19:00:00Z,33,strasbourg,fc metz,2,1,0,0,1,strasbourg,fc metz,françois letexier,Ligue_1
+2024-05-12T19:00:00Z,33,stade rennais,rc lens,1,1,0,0,0,draw,draw,benoît millot,Ligue_1
+2024-05-15T19:00:00Z,32,nice,psg,1,2,1,2,1,psg,nice,ruddy buquet,Ligue_1
+2024-05-15T19:00:00Z,32,stade de reims,marseille,1,0,1,0,1,stade de reims,marseille,hakim ben el hadj salem,Ligue_1
+2024-05-19T19:00:00Z,34,le havre,marseille,1,2,0,0,1,marseille,le havre,jeremy stinat,Ligue_1
+2024-05-19T19:00:00Z,34,monaco,nantes,4,0,3,0,4,monaco,nantes,romain lissorgue,Ligue_1
+2024-05-19T19:00:00Z,34,lorient,clermont foot,5,0,2,0,5,lorient,clermont foot,clément turpin,Ligue_1
+2024-05-19T19:00:00Z,34,fc metz,psg,0,2,0,2,2,psg,fc metz,gaël angoula,Ligue_1
+2024-05-19T19:00:00Z,34,toulouse,brest,0,3,0,0,3,brest,toulouse,jérémie pignard,Ligue_1
+2024-05-19T19:00:00Z,34,olympique lyon,strasbourg,2,1,1,0,1,olympique lyon,strasbourg,eric wattellier,Ligue_1
+2024-05-19T19:00:00Z,34,lille,nice,2,2,0,1,0,draw,draw,willy delajod,Ligue_1
+2024-05-19T19:00:00Z,34,rc lens,montpellier,2,2,2,0,0,draw,draw,thomas léonard,Ligue_1
+2024-05-19T19:00:00Z,34,stade de reims,stade rennais,2,1,0,0,1,stade de reims,stade rennais,mathieu vernice,Ligue_1
+2023-08-11T19:00:00Z,1,burnley,man city,0,3,0,2,3,man city,burnley,craig pawson,Premier_League
+2023-08-12T12:00:00Z,1,arsenal,nottingham,2,1,2,0,1,arsenal,nottingham,michael oliver,Premier_League
+2023-08-12T14:00:00Z,1,bournemouth,west ham,1,1,0,0,0,draw,draw,peter bankes,Premier_League
+2023-08-12T14:00:00Z,1,brighton hove,luton town,4,1,1,0,3,brighton hove,luton town,david coote,Premier_League
+2023-08-12T14:00:00Z,1,everton,fulham,0,1,0,0,1,fulham,everton,stuart attwell,Premier_League
+2023-08-12T14:00:00Z,1,sheffield utd,crystal palace,0,1,0,0,1,crystal palace,sheffield utd,john brooks,Premier_League
+2023-08-12T16:30:00Z,1,newcastle,aston villa,5,1,2,1,4,newcastle,aston villa,andy madley,Premier_League
+2023-08-13T13:00:00Z,1,brentford,tottenham,2,2,2,2,0,draw,draw,robert jones,Premier_League
+2023-08-13T15:30:00Z,1,chelsea,liverpool,1,1,1,1,0,draw,draw,anthony taylor,Premier_League
+2023-08-14T19:00:00Z,1,man united,wolverhampton,1,0,0,0,1,man united,wolverhampton,simon hooper,Premier_League
+2023-08-18T18:45:00Z,2,nottingham,sheffield utd,2,1,1,0,1,nottingham,sheffield utd,peter bankes,Premier_League
+2023-08-19T14:00:00Z,2,fulham,brentford,0,3,0,1,3,brentford,fulham,darren bond,Premier_League
+2023-08-19T14:00:00Z,2,liverpool,bournemouth,3,1,2,1,2,liverpool,bournemouth,thomas bramall,Premier_League
+2023-08-19T14:00:00Z,2,wolverhampton,brighton hove,1,4,0,1,3,brighton hove,wolverhampton,andy madley,Premier_League
+2023-08-19T16:30:00Z,2,tottenham,man united,2,0,0,0,2,tottenham,man united,michael oliver,Premier_League
+2023-08-19T19:00:00Z,2,man city,newcastle,1,0,1,0,1,man city,newcastle,robert jones,Premier_League
+2023-08-20T13:00:00Z,2,aston villa,everton,4,0,2,0,4,aston villa,everton,anthony taylor,Premier_League
+2023-08-20T15:30:00Z,2,west ham,chelsea,3,1,1,1,2,west ham,chelsea,john brooks,Premier_League
+2023-08-21T19:00:00Z,2,crystal palace,arsenal,0,1,0,0,1,arsenal,crystal palace,david coote,Premier_League
+2023-08-25T19:00:00Z,3,chelsea,luton town,3,0,1,0,3,chelsea,luton town,robert jones,Premier_League
+2023-08-26T11:30:00Z,3,bournemouth,tottenham,0,2,0,1,2,tottenham,bournemouth,tim robinson,Premier_League
+2023-08-26T14:00:00Z,3,everton,wolverhampton,0,1,0,0,1,wolverhampton,everton,craig pawson,Premier_League
+2023-08-26T14:00:00Z,3,man united,nottingham,3,2,1,2,1,man united,nottingham,stuart attwell,Premier_League
+2023-08-26T14:00:00Z,3,arsenal,fulham,2,2,0,1,0,draw,draw,paul tierney,Premier_League
+2023-08-26T14:00:00Z,3,brentford,crystal palace,1,1,1,0,0,draw,draw,peter bankes,Premier_League
+2023-08-26T16:30:00Z,3,brighton hove,west ham,1,3,0,1,2,west ham,brighton hove,anthony taylor,Premier_League
+2023-08-27T13:00:00Z,3,sheffield utd,man city,1,2,0,0,1,man city,sheffield utd,jarred gillett,Premier_League
+2023-08-27T13:00:00Z,3,burnley,aston villa,1,3,0,2,2,aston villa,burnley,michael salisbury,Premier_League
+2023-08-27T15:30:00Z,3,newcastle,liverpool,1,2,1,0,1,liverpool,newcastle,john brooks,Premier_League
+2023-09-01T19:00:00Z,4,luton town,west ham,1,2,0,1,1,west ham,luton town,paul tierney,Premier_League
+2023-09-02T11:30:00Z,4,sheffield utd,everton,2,2,2,1,0,draw,draw,andy madley,Premier_League
+2023-09-02T14:00:00Z,4,brentford,bournemouth,2,2,1,1,0,draw,draw,bobby madley,Premier_League
+2023-09-02T14:00:00Z,4,burnley,tottenham,2,5,1,2,3,tottenham,burnley,darren england,Premier_League
+2023-09-02T14:00:00Z,4,chelsea,nottingham,0,1,0,0,1,nottingham,chelsea,tim robinson,Premier_League
+2023-09-02T14:00:00Z,4,man city,fulham,5,1,2,1,4,man city,fulham,michael oliver,Premier_League
+2023-09-02T16:30:00Z,4,brighton hove,newcastle,3,1,1,0,2,brighton hove,newcastle,stuart attwell,Premier_League
+2023-09-03T13:00:00Z,4,crystal palace,wolverhampton,3,2,0,0,1,crystal palace,wolverhampton,robert jones,Premier_League
+2023-09-03T13:00:00Z,4,liverpool,aston villa,3,0,2,0,3,liverpool,aston villa,simon hooper,Premier_League
+2023-09-03T15:30:00Z,4,arsenal,man united,3,1,1,1,2,arsenal,man united,anthony taylor,Premier_League
+2023-09-16T11:30:00Z,5,wolverhampton,liverpool,1,3,1,0,2,liverpool,wolverhampton,michael oliver,Premier_League
+2023-09-16T14:00:00Z,5,aston villa,crystal palace,3,1,0,0,2,aston villa,crystal palace,darren england,Premier_League
+2023-09-16T14:00:00Z,5,fulham,luton town,1,0,0,0,1,fulham,luton town,michael salisbury,Premier_League
+2023-09-16T14:00:00Z,5,man united,brighton hove,1,3,0,1,2,brighton hove,man united,jarred gillett,Premier_League
+2023-09-16T14:00:00Z,5,tottenham,sheffield utd,2,1,0,0,1,tottenham,sheffield utd,peter bankes,Premier_League
+2023-09-16T14:00:00Z,5,west ham,man city,1,3,1,0,2,man city,west ham,andy madley,Premier_League
+2023-09-16T16:30:00Z,5,newcastle,brentford,1,0,0,0,1,newcastle,brentford,craig pawson,Premier_League
+2023-09-17T13:00:00Z,5,bournemouth,chelsea,0,0,0,0,0,draw,draw,david coote,Premier_League
+2023-09-17T15:30:00Z,5,everton,arsenal,0,1,0,0,1,arsenal,everton,simon hooper,Premier_League
+2023-09-18T18:45:00Z,5,nottingham,burnley,1,1,0,1,0,draw,draw,robert jones,Premier_League
+2023-09-23T14:00:00Z,6,crystal palace,fulham,0,0,0,0,0,draw,draw,paul tierney,Premier_League
+2023-09-23T14:00:00Z,6,luton town,wolverhampton,1,1,0,0,0,draw,draw,josh smith,Premier_League
+2023-09-23T14:00:00Z,6,man city,nottingham,2,0,2,0,2,man city,nottingham,anthony taylor,Premier_League
+2023-09-23T16:30:00Z,6,brentford,everton,1,3,1,1,2,everton,brentford,michael oliver,Premier_League
+2023-09-23T19:00:00Z,6,burnley,man united,0,1,0,1,1,man united,burnley,tony harrington,Premier_League
+2023-09-24T13:00:00Z,6,arsenal,tottenham,2,2,1,1,0,draw,draw,robert jones,Premier_League
+2023-09-24T13:00:00Z,6,brighton hove,bournemouth,3,1,1,1,2,brighton hove,bournemouth,john brooks,Premier_League
+2023-09-24T13:00:00Z,6,chelsea,aston villa,0,1,0,0,1,aston villa,chelsea,jarred gillett,Premier_League
+2023-09-24T13:00:00Z,6,liverpool,west ham,3,1,1,1,2,liverpool,west ham,chris kavanagh,Premier_League
+2023-09-24T15:30:00Z,6,sheffield utd,newcastle,0,8,0,3,8,newcastle,sheffield utd,stuart attwell,Premier_League
+2023-09-30T11:30:00Z,7,aston villa,brighton hove,6,1,3,0,5,aston villa,brighton hove,andy madley,Premier_League
+2023-09-30T14:00:00Z,7,bournemouth,arsenal,0,4,0,2,4,arsenal,bournemouth,michael salisbury,Premier_League
+2023-09-30T14:00:00Z,7,everton,luton town,1,2,1,2,1,luton town,everton,anthony taylor,Premier_League
+2023-09-30T14:00:00Z,7,man united,crystal palace,0,1,0,1,1,crystal palace,man united,chris kavanagh,Premier_League
+2023-09-30T14:00:00Z,7,newcastle,burnley,2,0,1,0,2,newcastle,burnley,thomas bramall,Premier_League
+2023-09-30T14:00:00Z,7,west ham,sheffield utd,2,0,2,0,2,west ham,sheffield utd,graham scott,Premier_League
+2023-09-30T14:00:00Z,7,wolverhampton,man city,2,1,1,0,1,wolverhampton,man city,craig pawson,Premier_League
+2023-09-30T16:30:00Z,7,tottenham,liverpool,2,1,1,1,1,tottenham,liverpool,simon hooper,Premier_League
+2023-10-01T13:00:00Z,7,nottingham,brentford,1,1,0,0,0,draw,draw,paul tierney,Premier_League
+2023-10-02T19:00:00Z,7,fulham,chelsea,0,2,0,2,2,chelsea,fulham,tim robinson,Premier_League
+2023-10-03T18:30:00Z,2,luton town,burnley,1,2,0,1,1,burnley,luton town,peter bankes,Premier_League
+2023-10-07T11:30:00Z,8,luton town,tottenham,0,1,0,0,1,tottenham,luton town,john brooks,Premier_League
+2023-10-07T14:00:00Z,8,burnley,chelsea,1,4,1,1,3,chelsea,burnley,stuart attwell,Premier_League
+2023-10-07T14:00:00Z,8,everton,bournemouth,3,0,2,0,3,everton,bournemouth,david coote,Premier_League
+2023-10-07T14:00:00Z,8,fulham,sheffield utd,3,1,0,0,2,fulham,sheffield utd,sam barrott,Premier_League
+2023-10-07T14:00:00Z,8,man united,brentford,2,1,0,1,1,man united,brentford,bobby madley,Premier_League
+2023-10-07T16:30:00Z,8,crystal palace,nottingham,0,0,0,0,0,draw,draw,craig pawson,Premier_League
+2023-10-08T13:00:00Z,8,brighton hove,liverpool,2,2,1,2,0,draw,draw,anthony taylor,Premier_League
+2023-10-08T13:00:00Z,8,west ham,newcastle,2,2,1,0,0,draw,draw,peter bankes,Premier_League
+2023-10-08T13:00:00Z,8,wolverhampton,aston villa,1,1,0,0,0,draw,draw,robert jones,Premier_League
+2023-10-08T15:30:00Z,8,arsenal,man city,1,0,0,0,1,arsenal,man city,michael oliver,Premier_League
+2023-10-21T11:30:00Z,9,liverpool,everton,2,0,0,0,2,liverpool,everton,craig pawson,Premier_League
+2023-10-21T14:00:00Z,9,bournemouth,wolverhampton,1,2,1,0,1,wolverhampton,bournemouth,paul tierney,Premier_League
+2023-10-21T14:00:00Z,9,brentford,burnley,3,0,1,0,3,brentford,burnley,josh smith,Premier_League
+2023-10-21T14:00:00Z,9,man city,brighton hove,2,1,2,0,1,man city,brighton hove,robert jones,Premier_League
+2023-10-21T14:00:00Z,9,newcastle,crystal palace,4,0,3,0,4,newcastle,crystal palace,tim robinson,Premier_League
+2023-10-21T14:00:00Z,9,nottingham,luton town,2,2,0,0,0,draw,draw,sam barrott,Premier_League
+2023-10-21T16:30:00Z,9,chelsea,arsenal,2,2,1,0,0,draw,draw,chris kavanagh,Premier_League
+2023-10-21T19:00:00Z,9,sheffield utd,man united,1,2,1,1,1,man united,sheffield utd,michael oliver,Premier_League
+2023-10-22T15:30:00Z,9,aston villa,west ham,4,1,1,0,3,aston villa,west ham,david coote,Premier_League
+2023-10-23T19:00:00Z,9,tottenham,fulham,2,0,1,0,2,tottenham,fulham,anthony taylor,Premier_League
+2023-10-27T19:00:00Z,10,crystal palace,tottenham,1,2,0,0,1,tottenham,crystal palace,andy madley,Premier_League
+2023-10-28T11:30:00Z,10,chelsea,brentford,0,2,0,0,2,brentford,chelsea,simon hooper,Premier_League
+2023-10-28T14:00:00Z,10,bournemouth,burnley,2,1,1,1,1,bournemouth,burnley,sam barrott,Premier_League
+2023-10-28T14:00:00Z,10,arsenal,sheffield utd,5,0,1,0,5,arsenal,sheffield utd,tim robinson,Premier_League
+2023-10-28T16:30:00Z,10,wolverhampton,newcastle,2,2,1,2,0,draw,draw,anthony taylor,Premier_League
+2023-10-29T13:00:00Z,10,west ham,everton,0,1,0,0,1,everton,west ham,stuart attwell,Premier_League
+2023-10-29T14:00:00Z,10,aston villa,luton town,3,1,1,0,2,aston villa,luton town,john brooks,Premier_League
+2023-10-29T14:00:00Z,10,brighton hove,fulham,1,1,1,0,0,draw,draw,michael salisbury,Premier_League
+2023-10-29T14:00:00Z,10,liverpool,nottingham,3,0,2,0,3,liverpool,nottingham,chris kavanagh,Premier_League
+2023-10-29T15:30:00Z,10,man united,man city,0,3,0,1,3,man city,man united,paul tierney,Premier_League
+2023-11-04T12:30:00Z,11,fulham,man united,0,1,0,0,1,man united,fulham,john brooks,Premier_League
+2023-11-04T15:00:00Z,11,brentford,west ham,3,2,1,2,1,brentford,west ham,thomas bramall,Premier_League
+2023-11-04T15:00:00Z,11,burnley,crystal palace,0,2,0,1,2,crystal palace,burnley,peter bankes,Premier_League
+2023-11-04T15:00:00Z,11,everton,brighton hove,1,1,1,0,0,draw,draw,tim robinson,Premier_League
+2023-11-04T15:00:00Z,11,man city,bournemouth,6,1,3,0,5,man city,bournemouth,craig pawson,Premier_League
+2023-11-04T15:00:00Z,11,sheffield utd,wolverhampton,2,1,0,0,1,sheffield utd,wolverhampton,robert jones,Premier_League
+2023-11-04T17:30:00Z,11,newcastle,arsenal,1,0,0,0,1,newcastle,arsenal,stuart attwell,Premier_League
+2023-11-05T14:00:00Z,11,nottingham,aston villa,2,0,1,0,2,nottingham,aston villa,jarred gillett,Premier_League
+2023-11-05T16:30:00Z,11,luton town,liverpool,1,1,0,0,0,draw,draw,andy madley,Premier_League
+2023-11-06T20:00:00Z,11,tottenham,chelsea,1,4,1,1,3,chelsea,tottenham,michael oliver,Premier_League
+2023-11-11T12:30:00Z,12,wolverhampton,tottenham,2,1,0,1,1,wolverhampton,tottenham,tim robinson,Premier_League
+2023-11-11T15:00:00Z,12,arsenal,burnley,3,1,1,0,2,arsenal,burnley,michael oliver,Premier_League
+2023-11-11T15:00:00Z,12,crystal palace,everton,2,3,1,1,1,everton,crystal palace,sam barrott,Premier_League
+2023-11-11T15:00:00Z,12,man united,luton town,1,0,0,0,1,man united,luton town,graham scott,Premier_League
+2023-11-11T17:30:00Z,12,bournemouth,newcastle,2,0,0,0,2,bournemouth,newcastle,chris kavanagh,Premier_League
+2023-11-12T14:00:00Z,12,aston villa,fulham,3,1,2,0,2,aston villa,fulham,simon hooper,Premier_League
+2023-11-12T14:00:00Z,12,brighton hove,sheffield utd,1,1,1,0,0,draw,draw,john brooks,Premier_League
+2023-11-12T14:00:00Z,12,liverpool,brentford,3,0,1,0,3,liverpool,brentford,paul tierney,Premier_League
+2023-11-12T14:00:00Z,12,west ham,nottingham,3,2,1,1,1,west ham,nottingham,michael salisbury,Premier_League
+2023-11-12T16:30:00Z,12,chelsea,man city,4,4,2,2,0,draw,draw,anthony taylor,Premier_League
+2023-11-25T12:30:00Z,13,man city,liverpool,1,1,1,0,0,draw,draw,chris kavanagh,Premier_League
+2023-11-25T15:00:00Z,13,burnley,west ham,1,2,0,0,1,west ham,burnley,sam barrott,Premier_League
+2023-11-25T15:00:00Z,13,luton town,crystal palace,2,1,0,0,1,luton town,crystal palace,jarred gillett,Premier_League
+2023-11-25T15:00:00Z,13,newcastle,chelsea,4,1,1,1,3,newcastle,chelsea,simon hooper,Premier_League
+2023-11-25T15:00:00Z,13,nottingham,brighton hove,2,3,1,2,1,brighton hove,nottingham,anthony taylor,Premier_League
+2023-11-25T15:00:00Z,13,sheffield utd,bournemouth,1,3,0,2,2,bournemouth,sheffield utd,bobby madley,Premier_League
+2023-11-25T17:30:00Z,13,brentford,arsenal,0,1,0,0,1,arsenal,brentford,tim robinson,Premier_League
+2023-11-26T14:00:00Z,13,tottenham,aston villa,1,2,1,1,1,aston villa,tottenham,robert jones,Premier_League
+2023-11-26T16:30:00Z,13,everton,man united,0,3,0,1,3,man united,everton,john brooks,Premier_League
+2023-11-27T20:00:00Z,13,fulham,wolverhampton,3,2,1,1,1,fulham,wolverhampton,michael salisbury,Premier_League
+2023-12-02T15:00:00Z,14,arsenal,wolverhampton,2,1,2,0,1,arsenal,wolverhampton,peter bankes,Premier_League
+2023-12-02T15:00:00Z,14,brentford,luton town,3,1,0,0,2,brentford,luton town,anthony taylor,Premier_League
+2023-12-02T15:00:00Z,14,burnley,sheffield utd,5,0,2,0,5,burnley,sheffield utd,chris kavanagh,Premier_League
+2023-12-02T17:30:00Z,14,nottingham,everton,0,1,0,0,1,everton,nottingham,paul tierney,Premier_League
+2023-12-02T20:00:00Z,14,newcastle,man united,1,0,0,0,1,newcastle,man united,robert jones,Premier_League
+2023-12-03T14:00:00Z,14,bournemouth,aston villa,2,2,1,1,0,draw,draw,thomas bramall,Premier_League
+2023-12-03T14:00:00Z,14,chelsea,brighton hove,3,2,2,1,1,chelsea,brighton hove,craig pawson,Premier_League
+2023-12-03T14:00:00Z,14,liverpool,fulham,4,3,2,2,1,liverpool,fulham,stuart attwell,Premier_League
+2023-12-03T14:00:00Z,14,west ham,crystal palace,1,1,1,0,0,draw,draw,michael oliver,Premier_League
+2023-12-03T16:30:00Z,14,man city,tottenham,3,3,2,1,0,draw,draw,simon hooper,Premier_League
+2023-12-05T19:30:00Z,15,wolverhampton,burnley,1,0,1,0,1,wolverhampton,burnley,jarred gillett,Premier_League
+2023-12-05T20:15:00Z,15,luton town,arsenal,3,4,1,2,1,arsenal,luton town,sam barrott,Premier_League
+2023-12-06T19:30:00Z,15,brighton hove,brentford,2,1,1,1,1,brighton hove,brentford,peter bankes,Premier_League
+2023-12-06T19:30:00Z,15,fulham,nottingham,5,0,2,0,5,fulham,nottingham,josh smith,Premier_League
+2023-12-06T19:30:00Z,15,sheffield utd,liverpool,0,2,0,1,2,liverpool,sheffield utd,simon hooper,Premier_League
+2023-12-06T19:30:00Z,15,crystal palace,bournemouth,0,2,0,1,2,bournemouth,crystal palace,craig pawson,Premier_League
+2023-12-06T20:15:00Z,15,aston villa,man city,1,0,0,0,1,aston villa,man city,john brooks,Premier_League
+2023-12-06T20:15:00Z,15,man united,chelsea,2,1,1,1,1,man united,chelsea,chris kavanagh,Premier_League
+2023-12-07T19:30:00Z,15,everton,newcastle,3,0,0,0,3,everton,newcastle,tim robinson,Premier_League
+2023-12-07T20:15:00Z,15,tottenham,west ham,1,2,1,0,1,west ham,tottenham,michael salisbury,Premier_League
+2023-12-09T12:30:00Z,16,crystal palace,liverpool,1,2,0,0,1,liverpool,crystal palace,andy madley,Premier_League
+2023-12-09T15:00:00Z,16,brighton hove,burnley,1,1,0,1,0,draw,draw,simon hooper,Premier_League
+2023-12-09T15:00:00Z,16,man united,bournemouth,0,3,0,1,3,bournemouth,man united,peter bankes,Premier_League
+2023-12-09T15:00:00Z,16,sheffield utd,brentford,1,0,1,0,1,sheffield utd,brentford,stuart attwell,Premier_League
+2023-12-09T15:00:00Z,16,wolverhampton,nottingham,1,1,1,1,0,draw,draw,sam barrott,Premier_League
+2023-12-09T17:30:00Z,16,aston villa,arsenal,1,0,1,0,1,aston villa,arsenal,jarred gillett,Premier_League
+2023-12-10T14:00:00Z,16,everton,chelsea,2,0,0,0,2,everton,chelsea,michael oliver,Premier_League
+2023-12-10T14:00:00Z,16,fulham,west ham,5,0,3,0,5,fulham,west ham,paul tierney,Premier_League
+2023-12-10T14:00:00Z,16,luton town,man city,1,2,1,0,1,man city,luton town,tim robinson,Premier_League
+2023-12-10T16:30:00Z,16,tottenham,newcastle,4,1,2,0,3,tottenham,newcastle,chris kavanagh,Premier_League
+2023-12-15T20:00:00Z,17,nottingham,tottenham,0,2,0,1,2,tottenham,nottingham,jarred gillett,Premier_League
+2023-12-16T15:00:00Z,17,chelsea,sheffield utd,2,0,0,0,2,chelsea,sheffield utd,andy madley,Premier_League
+2023-12-16T15:00:00Z,17,man city,crystal palace,2,2,1,0,0,draw,draw,paul tierney,Premier_League
+2023-12-16T15:00:00Z,17,newcastle,fulham,3,0,0,0,3,newcastle,fulham,sam barrott,Premier_League
+2023-12-16T17:30:00Z,17,burnley,everton,0,2,0,2,2,everton,burnley,anthony taylor,Premier_League
+2023-12-17T14:00:00Z,17,arsenal,brighton hove,2,0,0,0,2,arsenal,brighton hove,tim robinson,Premier_League
+2023-12-17T14:00:00Z,17,brentford,aston villa,1,2,1,0,1,aston villa,brentford,david coote,Premier_League
+2023-12-17T14:00:00Z,17,west ham,wolverhampton,3,0,2,0,3,west ham,wolverhampton,chris kavanagh,Premier_League
+2023-12-17T16:30:00Z,17,liverpool,man united,0,0,0,0,0,draw,draw,michael oliver,Premier_League
+2023-12-21T20:00:00Z,18,crystal palace,brighton hove,1,1,1,0,0,draw,draw,john brooks,Premier_League
+2023-12-22T20:00:00Z,18,aston villa,sheffield utd,1,1,0,0,0,draw,draw,anthony taylor,Premier_League
+2023-12-23T12:30:00Z,18,west ham,man united,2,0,0,0,2,west ham,man united,simon hooper,Premier_League
+2023-12-23T15:00:00Z,18,fulham,burnley,0,2,0,0,2,burnley,fulham,rebecca welch,Premier_League
+2023-12-23T15:00:00Z,18,luton town,newcastle,1,0,1,0,1,luton town,newcastle,darren england,Premier_League
+2023-12-23T15:00:00Z,18,nottingham,bournemouth,2,3,0,0,1,bournemouth,nottingham,robert jones,Premier_League
+2023-12-23T15:00:00Z,18,tottenham,everton,2,1,2,0,1,tottenham,everton,stuart attwell,Premier_League
+2023-12-23T17:30:00Z,18,liverpool,arsenal,1,1,1,1,0,draw,draw,chris kavanagh,Premier_League
+2023-12-24T13:00:00Z,18,wolverhampton,chelsea,2,1,0,0,1,wolverhampton,chelsea,david coote,Premier_League
+2023-12-26T12:30:00Z,19,newcastle,nottingham,1,3,1,1,2,nottingham,newcastle,chris kavanagh,Premier_League
+2023-12-26T15:00:00Z,19,bournemouth,fulham,3,0,1,0,3,bournemouth,fulham,tim robinson,Premier_League
+2023-12-26T15:00:00Z,19,sheffield utd,luton town,2,3,0,1,1,luton town,sheffield utd,samuel allison,Premier_League
+2023-12-26T17:30:00Z,19,burnley,liverpool,0,2,0,1,2,liverpool,burnley,paul tierney,Premier_League
+2023-12-26T20:00:00Z,19,man united,aston villa,3,2,0,2,1,man united,aston villa,craig pawson,Premier_League
+2023-12-27T19:30:00Z,19,brentford,wolverhampton,1,4,1,3,3,wolverhampton,brentford,andy madley,Premier_League
+2023-12-27T19:30:00Z,19,chelsea,crystal palace,2,1,1,1,1,chelsea,crystal palace,michael salisbury,Premier_League
+2023-12-27T20:15:00Z,19,everton,man city,1,3,1,0,2,man city,everton,john brooks,Premier_League
+2023-12-28T19:30:00Z,19,brighton hove,tottenham,4,2,2,0,2,brighton hove,tottenham,jarred gillett,Premier_League
+2023-12-28T20:15:00Z,19,arsenal,west ham,0,2,0,1,2,west ham,arsenal,michael oliver,Premier_League
+2023-12-30T12:30:00Z,20,luton town,chelsea,2,3,0,2,1,chelsea,luton town,paul tierney,Premier_League
+2023-12-30T15:00:00Z,20,aston villa,burnley,3,2,2,1,1,aston villa,burnley,stuart attwell,Premier_League
+2023-12-30T15:00:00Z,20,crystal palace,brentford,3,1,2,1,2,crystal palace,brentford,robert jones,Premier_League
+2023-12-30T15:00:00Z,20,man city,sheffield utd,2,0,1,0,2,man city,sheffield utd,david coote,Premier_League
+2023-12-30T15:00:00Z,20,wolverhampton,everton,3,0,1,0,3,wolverhampton,everton,thomas bramall,Premier_League
+2023-12-30T17:30:00Z,20,nottingham,man united,2,1,0,0,1,nottingham,man united,tim robinson,Premier_League
+2023-12-31T14:00:00Z,20,fulham,arsenal,2,1,1,1,1,fulham,arsenal,peter bankes,Premier_League
+2023-12-31T14:00:00Z,20,tottenham,bournemouth,3,1,1,0,2,tottenham,bournemouth,simon hooper,Premier_League
+2024-01-01T20:00:00Z,20,liverpool,newcastle,4,2,0,0,2,liverpool,newcastle,anthony taylor,Premier_League
+2024-01-02T19:30:00Z,20,west ham,brighton hove,0,0,0,0,0,draw,draw,sam barrott,Premier_League
+2024-01-12T19:45:00Z,21,burnley,luton town,1,1,1,0,0,draw,draw,tony harrington,Premier_League
+2024-01-13T12:30:00Z,21,chelsea,fulham,1,0,1,0,1,chelsea,fulham,anthony taylor,Premier_League
+2024-01-13T17:30:00Z,21,newcastle,man city,2,3,2,1,1,man city,newcastle,chris kavanagh,Premier_League
+2024-01-14T14:00:00Z,21,everton,aston villa,0,0,0,0,0,draw,draw,david coote,Premier_League
+2024-01-14T16:30:00Z,21,man united,tottenham,2,2,2,1,0,draw,draw,john brooks,Premier_League
+2024-01-20T12:30:00Z,21,arsenal,crystal palace,5,0,2,0,5,arsenal,crystal palace,paul tierney,Premier_League
+2024-01-20T17:30:00Z,21,brentford,nottingham,3,2,1,1,1,brentford,nottingham,darren england,Premier_League
+2024-01-21T14:00:00Z,21,sheffield utd,west ham,2,2,1,1,0,draw,draw,michael salisbury,Premier_League
+2024-01-21T16:30:00Z,21,bournemouth,liverpool,0,4,0,0,4,liverpool,bournemouth,bobby madley,Premier_League
+2024-01-22T19:45:00Z,21,brighton hove,wolverhampton,0,0,0,0,0,draw,draw,craig pawson,Premier_League
+2024-01-30T19:30:00Z,22,nottingham,arsenal,1,2,0,0,1,arsenal,nottingham,simon hooper,Premier_League
+2024-01-30T19:45:00Z,22,luton town,brighton hove,4,0,3,0,4,luton town,brighton hove,robert jones,Premier_League
+2024-01-30T19:45:00Z,22,fulham,everton,0,0,0,0,0,draw,draw,thomas bramall,Premier_League
+2024-01-30T20:00:00Z,22,crystal palace,sheffield utd,3,2,2,2,1,crystal palace,sheffield utd,tony harrington,Premier_League
+2024-01-30T20:15:00Z,22,aston villa,newcastle,1,3,0,2,2,newcastle,aston villa,john brooks,Premier_League
+2024-01-31T19:30:00Z,22,tottenham,brentford,3,2,0,1,1,tottenham,brentford,david coote,Premier_League
+2024-01-31T19:30:00Z,22,man city,burnley,3,1,2,0,2,man city,burnley,sam barrott,Premier_League
+2024-01-31T20:15:00Z,22,liverpool,chelsea,4,1,2,0,3,liverpool,chelsea,paul tierney,Premier_League
+2024-02-01T19:30:00Z,22,west ham,bournemouth,1,1,0,1,0,draw,draw,tim robinson,Premier_League
+2024-02-01T20:15:00Z,22,wolverhampton,man united,3,4,0,2,1,man united,wolverhampton,jarred gillett,Premier_League
+2024-02-03T12:30:00Z,23,everton,tottenham,2,2,1,2,0,draw,draw,michael oliver,Premier_League
+2024-02-03T15:00:00Z,23,brighton hove,crystal palace,4,1,3,0,3,brighton hove,crystal palace,simon hooper,Premier_League
+2024-02-03T15:00:00Z,23,burnley,fulham,2,2,0,2,0,draw,draw,darren bond,Premier_League
+2024-02-03T15:00:00Z,23,newcastle,luton town,4,4,2,2,0,draw,draw,thomas bramall,Premier_League
+2024-02-03T17:30:00Z,23,sheffield utd,aston villa,0,5,0,4,5,aston villa,sheffield utd,paul tierney,Premier_League
+2024-02-04T14:00:00Z,23,bournemouth,nottingham,1,1,1,1,0,draw,draw,rebecca welch,Premier_League
+2024-02-04T14:00:00Z,23,chelsea,wolverhampton,2,4,1,2,2,wolverhampton,chelsea,tim robinson,Premier_League
+2024-02-04T14:00:00Z,23,man united,west ham,3,0,1,0,3,man united,west ham,andy madley,Premier_League
+2024-02-04T16:30:00Z,23,arsenal,liverpool,3,1,1,1,2,arsenal,liverpool,anthony taylor,Premier_League
+2024-02-05T20:00:00Z,23,brentford,man city,1,3,1,1,2,man city,brentford,jarred gillett,Premier_League
+2024-02-10T12:30:00Z,24,man city,everton,2,0,0,0,2,man city,everton,john brooks,Premier_League
+2024-02-10T15:00:00Z,24,fulham,bournemouth,3,1,2,0,2,fulham,bournemouth,darren england,Premier_League
+2024-02-10T15:00:00Z,24,liverpool,burnley,3,1,1,1,2,liverpool,burnley,tim robinson,Premier_League
+2024-02-10T15:00:00Z,24,luton town,sheffield utd,1,3,0,2,2,sheffield utd,luton town,chris kavanagh,Premier_League
+2024-02-10T15:00:00Z,24,tottenham,brighton hove,2,1,0,1,1,tottenham,brighton hove,sam barrott,Premier_League
+2024-02-10T15:00:00Z,24,wolverhampton,brentford,0,2,0,1,2,brentford,wolverhampton,simon hooper,Premier_League
+2024-02-10T17:30:00Z,24,nottingham,newcastle,2,3,2,2,1,newcastle,nottingham,anthony taylor,Premier_League
+2024-02-11T14:00:00Z,24,west ham,arsenal,0,6,0,4,6,arsenal,west ham,craig pawson,Premier_League
+2024-02-11T16:30:00Z,24,aston villa,man united,1,2,0,1,1,man united,aston villa,robert jones,Premier_League
+2024-02-12T20:00:00Z,24,crystal palace,chelsea,1,3,1,0,2,chelsea,crystal palace,michael oliver,Premier_League
+2024-02-17T12:30:00Z,25,brentford,liverpool,1,4,0,1,3,liverpool,brentford,michael oliver,Premier_League
+2024-02-17T15:00:00Z,25,burnley,arsenal,0,5,0,2,5,arsenal,burnley,jarred gillett,Premier_League
+2024-02-17T15:00:00Z,25,fulham,aston villa,1,2,0,1,1,aston villa,fulham,lewis smith,Premier_League
+2024-02-17T15:00:00Z,25,newcastle,bournemouth,2,2,0,0,0,draw,draw,michael salisbury,Premier_League
+2024-02-17T15:00:00Z,25,nottingham,west ham,2,0,1,0,2,nottingham,west ham,thomas bramall,Premier_League
+2024-02-17T15:00:00Z,25,tottenham,wolverhampton,1,2,0,1,1,wolverhampton,tottenham,anthony taylor,Premier_League
+2024-02-17T17:30:00Z,25,man city,chelsea,1,1,0,1,0,draw,draw,andy madley,Premier_League
+2024-02-18T14:00:00Z,25,sheffield utd,brighton hove,0,5,0,2,5,brighton hove,sheffield utd,stuart attwell,Premier_League
+2024-02-18T16:30:00Z,25,luton town,man united,1,2,1,2,1,man united,luton town,david coote,Premier_League
+2024-02-19T20:00:00Z,25,everton,crystal palace,1,1,0,0,0,draw,draw,paul tierney,Premier_League
+2024-02-20T19:30:00Z,18,man city,brentford,1,0,0,0,1,man city,brentford,darren england,Premier_League
+2024-02-21T19:30:00Z,26,liverpool,luton town,4,1,0,1,3,liverpool,luton town,andy madley,Premier_League
+2024-02-24T15:00:00Z,26,aston villa,nottingham,4,2,3,1,2,aston villa,nottingham,sam barrott,Premier_League
+2024-02-24T15:00:00Z,26,brighton hove,everton,1,1,0,0,0,draw,draw,tony harrington,Premier_League
+2024-02-24T15:00:00Z,26,crystal palace,burnley,3,0,0,0,3,crystal palace,burnley,lewis smith,Premier_League
+2024-02-24T15:00:00Z,26,man united,fulham,1,2,0,0,1,fulham,man united,michael oliver,Premier_League
+2024-02-24T17:30:00Z,26,bournemouth,man city,0,1,0,1,1,man city,bournemouth,jarred gillett,Premier_League
+2024-02-24T20:00:00Z,26,arsenal,newcastle,4,1,2,0,3,arsenal,newcastle,paul tierney,Premier_League
+2024-02-25T13:30:00Z,26,wolverhampton,sheffield utd,1,0,1,0,1,wolverhampton,sheffield utd,darren bond,Premier_League
+2024-02-26T20:00:00Z,26,west ham,brentford,4,2,2,1,2,west ham,brentford,simon hooper,Premier_League
+2024-03-02T15:00:00Z,27,brentford,chelsea,2,2,0,1,0,draw,draw,jarred gillett,Premier_League
+2024-03-02T15:00:00Z,27,everton,west ham,1,3,0,0,2,west ham,everton,craig pawson,Premier_League
+2024-03-02T15:00:00Z,27,fulham,brighton hove,3,0,2,0,3,fulham,brighton hove,simon hooper,Premier_League
+2024-03-02T15:00:00Z,27,newcastle,wolverhampton,3,0,2,0,3,newcastle,wolverhampton,tim robinson,Premier_League
+2024-03-02T15:00:00Z,27,nottingham,liverpool,0,1,0,0,1,liverpool,nottingham,paul tierney,Premier_League
+2024-03-02T15:00:00Z,27,tottenham,crystal palace,3,1,0,0,2,tottenham,crystal palace,john brooks,Premier_League
+2024-03-02T17:30:00Z,27,luton town,aston villa,2,3,0,2,1,aston villa,luton town,michael oliver,Premier_League
+2024-03-03T13:00:00Z,27,burnley,bournemouth,0,2,0,1,2,bournemouth,burnley,david coote,Premier_League
+2024-03-03T15:30:00Z,27,man city,man united,3,1,0,1,2,man city,man united,andy madley,Premier_League
+2024-03-04T20:00:00Z,27,sheffield utd,arsenal,0,6,0,5,6,arsenal,sheffield utd,sam barrott,Premier_League
+2024-03-09T12:30:00Z,28,man united,everton,2,0,2,0,2,man united,everton,simon hooper,Premier_League
+2024-03-09T15:00:00Z,28,bournemouth,sheffield utd,2,2,0,1,0,draw,draw,anthony taylor,Premier_League
+2024-03-09T15:00:00Z,28,crystal palace,luton town,1,1,1,0,0,draw,draw,sunny gill,Premier_League
+2024-03-09T15:00:00Z,28,wolverhampton,fulham,2,1,0,0,1,wolverhampton,fulham,tony harrington,Premier_League
+2024-03-09T17:30:00Z,28,arsenal,brentford,2,1,1,1,1,arsenal,brentford,robert jones,Premier_League
+2024-03-10T13:00:00Z,28,aston villa,tottenham,0,4,0,0,4,tottenham,aston villa,chris kavanagh,Premier_League
+2024-03-10T14:00:00Z,28,brighton hove,nottingham,1,0,1,0,1,brighton hove,nottingham,michael salisbury,Premier_League
+2024-03-10T14:00:00Z,28,west ham,burnley,2,2,0,2,0,draw,draw,darren england,Premier_League
+2024-03-10T15:45:00Z,28,liverpool,man city,1,1,0,1,0,draw,draw,michael oliver,Premier_League
+2024-03-11T20:00:00Z,28,chelsea,newcastle,3,2,1,1,1,chelsea,newcastle,john brooks,Premier_League
+2024-03-13T19:30:00Z,17,bournemouth,luton town,4,3,0,3,1,bournemouth,luton town,samuel allison,Premier_League
+2024-03-16T15:00:00Z,29,burnley,brentford,2,1,1,0,1,burnley,brentford,darren bond,Premier_League
+2024-03-16T15:00:00Z,29,luton town,nottingham,1,1,0,1,0,draw,draw,darren england,Premier_League
+2024-03-16T17:30:00Z,29,fulham,tottenham,3,0,1,0,3,fulham,tottenham,robert jones,Premier_League
+2024-03-17T14:00:00Z,29,west ham,aston villa,1,1,1,0,0,draw,draw,jarred gillett,Premier_League
+2024-03-30T12:30:00Z,30,newcastle,west ham,4,3,1,2,1,newcastle,west ham,robert jones,Premier_League
+2024-03-30T15:00:00Z,30,bournemouth,everton,2,1,0,0,1,bournemouth,everton,sam barrott,Premier_League
+2024-03-30T15:00:00Z,30,chelsea,burnley,2,2,1,0,0,draw,draw,darren england,Premier_League
+2024-03-30T15:00:00Z,30,nottingham,crystal palace,1,1,0,1,0,draw,draw,chris kavanagh,Premier_League
+2024-03-30T15:00:00Z,30,sheffield utd,fulham,3,3,0,0,0,draw,draw,tim robinson,Premier_League
+2024-03-30T15:00:00Z,30,tottenham,luton town,2,1,0,1,1,tottenham,luton town,jarred gillett,Premier_League
+2024-03-30T17:30:00Z,30,aston villa,wolverhampton,2,0,1,0,2,aston villa,wolverhampton,paul tierney,Premier_League
+2024-03-30T20:00:00Z,30,brentford,man united,1,1,0,0,0,draw,draw,simon hooper,Premier_League
+2024-03-31T13:00:00Z,30,liverpool,brighton hove,2,1,1,1,1,liverpool,brighton hove,david coote,Premier_League
+2024-03-31T15:30:00Z,30,man city,arsenal,0,0,0,0,0,draw,draw,anthony taylor,Premier_League
+2024-04-02T18:30:00Z,31,nottingham,fulham,3,1,3,0,2,nottingham,fulham,michael oliver,Premier_League
+2024-04-02T18:30:00Z,31,newcastle,everton,1,1,1,0,0,draw,draw,tony harrington,Premier_League
+2024-04-02T18:45:00Z,31,bournemouth,crystal palace,1,0,0,0,1,bournemouth,crystal palace,graham scott,Premier_League
+2024-04-02T18:45:00Z,31,burnley,wolverhampton,1,1,1,1,0,draw,draw,thomas bramall,Premier_League
+2024-04-02T19:15:00Z,31,west ham,tottenham,1,1,1,1,0,draw,draw,john brooks,Premier_League
+2024-04-03T18:30:00Z,31,arsenal,luton town,2,0,2,0,2,arsenal,luton town,craig pawson,Premier_League
+2024-04-03T18:30:00Z,31,brentford,brighton hove,0,0,0,0,0,draw,draw,bobby madley,Premier_League
+2024-04-03T19:15:00Z,31,man city,aston villa,4,1,2,1,3,man city,aston villa,darren england,Premier_League
+2024-04-04T18:30:00Z,31,liverpool,sheffield utd,3,1,1,0,2,liverpool,sheffield utd,stuart attwell,Premier_League
+2024-04-04T19:15:00Z,31,chelsea,man united,4,3,2,2,1,chelsea,man united,jarred gillett,Premier_League
+2024-04-06T11:30:00Z,32,crystal palace,man city,2,4,1,1,2,man city,crystal palace,paul tierney,Premier_League
+2024-04-06T14:00:00Z,32,aston villa,brentford,3,3,1,0,0,draw,draw,michael salisbury,Premier_League
+2024-04-06T14:00:00Z,32,everton,burnley,1,0,1,0,1,everton,burnley,michael oliver,Premier_League
+2024-04-06T14:00:00Z,32,fulham,newcastle,0,1,0,0,1,newcastle,fulham,samuel allison,Premier_League
+2024-04-06T14:00:00Z,32,luton town,bournemouth,2,1,0,0,1,luton town,bournemouth,andy madley,Premier_League
+2024-04-06T14:00:00Z,32,wolverhampton,west ham,1,2,1,0,1,west ham,wolverhampton,tony harrington,Premier_League
+2024-04-06T16:30:00Z,32,brighton hove,arsenal,0,3,0,1,3,arsenal,brighton hove,john brooks,Premier_League
+2024-04-07T14:30:00Z,32,man united,liverpool,2,2,0,1,0,draw,draw,anthony taylor,Premier_League
+2024-04-07T16:30:00Z,32,sheffield utd,chelsea,2,2,1,1,0,draw,draw,robert jones,Premier_League
+2024-04-07T17:00:00Z,32,tottenham,nottingham,3,1,1,1,2,tottenham,nottingham,simon hooper,Premier_League
+2024-04-13T11:30:00Z,33,newcastle,tottenham,4,0,2,0,4,newcastle,tottenham,tim robinson,Premier_League
+2024-04-13T14:00:00Z,33,brentford,sheffield utd,2,0,0,0,2,brentford,sheffield utd,sam barrott,Premier_League
+2024-04-13T14:00:00Z,33,burnley,brighton hove,1,1,0,0,0,draw,draw,simon hooper,Premier_League
+2024-04-13T14:00:00Z,33,man city,luton town,5,1,1,0,4,man city,luton town,john brooks,Premier_League
+2024-04-13T14:00:00Z,33,nottingham,wolverhampton,2,2,1,1,0,draw,draw,craig pawson,Premier_League
+2024-04-13T16:30:00Z,33,bournemouth,man united,2,2,2,1,0,draw,draw,tony harrington,Premier_League
+2024-04-14T13:00:00Z,33,liverpool,crystal palace,0,1,0,1,1,crystal palace,liverpool,chris kavanagh,Premier_League
+2024-04-14T13:00:00Z,33,west ham,fulham,0,2,0,1,2,fulham,west ham,stuart attwell,Premier_League
+2024-04-14T15:30:00Z,33,arsenal,aston villa,0,2,0,0,2,aston villa,arsenal,david coote,Premier_League
+2024-04-15T19:00:00Z,33,chelsea,everton,6,0,4,0,6,chelsea,everton,paul tierney,Premier_League
+2024-04-20T14:00:00Z,34,luton town,brentford,1,5,0,2,4,brentford,luton town,jarred gillett,Premier_League
+2024-04-20T14:00:00Z,34,sheffield utd,burnley,1,4,0,2,3,burnley,sheffield utd,andy madley,Premier_League
+2024-04-20T18:30:00Z,34,wolverhampton,arsenal,0,2,0,1,2,arsenal,wolverhampton,paul tierney,Premier_League
+2024-04-21T12:30:00Z,34,everton,nottingham,2,0,1,0,2,everton,nottingham,anthony taylor,Premier_League
+2024-04-21T14:00:00Z,34,aston villa,bournemouth,3,1,1,1,2,aston villa,bournemouth,tim robinson,Premier_League
+2024-04-21T14:00:00Z,34,crystal palace,west ham,5,2,4,1,3,crystal palace,west ham,graham scott,Premier_League
+2024-04-21T15:30:00Z,34,fulham,liverpool,1,3,1,1,2,liverpool,fulham,craig pawson,Premier_League
+2024-04-23T19:00:00Z,29,arsenal,chelsea,5,0,1,0,5,arsenal,chelsea,simon hooper,Premier_League
+2024-04-24T18:45:00Z,29,wolverhampton,bournemouth,0,1,0,1,1,bournemouth,wolverhampton,stuart attwell,Premier_League
+2024-04-24T19:00:00Z,29,crystal palace,newcastle,2,0,0,0,2,crystal palace,newcastle,thomas bramall,Premier_League
+2024-04-24T19:00:00Z,29,everton,liverpool,2,0,1,0,2,everton,liverpool,andy madley,Premier_League
+2024-04-24T19:00:00Z,29,man united,sheffield utd,4,2,1,1,2,man united,sheffield utd,michael salisbury,Premier_League
+2024-04-25T19:00:00Z,29,brighton hove,man city,0,4,0,3,4,man city,brighton hove,jarred gillett,Premier_League
+2024-04-27T11:30:00Z,35,west ham,liverpool,2,2,1,0,0,draw,draw,anthony taylor,Premier_League
+2024-04-27T14:00:00Z,35,fulham,crystal palace,1,1,0,0,0,draw,draw,stuart attwell,Premier_League
+2024-04-27T14:00:00Z,35,man united,burnley,1,1,0,0,0,draw,draw,john brooks,Premier_League
+2024-04-27T14:00:00Z,35,newcastle,sheffield utd,5,1,1,1,4,newcastle,sheffield utd,tony harrington,Premier_League
+2024-04-27T14:00:00Z,35,wolverhampton,luton town,2,1,1,0,1,wolverhampton,luton town,david coote,Premier_League
+2024-04-27T16:30:00Z,35,everton,brentford,1,0,0,0,1,everton,brentford,darren england,Premier_League
+2024-04-27T19:00:00Z,35,aston villa,chelsea,2,2,2,0,0,draw,draw,craig pawson,Premier_League
+2024-04-28T13:00:00Z,35,bournemouth,brighton hove,3,0,1,0,3,bournemouth,brighton hove,paul tierney,Premier_League
+2024-04-28T13:00:00Z,35,tottenham,arsenal,2,3,0,3,1,arsenal,tottenham,michael oliver,Premier_League
+2024-04-28T15:30:00Z,35,nottingham,man city,0,2,0,1,2,man city,nottingham,simon hooper,Premier_League
+2024-05-02T18:30:00Z,26,chelsea,tottenham,2,0,1,0,2,chelsea,tottenham,robert jones,Premier_League
+2024-05-03T19:00:00Z,36,luton town,everton,1,1,1,1,0,draw,draw,tim robinson,Premier_League
+2024-05-04T11:30:00Z,36,arsenal,bournemouth,3,0,1,0,3,arsenal,bournemouth,david coote,Premier_League
+2024-05-04T14:00:00Z,36,brentford,fulham,0,0,0,0,0,draw,draw,graham scott,Premier_League
+2024-05-04T14:00:00Z,36,burnley,newcastle,1,4,0,3,3,newcastle,burnley,anthony taylor,Premier_League
+2024-05-04T14:00:00Z,36,sheffield utd,nottingham,1,3,1,1,2,nottingham,sheffield utd,chris kavanagh,Premier_League
+2024-05-04T16:30:00Z,36,man city,wolverhampton,5,1,3,0,4,man city,wolverhampton,craig pawson,Premier_League
+2024-05-05T13:00:00Z,36,brighton hove,aston villa,1,0,0,0,1,brighton hove,aston villa,robert jones,Premier_League
+2024-05-05T13:00:00Z,36,chelsea,west ham,5,0,3,0,5,chelsea,west ham,bobby madley,Premier_League
+2024-05-05T15:30:00Z,36,liverpool,tottenham,4,2,2,0,2,liverpool,tottenham,paul tierney,Premier_League
+2024-05-06T19:00:00Z,36,crystal palace,man united,4,0,2,0,4,crystal palace,man united,jarred gillett,Premier_League
+2024-05-11T11:30:00Z,37,fulham,man city,0,4,0,1,4,man city,fulham,anthony taylor,Premier_League
+2024-05-11T14:00:00Z,37,bournemouth,brentford,1,2,0,0,1,brentford,bournemouth,matt donohue,Premier_League
+2024-05-11T14:00:00Z,37,everton,sheffield utd,1,0,1,0,1,everton,sheffield utd,stuart attwell,Premier_League
+2024-05-11T14:00:00Z,37,newcastle,brighton hove,1,1,1,1,0,draw,draw,darren england,Premier_League
+2024-05-11T14:00:00Z,37,tottenham,burnley,2,1,1,1,1,tottenham,burnley,jarred gillett,Premier_League
+2024-05-11T14:00:00Z,37,west ham,luton town,3,1,0,1,2,west ham,luton town,michael oliver,Premier_League
+2024-05-11T14:00:00Z,37,wolverhampton,crystal palace,1,3,0,2,2,crystal palace,wolverhampton,thomas bramall,Premier_League
+2024-05-11T16:30:00Z,37,nottingham,chelsea,2,3,1,1,1,chelsea,nottingham,tony harrington,Premier_League
+2024-05-12T15:30:00Z,37,man united,arsenal,0,1,0,1,1,arsenal,man united,paul tierney,Premier_League
+2024-05-13T19:00:00Z,37,aston villa,liverpool,3,3,1,2,0,draw,draw,simon hooper,Premier_League
+2024-05-14T19:00:00Z,34,tottenham,man city,0,2,0,0,2,man city,tottenham,chris kavanagh,Premier_League
+2024-05-15T18:45:00Z,34,brighton hove,chelsea,1,2,0,1,1,chelsea,brighton hove,michael salisbury,Premier_League
+2024-05-15T19:00:00Z,34,man united,newcastle,3,2,1,0,1,man united,newcastle,robert jones,Premier_League
+2024-05-19T15:00:00Z,38,arsenal,everton,2,1,1,1,1,arsenal,everton,michael oliver,Premier_League
+2024-05-19T15:00:00Z,38,brentford,newcastle,2,4,0,3,2,newcastle,brentford,simon hooper,Premier_League
+2024-05-19T15:00:00Z,38,brighton hove,man united,0,2,0,0,2,man united,brighton hove,craig pawson,Premier_League
+2024-05-19T15:00:00Z,38,burnley,nottingham,1,2,0,2,1,nottingham,burnley,graham scott,Premier_League
+2024-05-19T15:00:00Z,38,chelsea,bournemouth,2,1,1,0,1,chelsea,bournemouth,anthony taylor,Premier_League
+2024-05-19T15:00:00Z,38,crystal palace,aston villa,5,0,2,0,5,crystal palace,aston villa,darren bond,Premier_League
+2024-05-19T15:00:00Z,38,liverpool,wolverhampton,2,0,2,0,2,liverpool,wolverhampton,chris kavanagh,Premier_League
+2024-05-19T15:00:00Z,38,luton town,fulham,2,4,1,2,2,fulham,luton town,matt donohue,Premier_League
+2024-05-19T15:00:00Z,38,man city,west ham,3,1,2,1,2,man city,west ham,john brooks,Premier_League
+2024-05-19T15:00:00Z,38,sheffield utd,tottenham,0,3,0,1,3,tottenham,sheffield utd,bobby madley,Premier_League
+2023-08-19T16:30:00Z,1,empoli,verona,0,1,0,0,1,verona,empoli,luca massimi,Serie_A
+2023-08-19T16:30:00Z,1,frosinone,napoli,1,3,1,2,2,napoli,frosinone,matteo marcenaro,Serie_A
+2023-08-19T18:45:00Z,1,genoa,fiorentina,1,4,0,3,3,fiorentina,genoa,giovanni ayroldi,Serie_A
+2023-08-19T18:45:00Z,1,inter,monza,2,0,1,0,2,inter,monza,andrea colombo,Serie_A
+2023-08-20T16:30:00Z,1,roma,salernitana,2,2,1,1,0,draw,draw,ermanno feliciani,Serie_A
+2023-08-20T16:30:00Z,1,sassuolo,atalanta,0,2,0,0,2,atalanta,sassuolo,matteo marchetti,Serie_A
+2023-08-20T18:45:00Z,1,lecce,lazio,2,1,0,1,1,lecce,lazio,federico dionisi,Serie_A
+2023-08-20T18:45:00Z,1,udinese,juventus,0,3,0,3,3,juventus,udinese,antonio rapuano,Serie_A
+2023-08-21T16:30:00Z,1,torino,cagliari,0,0,0,0,0,draw,draw,francesco cosso,Serie_A
+2023-08-21T18:45:00Z,1,bologna,milan,0,2,0,2,2,milan,bologna,luca pairetto,Serie_A
+2023-08-26T16:30:00Z,2,frosinone,atalanta,2,1,2,0,1,frosinone,atalanta,juan luca sacchi,Serie_A
+2023-08-26T16:30:00Z,2,monza,empoli,2,0,1,0,2,monza,empoli,gianluca aureliano,Serie_A
+2023-08-26T18:45:00Z,2,verona,roma,2,1,2,0,1,verona,roma,daniele doveri,Serie_A
+2023-08-26T18:45:00Z,2,milan,torino,4,1,3,1,3,milan,torino,maurizio mariani,Serie_A
+2023-08-27T16:30:00Z,2,fiorentina,lecce,2,2,2,0,0,draw,draw,maria caputi,Serie_A
+2023-08-27T16:30:00Z,2,juventus,bologna,1,1,0,1,0,draw,draw,marco di bello,Serie_A
+2023-08-27T18:45:00Z,2,lazio,genoa,0,1,0,1,1,genoa,lazio,livio marinelli,Serie_A
+2023-08-27T18:45:00Z,2,napoli,sassuolo,2,0,1,0,2,napoli,sassuolo,antonio giua,Serie_A
+2023-08-28T16:30:00Z,2,salernitana,udinese,1,1,0,0,0,draw,draw,davide massa,Serie_A
+2023-08-28T18:45:00Z,2,cagliari,inter,0,2,0,2,2,inter,cagliari,michael fabbri,Serie_A
+2023-09-01T16:30:00Z,3,sassuolo,verona,3,1,1,0,2,sassuolo,verona,marco piccinini,Serie_A
+2023-09-01T18:45:00Z,3,roma,milan,1,2,0,1,1,milan,roma,antonio rapuano,Serie_A
+2023-09-02T16:30:00Z,3,bologna,cagliari,2,1,0,1,1,bologna,cagliari,daniele orsato,Serie_A
+2023-09-02T16:30:00Z,3,udinese,frosinone,0,0,0,0,0,draw,draw,marco guida,Serie_A
+2023-09-02T18:45:00Z,3,atalanta,monza,3,0,2,0,3,atalanta,monza,matteo marcenaro,Serie_A
+2023-09-02T18:45:00Z,3,napoli,lazio,1,2,1,1,1,lazio,napoli,andrea colombo,Serie_A
+2023-09-03T16:30:00Z,3,inter,fiorentina,4,0,1,0,4,inter,fiorentina,matteo marchetti,Serie_A
+2023-09-03T16:30:00Z,3,torino,genoa,1,0,0,0,1,torino,genoa,daniele chiffi,Serie_A
+2023-09-03T18:45:00Z,3,empoli,juventus,0,2,0,1,2,juventus,empoli,giovanni ayroldi,Serie_A
+2023-09-03T18:45:00Z,3,lecce,salernitana,2,0,1,0,2,lecce,salernitana,luca massimi,Serie_A
+2023-09-16T13:00:00Z,4,juventus,lazio,3,1,2,0,2,juventus,lazio,fabio maresca,Serie_A
+2023-09-16T16:00:00Z,4,inter,milan,5,1,2,0,4,inter,milan,simone sozza,Serie_A
+2023-09-16T18:45:00Z,4,genoa,napoli,2,2,1,0,0,draw,draw,michael fabbri,Serie_A
+2023-09-17T10:30:00Z,4,cagliari,udinese,0,0,0,0,0,draw,draw,daniele doveri,Serie_A
+2023-09-17T13:00:00Z,4,frosinone,sassuolo,4,2,1,2,2,frosinone,sassuolo,alessandro prontera,Serie_A
+2023-09-17T13:00:00Z,4,monza,lecce,1,1,1,1,0,draw,draw,livio marinelli,Serie_A
+2023-09-17T16:00:00Z,4,fiorentina,atalanta,3,2,2,1,1,fiorentina,atalanta,luca pairetto,Serie_A
+2023-09-17T18:45:00Z,4,roma,empoli,7,0,3,0,7,roma,empoli,juan luca sacchi,Serie_A
+2023-09-18T16:30:00Z,4,salernitana,torino,0,3,0,2,3,torino,salernitana,antonio giua,Serie_A
+2023-09-18T18:45:00Z,4,verona,bologna,0,0,0,0,0,draw,draw,federico la penna,Serie_A
+2023-09-22T16:30:00Z,5,salernitana,frosinone,1,1,0,1,0,draw,draw,marco piccinini,Serie_A
+2023-09-22T18:45:00Z,5,lecce,genoa,1,0,0,0,1,lecce,genoa,antonio rapuano,Serie_A
+2023-09-23T13:00:00Z,5,milan,verona,1,0,1,0,1,milan,verona,matteo marchetti,Serie_A
+2023-09-23T16:00:00Z,5,sassuolo,juventus,4,2,2,1,2,sassuolo,juventus,andrea colombo,Serie_A
+2023-09-23T18:45:00Z,5,lazio,monza,1,1,1,1,0,draw,draw,rosario abisso,Serie_A
+2023-09-24T10:30:00Z,5,empoli,inter,0,1,0,0,1,inter,empoli,matteo marcenaro,Serie_A
+2023-09-24T13:00:00Z,5,atalanta,cagliari,2,0,1,0,2,atalanta,cagliari,ermanno feliciani,Serie_A
+2023-09-24T13:00:00Z,5,udinese,fiorentina,0,2,0,1,2,fiorentina,udinese,daniele chiffi,Serie_A
+2023-09-24T16:00:00Z,5,bologna,napoli,0,0,0,0,0,draw,draw,giovanni ayroldi,Serie_A
+2023-09-24T18:45:00Z,5,torino,roma,1,1,0,0,0,draw,draw,marco guida,Serie_A
+2023-09-26T18:45:00Z,6,juventus,lecce,1,0,0,0,1,juventus,lecce,antonio giua,Serie_A
+2023-09-27T16:30:00Z,6,cagliari,milan,1,3,1,2,2,milan,cagliari,federico la penna,Serie_A
+2023-09-27T16:30:00Z,6,empoli,salernitana,1,0,1,0,1,empoli,salernitana,antonio rapuano,Serie_A
+2023-09-27T16:30:00Z,6,verona,atalanta,0,1,0,1,1,atalanta,verona,federico dionisi,Serie_A
+2023-09-27T18:45:00Z,6,inter,sassuolo,1,2,1,0,1,sassuolo,inter,luca massimi,Serie_A
+2023-09-27T18:45:00Z,6,lazio,torino,2,0,0,0,2,lazio,torino,michael fabbri,Serie_A
+2023-09-27T18:45:00Z,6,napoli,udinese,4,1,2,0,3,napoli,udinese,gianluca manganiello,Serie_A
+2023-09-28T16:30:00Z,6,frosinone,fiorentina,1,1,0,1,0,draw,draw,francesco fourneau,Serie_A
+2023-09-28T16:30:00Z,6,monza,bologna,0,0,0,0,0,draw,draw,ivano pezzuto,Serie_A
+2023-09-28T18:45:00Z,6,genoa,roma,4,1,2,1,3,genoa,roma,daniele orsato,Serie_A
+2023-09-30T13:00:00Z,7,lecce,napoli,0,4,0,1,4,napoli,lecce,luca pairetto,Serie_A
+2023-09-30T16:00:00Z,7,milan,lazio,2,0,0,0,2,milan,lazio,davide massa,Serie_A
+2023-09-30T18:45:00Z,7,salernitana,inter,0,4,0,0,4,inter,salernitana,rosario abisso,Serie_A
+2023-10-01T10:30:00Z,7,bologna,empoli,3,0,1,0,3,bologna,empoli,fabio maresca,Serie_A
+2023-10-01T13:00:00Z,7,udinese,genoa,2,2,1,2,0,draw,draw,maurizio mariani,Serie_A
+2023-10-01T16:00:00Z,7,atalanta,juventus,0,0,0,0,0,draw,draw,daniele chiffi,Serie_A
+2023-10-01T18:45:00Z,7,roma,frosinone,2,0,1,0,2,roma,frosinone,matteo marchetti,Serie_A
+2023-10-02T16:30:00Z,7,sassuolo,monza,0,1,0,0,1,monza,sassuolo,luca zufferli,Serie_A
+2023-10-02T16:30:00Z,7,torino,verona,0,0,0,0,0,draw,draw,ermanno feliciani,Serie_A
+2023-10-02T18:45:00Z,7,fiorentina,cagliari,3,0,2,0,3,fiorentina,cagliari,marco di bello,Serie_A
+2023-10-06T16:30:00Z,8,empoli,udinese,0,0,0,0,0,draw,draw,michael fabbri,Serie_A
+2023-10-06T18:45:00Z,8,lecce,sassuolo,1,1,0,1,0,draw,draw,juan luca sacchi,Serie_A
+2023-10-07T13:00:00Z,8,inter,bologna,2,2,2,1,0,draw,draw,marco guida,Serie_A
+2023-10-07T16:00:00Z,8,juventus,torino,2,0,0,0,2,juventus,torino,antonio rapuano,Serie_A
+2023-10-07T18:45:00Z,8,genoa,milan,0,1,0,0,1,milan,genoa,marco piccinini,Serie_A
+2023-10-08T10:30:00Z,8,monza,salernitana,3,0,2,0,3,monza,salernitana,luca massimi,Serie_A
+2023-10-08T13:00:00Z,8,frosinone,verona,2,1,1,0,1,frosinone,verona,maria caputi,Serie_A
+2023-10-08T13:00:00Z,8,lazio,atalanta,3,2,2,1,1,lazio,atalanta,daniele orsato,Serie_A
+2023-10-08T16:00:00Z,8,cagliari,roma,1,4,0,2,3,roma,cagliari,simone sozza,Serie_A
+2023-10-08T18:45:00Z,8,napoli,fiorentina,1,3,1,1,2,fiorentina,napoli,federico la penna,Serie_A
+2023-10-21T13:00:00Z,9,verona,napoli,1,3,0,2,2,napoli,verona,rosario abisso,Serie_A
+2023-10-21T16:00:00Z,9,torino,inter,0,3,0,0,3,inter,torino,matteo marchetti,Serie_A
+2023-10-21T18:45:00Z,9,sassuolo,lazio,0,2,0,2,2,lazio,sassuolo,marco di bello,Serie_A
+2023-10-22T10:30:00Z,9,roma,monza,1,0,0,0,1,roma,monza,giovanni ayroldi,Serie_A
+2023-10-22T13:00:00Z,9,bologna,frosinone,2,1,2,0,1,bologna,frosinone,daniele doveri,Serie_A
+2023-10-22T13:00:00Z,9,salernitana,cagliari,2,2,0,0,0,draw,draw,daniele chiffi,Serie_A
+2023-10-22T16:00:00Z,9,atalanta,genoa,2,0,0,0,2,atalanta,genoa,livio marinelli,Serie_A
+2023-10-22T18:45:00Z,9,milan,juventus,0,1,0,0,1,juventus,milan,maurizio mariani,Serie_A
+2023-10-23T16:30:00Z,9,udinese,lecce,1,1,0,0,0,draw,draw,paride tremolada,Serie_A
+2023-10-23T18:45:00Z,9,fiorentina,empoli,0,2,0,1,2,empoli,fiorentina,federico dionisi,Serie_A
+2023-10-27T18:45:00Z,10,genoa,salernitana,1,0,1,0,1,genoa,salernitana,davide massa,Serie_A
+2023-10-28T13:00:00Z,10,sassuolo,bologna,1,1,1,1,0,draw,draw,antonio giua,Serie_A
+2023-10-28T16:00:00Z,10,lecce,torino,0,1,0,1,1,torino,lecce,gianluca aureliano,Serie_A
+2023-10-28T18:45:00Z,10,juventus,verona,1,0,0,0,1,juventus,verona,ermanno feliciani,Serie_A
+2023-10-29T11:30:00Z,10,cagliari,frosinone,4,3,0,2,1,cagliari,frosinone,luca pairetto,Serie_A
+2023-10-29T14:00:00Z,10,monza,udinese,1,1,1,0,0,draw,draw,alessandro prontera,Serie_A
+2023-10-29T17:00:00Z,10,inter,roma,1,0,0,0,1,inter,roma,fabio maresca,Serie_A
+2023-10-29T19:45:00Z,10,napoli,milan,2,2,0,2,0,draw,draw,daniele orsato,Serie_A
+2023-10-30T17:30:00Z,10,empoli,atalanta,0,3,0,2,3,atalanta,empoli,luca massimi,Serie_A
+2023-10-30T19:45:00Z,10,lazio,fiorentina,1,0,0,0,1,lazio,fiorentina,matteo marcenaro,Serie_A
+2023-11-03T19:45:00Z,11,bologna,lazio,1,0,0,0,1,bologna,lazio,federico la penna,Serie_A
+2023-11-04T14:00:00Z,11,salernitana,napoli,0,2,0,1,2,napoli,salernitana,antonio rapuano,Serie_A
+2023-11-04T17:00:00Z,11,atalanta,inter,1,2,0,1,1,inter,atalanta,simone sozza,Serie_A
+2023-11-04T19:45:00Z,11,milan,udinese,0,1,0,0,1,udinese,milan,juan luca sacchi,Serie_A
+2023-11-05T11:30:00Z,11,verona,monza,1,3,0,1,2,monza,verona,giuseppe collu,Serie_A
+2023-11-05T14:00:00Z,11,cagliari,genoa,2,1,0,0,1,cagliari,genoa,marco guida,Serie_A
+2023-11-05T17:00:00Z,11,roma,lecce,2,1,0,0,1,roma,lecce,andrea colombo,Serie_A
+2023-11-05T19:45:00Z,11,fiorentina,juventus,0,1,0,1,1,juventus,fiorentina,daniele chiffi,Serie_A
+2023-11-06T17:30:00Z,11,frosinone,empoli,2,1,0,0,1,frosinone,empoli,gianluca manganiello,Serie_A
+2023-11-06T19:45:00Z,11,torino,sassuolo,2,1,1,1,1,torino,sassuolo,maria caputi,Serie_A
+2023-11-10T17:30:00Z,12,sassuolo,salernitana,2,2,1,2,0,draw,draw,davide ghersini,Serie_A
+2023-11-10T19:45:00Z,12,genoa,verona,1,0,1,0,1,genoa,verona,daniele orsato,Serie_A
+2023-11-11T14:00:00Z,12,lecce,milan,2,2,0,2,0,draw,draw,rosario abisso,Serie_A
+2023-11-11T17:00:00Z,12,juventus,cagliari,2,1,0,0,1,juventus,cagliari,marco piccinini,Serie_A
+2023-11-11T19:45:00Z,12,monza,torino,1,1,0,0,0,draw,draw,daniele doveri,Serie_A
+2023-11-12T11:30:00Z,12,napoli,empoli,0,1,0,0,1,empoli,napoli,alessandro prontera,Serie_A
+2023-11-12T14:00:00Z,12,fiorentina,bologna,2,1,1,1,1,fiorentina,bologna,fabio maresca,Serie_A
+2023-11-12T14:00:00Z,12,udinese,atalanta,1,1,1,0,0,draw,draw,gianluca aureliano,Serie_A
+2023-11-12T17:00:00Z,12,lazio,roma,0,0,0,0,0,draw,draw,davide massa,Serie_A
+2023-11-12T19:45:00Z,12,inter,frosinone,2,0,1,0,2,inter,frosinone,federico dionisi,Serie_A
+2023-11-25T14:00:00Z,13,salernitana,lazio,2,1,0,1,1,salernitana,lazio,alessandro prontera,Serie_A
+2023-11-25T17:00:00Z,13,atalanta,napoli,1,2,0,1,1,napoli,atalanta,maurizio mariani,Serie_A
+2023-11-25T19:45:00Z,13,milan,fiorentina,1,0,1,0,1,milan,fiorentina,marco di bello,Serie_A
+2023-11-26T11:30:00Z,13,cagliari,monza,1,1,1,0,0,draw,draw,matteo marchetti,Serie_A
+2023-11-26T14:00:00Z,13,empoli,sassuolo,3,4,2,2,1,sassuolo,empoli,simone sozza,Serie_A
+2023-11-26T14:00:00Z,13,frosinone,genoa,2,1,1,1,1,frosinone,genoa,luca zufferli,Serie_A
+2023-11-26T17:00:00Z,13,roma,udinese,3,1,1,0,2,roma,udinese,luca massimi,Serie_A
+2023-11-26T19:45:00Z,13,juventus,inter,1,1,1,1,0,draw,draw,marco guida,Serie_A
+2023-11-27T17:30:00Z,13,verona,lecce,2,2,1,1,0,draw,draw,federico la penna,Serie_A
+2023-11-27T19:45:00Z,13,bologna,torino,2,0,0,0,2,bologna,torino,andrea colombo,Serie_A
+2023-12-01T19:45:00Z,14,monza,juventus,1,2,0,1,1,juventus,monza,michael fabbri,Serie_A
+2023-12-02T14:00:00Z,14,genoa,empoli,1,1,1,0,0,draw,draw,gianluca aureliano,Serie_A
+2023-12-02T17:00:00Z,14,lazio,cagliari,1,0,1,0,1,lazio,cagliari,federico dionisi,Serie_A
+2023-12-02T19:45:00Z,14,milan,frosinone,3,1,1,0,2,milan,frosinone,matteo marchetti,Serie_A
+2023-12-03T11:30:00Z,14,lecce,bologna,1,1,0,0,0,draw,draw,daniele doveri,Serie_A
+2023-12-03T14:00:00Z,14,fiorentina,salernitana,3,0,2,0,3,fiorentina,salernitana,paride tremolada,Serie_A
+2023-12-03T14:00:00Z,14,udinese,verona,3,3,2,1,0,draw,draw,fabio maresca,Serie_A
+2023-12-03T17:00:00Z,14,sassuolo,roma,1,2,1,0,1,roma,sassuolo,matteo marcenaro,Serie_A
+2023-12-03T19:45:00Z,14,napoli,inter,0,3,0,1,3,inter,napoli,davide massa,Serie_A
+2023-12-04T19:45:00Z,14,torino,atalanta,3,0,1,0,3,torino,atalanta,marco piccinini,Serie_A
+2023-12-08T19:45:00Z,15,juventus,napoli,1,0,0,0,1,juventus,napoli,daniele orsato,Serie_A
+2023-12-09T14:00:00Z,15,verona,lazio,1,1,0,1,0,draw,draw,giovanni ayroldi,Serie_A
+2023-12-09T17:00:00Z,15,atalanta,milan,3,2,1,1,1,atalanta,milan,federico la penna,Serie_A
+2023-12-09T19:45:00Z,15,inter,udinese,4,0,3,0,4,inter,udinese,marco di bello,Serie_A
+2023-12-10T11:30:00Z,15,frosinone,torino,0,0,0,0,0,draw,draw,luca massimi,Serie_A
+2023-12-10T14:00:00Z,15,monza,genoa,1,0,0,0,1,monza,genoa,giuseppe collu,Serie_A
+2023-12-10T17:00:00Z,15,salernitana,bologna,1,2,0,2,1,bologna,salernitana,simone sozza,Serie_A
+2023-12-10T19:45:00Z,15,roma,fiorentina,1,1,1,0,0,draw,draw,antonio rapuano,Serie_A
+2023-12-11T17:30:00Z,15,empoli,lecce,1,1,0,0,0,draw,draw,andrea colombo,Serie_A
+2023-12-11T19:45:00Z,15,cagliari,sassuolo,2,1,0,1,1,cagliari,sassuolo,maurizio mariani,Serie_A
+2023-12-15T19:45:00Z,16,genoa,juventus,1,1,0,1,0,draw,draw,davide massa,Serie_A
+2023-12-16T14:00:00Z,16,lecce,frosinone,2,1,1,1,1,lecce,frosinone,luca zufferli,Serie_A
+2023-12-16T17:30:00Z,16,napoli,cagliari,2,1,0,0,1,napoli,cagliari,matteo marcenaro,Serie_A
+2023-12-16T19:45:00Z,16,torino,empoli,1,0,1,0,1,torino,empoli,livio marinelli,Serie_A
+2023-12-17T11:30:00Z,16,milan,monza,3,0,2,0,3,milan,monza,gianluca aureliano,Serie_A
+2023-12-17T14:00:00Z,16,fiorentina,verona,1,0,0,0,1,fiorentina,verona,maria caputi,Serie_A
+2023-12-17T14:00:00Z,16,udinese,sassuolo,2,2,1,0,0,draw,draw,gianluca manganiello,Serie_A
+2023-12-17T17:00:00Z,16,bologna,roma,2,0,1,0,2,bologna,roma,marco guida,Serie_A
+2023-12-17T19:45:00Z,16,lazio,inter,0,2,0,1,2,inter,lazio,fabio maresca,Serie_A
+2023-12-18T19:45:00Z,16,atalanta,salernitana,4,1,0,1,3,atalanta,salernitana,ermanno feliciani,Serie_A
+2023-12-22T17:30:00Z,17,sassuolo,genoa,1,2,1,0,1,genoa,sassuolo,marco guida,Serie_A
+2023-12-22T17:30:00Z,17,empoli,lazio,0,2,0,1,2,lazio,empoli,matteo marchetti,Serie_A
+2023-12-22T19:45:00Z,17,monza,fiorentina,0,1,0,1,1,fiorentina,monza,juan luca sacchi,Serie_A
+2023-12-22T19:45:00Z,17,salernitana,milan,2,2,1,1,0,draw,draw,daniele doveri,Serie_A
+2023-12-23T11:30:00Z,17,frosinone,juventus,1,2,0,1,1,juventus,frosinone,maurizio mariani,Serie_A
+2023-12-23T14:00:00Z,17,torino,udinese,1,1,0,0,0,draw,draw,michael fabbri,Serie_A
+2023-12-23T14:00:00Z,17,bologna,atalanta,1,0,0,0,1,bologna,atalanta,antonio rapuano,Serie_A
+2023-12-23T17:00:00Z,17,verona,cagliari,2,0,0,0,2,verona,cagliari,daniele orsato,Serie_A
+2023-12-23T17:00:00Z,17,inter,lecce,2,0,1,0,2,inter,lecce,matteo marcenaro,Serie_A
+2023-12-23T19:45:00Z,17,roma,napoli,2,0,0,0,2,roma,napoli,andrea colombo,Serie_A
+2023-12-29T17:30:00Z,18,fiorentina,torino,1,0,0,0,1,fiorentina,torino,federico la penna,Serie_A
+2023-12-29T17:30:00Z,18,napoli,monza,0,0,0,0,0,draw,draw,marco di bello,Serie_A
+2023-12-29T19:45:00Z,18,genoa,inter,1,1,1,1,0,draw,draw,daniele doveri,Serie_A
+2023-12-29T19:45:00Z,18,lazio,frosinone,3,1,0,0,2,lazio,frosinone,ermanno feliciani,Serie_A
+2023-12-30T11:30:00Z,18,atalanta,lecce,1,0,0,0,1,atalanta,lecce,gianluca manganiello,Serie_A
+2023-12-30T14:00:00Z,18,cagliari,empoli,0,0,0,0,0,draw,draw,fabio maresca,Serie_A
+2023-12-30T14:00:00Z,18,udinese,bologna,3,0,1,0,3,udinese,bologna,daniele orsato,Serie_A
+2023-12-30T17:00:00Z,18,verona,salernitana,0,1,0,0,1,salernitana,verona,maurizio mariani,Serie_A
+2023-12-30T17:00:00Z,18,milan,sassuolo,1,0,0,0,1,milan,sassuolo,livio marinelli,Serie_A
+2023-12-30T19:45:00Z,18,juventus,roma,1,0,0,0,1,juventus,roma,simone sozza,Serie_A
+2024-01-05T19:45:00Z,19,bologna,genoa,1,1,0,1,0,draw,draw,andrea colombo,Serie_A
+2024-01-06T11:30:00Z,19,inter,verona,2,1,1,0,1,inter,verona,marco piccinini,Serie_A
+2024-01-06T14:00:00Z,19,frosinone,monza,2,3,0,2,1,monza,frosinone,maria caputi,Serie_A
+2024-01-06T17:00:00Z,19,lecce,cagliari,1,1,1,0,0,draw,draw,davide massa,Serie_A
+2024-01-06T19:45:00Z,19,sassuolo,fiorentina,1,0,1,0,1,sassuolo,fiorentina,rosario abisso,Serie_A
+2024-01-07T11:30:00Z,19,empoli,milan,0,3,0,2,3,milan,empoli,federico la penna,Serie_A
+2024-01-07T14:00:00Z,19,torino,napoli,3,0,1,0,3,torino,napoli,maurizio mariani,Serie_A
+2024-01-07T14:00:00Z,19,udinese,lazio,1,2,0,1,1,lazio,udinese,juan luca sacchi,Serie_A
+2024-01-07T17:00:00Z,19,salernitana,juventus,1,2,1,0,1,juventus,salernitana,marco guida,Serie_A
+2024-01-07T19:45:00Z,19,roma,atalanta,1,1,1,1,0,draw,draw,gianluca aureliano,Serie_A
+2024-01-13T14:00:00Z,20,genoa,torino,0,0,0,0,0,draw,draw,antonio giua,Serie_A
+2024-01-13T14:00:00Z,20,napoli,salernitana,2,1,1,1,1,napoli,salernitana,livio marinelli,Serie_A
+2024-01-13T17:00:00Z,20,verona,empoli,2,1,1,0,1,verona,empoli,daniele doveri,Serie_A
+2024-01-13T19:45:00Z,20,monza,inter,1,5,0,2,4,inter,monza,antonio rapuano,Serie_A
+2024-01-14T11:30:00Z,20,lazio,lecce,1,0,0,0,1,lazio,lecce,maria caputi,Serie_A
+2024-01-14T14:00:00Z,20,cagliari,bologna,2,1,1,1,1,cagliari,bologna,gianluca manganiello,Serie_A
+2024-01-14T17:00:00Z,20,fiorentina,udinese,2,2,0,1,0,draw,draw,luca pairetto,Serie_A
+2024-01-14T19:45:00Z,20,milan,roma,3,1,1,0,2,milan,roma,marco guida,Serie_A
+2024-01-15T19:45:00Z,20,atalanta,frosinone,5,0,3,0,5,atalanta,frosinone,alessandro prontera,Serie_A
+2024-01-16T19:45:00Z,20,juventus,sassuolo,3,0,2,0,3,juventus,sassuolo,marco piccinini,Serie_A
+2024-01-20T17:00:00Z,21,roma,verona,2,1,2,0,1,roma,verona,juan luca sacchi,Serie_A
+2024-01-20T19:45:00Z,21,udinese,milan,2,3,1,1,1,milan,udinese,fabio maresca,Serie_A
+2024-01-21T11:30:00Z,21,frosinone,cagliari,3,1,0,1,2,frosinone,cagliari,federico dionisi,Serie_A
+2024-01-21T14:00:00Z,21,empoli,monza,3,0,2,0,3,empoli,monza,antonio giua,Serie_A
+2024-01-21T17:00:00Z,21,salernitana,genoa,1,2,1,1,1,genoa,salernitana,daniele orsato,Serie_A
+2024-01-21T19:45:00Z,21,lecce,juventus,0,3,0,0,3,juventus,lecce,daniele doveri,Serie_A
+2024-01-26T19:45:00Z,22,cagliari,torino,1,2,0,2,1,torino,cagliari,andrea colombo,Serie_A
+2024-01-27T14:00:00Z,22,atalanta,udinese,2,0,2,0,2,atalanta,udinese,marco piccinini,Serie_A
+2024-01-27T17:00:00Z,22,juventus,empoli,1,1,0,0,0,draw,draw,livio marinelli,Serie_A
+2024-01-27T19:45:00Z,22,milan,bologna,2,2,1,1,0,draw,draw,davide massa,Serie_A
+2024-01-28T11:30:00Z,22,genoa,lecce,2,1,0,1,1,genoa,lecce,luca pairetto,Serie_A
+2024-01-28T14:00:00Z,22,verona,frosinone,1,1,1,0,0,draw,draw,federico la penna,Serie_A
+2024-01-28T14:00:00Z,22,monza,sassuolo,1,0,1,0,1,monza,sassuolo,gianluca manganiello,Serie_A
+2024-01-28T17:00:00Z,22,lazio,napoli,0,0,0,0,0,draw,draw,daniele orsato,Serie_A
+2024-01-28T19:45:00Z,22,fiorentina,inter,0,1,0,1,1,inter,fiorentina,gianluca aureliano,Serie_A
+2024-01-29T19:45:00Z,22,salernitana,roma,1,2,0,0,1,roma,salernitana,marco di bello,Serie_A
+2024-02-02T19:45:00Z,23,lecce,fiorentina,3,2,1,0,1,lecce,fiorentina,antonio giua,Serie_A
+2024-02-03T14:00:00Z,23,empoli,genoa,0,0,0,0,0,draw,draw,ermanno feliciani,Serie_A
+2024-02-03T14:00:00Z,23,udinese,monza,0,0,0,0,0,draw,draw,alessandro prontera,Serie_A
+2024-02-03T17:00:00Z,23,frosinone,milan,2,3,1,1,1,milan,frosinone,luca pairetto,Serie_A
+2024-02-03T19:45:00Z,23,bologna,sassuolo,4,2,1,2,2,bologna,sassuolo,juan luca sacchi,Serie_A
+2024-02-04T11:30:00Z,23,torino,salernitana,0,0,0,0,0,draw,draw,daniele chiffi,Serie_A
+2024-02-04T14:00:00Z,23,napoli,verona,2,1,0,0,1,napoli,verona,marco piccinini,Serie_A
+2024-02-04T17:00:00Z,23,atalanta,lazio,3,1,2,0,2,atalanta,lazio,marco guida,Serie_A
+2024-02-04T19:45:00Z,23,inter,juventus,1,0,1,0,1,inter,juventus,fabio maresca,Serie_A
+2024-02-05T19:45:00Z,23,roma,cagliari,4,0,2,0,4,roma,cagliari,matteo marcenaro,Serie_A
+2024-02-09T19:45:00Z,24,salernitana,empoli,1,3,0,1,2,empoli,salernitana,maurizio mariani,Serie_A
+2024-02-10T14:00:00Z,24,cagliari,lazio,1,3,0,1,2,lazio,cagliari,marco di bello,Serie_A
+2024-02-10T17:00:00Z,24,roma,inter,2,4,2,1,2,inter,roma,marco guida,Serie_A
+2024-02-10T19:45:00Z,24,sassuolo,torino,1,1,1,1,0,draw,draw,federico la penna,Serie_A
+2024-02-11T11:30:00Z,24,fiorentina,frosinone,5,1,3,0,4,fiorentina,frosinone,ermanno feliciani,Serie_A
+2024-02-11T14:00:00Z,24,bologna,lecce,4,0,2,0,4,bologna,lecce,gianluca manganiello,Serie_A
+2024-02-11T14:00:00Z,24,monza,verona,0,0,0,0,0,draw,draw,davide massa,Serie_A
+2024-02-11T17:00:00Z,24,genoa,atalanta,1,4,0,1,3,atalanta,genoa,andrea colombo,Serie_A
+2024-02-11T19:45:00Z,24,milan,napoli,1,0,1,0,1,milan,napoli,daniele doveri,Serie_A
+2024-02-12T19:45:00Z,24,juventus,udinese,0,1,0,1,1,udinese,juventus,rosario abisso,Serie_A
+2024-02-14T18:00:00Z,21,bologna,fiorentina,2,0,1,0,2,bologna,fiorentina,daniele chiffi,Serie_A
+2024-02-16T18:00:00Z,25,torino,lecce,2,0,0,0,2,torino,lecce,giovanni ayroldi,Serie_A
+2024-02-16T20:00:00Z,25,inter,salernitana,4,0,3,0,4,inter,salernitana,marco piccinini,Serie_A
+2024-02-17T14:00:00Z,25,napoli,genoa,1,1,0,0,0,draw,draw,juan luca sacchi,Serie_A
+2024-02-17T17:00:00Z,25,verona,juventus,2,2,1,1,0,draw,draw,marco di bello,Serie_A
+2024-02-17T19:45:00Z,25,atalanta,sassuolo,3,0,1,0,3,atalanta,sassuolo,alessandro prontera,Serie_A
+2024-02-18T11:30:00Z,25,lazio,bologna,1,2,1,1,1,bologna,lazio,fabio maresca,Serie_A
+2024-02-18T14:00:00Z,25,empoli,fiorentina,1,1,0,1,0,draw,draw,luca pairetto,Serie_A
+2024-02-18T14:00:00Z,25,udinese,cagliari,1,1,1,1,0,draw,draw,maurizio mariani,Serie_A
+2024-02-18T17:00:00Z,25,frosinone,roma,0,3,0,1,3,roma,frosinone,antonio giua,Serie_A
+2024-02-18T19:45:00Z,25,monza,milan,4,2,2,0,2,monza,milan,andrea colombo,Serie_A
+2024-02-22T19:45:00Z,21,torino,lazio,0,2,0,0,2,lazio,torino,federico la penna,Serie_A
+2024-02-23T19:45:00Z,26,bologna,verona,2,0,1,0,2,bologna,verona,rosario abisso,Serie_A
+2024-02-24T14:00:00Z,26,sassuolo,empoli,2,3,0,1,1,empoli,sassuolo,gianluca aureliano,Serie_A
+2024-02-24T17:00:00Z,26,salernitana,monza,0,2,0,0,2,monza,salernitana,michael fabbri,Serie_A
+2024-02-24T19:45:00Z,26,genoa,udinese,2,0,2,0,2,genoa,udinese,francesco fourneau,Serie_A
+2024-02-25T11:30:00Z,26,juventus,frosinone,3,2,2,2,1,juventus,frosinone,antonio rapuano,Serie_A
+2024-02-25T14:00:00Z,26,cagliari,napoli,1,1,0,0,0,draw,draw,luca pairetto,Serie_A
+2024-02-25T17:00:00Z,26,lecce,inter,0,4,0,1,4,inter,lecce,daniele doveri,Serie_A
+2024-02-25T19:45:00Z,26,milan,atalanta,1,1,1,1,0,draw,draw,daniele orsato,Serie_A
+2024-02-26T17:30:00Z,26,roma,torino,3,2,1,1,1,roma,torino,juan luca sacchi,Serie_A
+2024-02-26T19:45:00Z,26,fiorentina,lazio,2,1,0,1,1,fiorentina,lazio,marco guida,Serie_A
+2024-02-28T17:00:00Z,21,sassuolo,napoli,1,6,1,3,5,napoli,sassuolo,daniele chiffi,Serie_A
+2024-02-28T19:45:00Z,21,inter,atalanta,4,0,2,0,4,inter,atalanta,andrea colombo,Serie_A
+2024-03-01T19:45:00Z,27,lazio,milan,0,1,0,0,1,milan,lazio,marco di bello,Serie_A
+2024-03-02T14:00:00Z,27,udinese,salernitana,1,1,1,1,0,draw,draw,gianluca manganiello,Serie_A
+2024-03-02T17:00:00Z,27,monza,roma,1,4,0,2,3,roma,monza,marco piccinini,Serie_A
+2024-03-02T19:45:00Z,27,torino,fiorentina,0,0,0,0,0,draw,draw,matteo marchetti,Serie_A
+2024-03-03T11:30:00Z,27,verona,sassuolo,1,0,0,0,1,verona,sassuolo,fabio maresca,Serie_A
+2024-03-03T14:00:00Z,27,empoli,cagliari,0,1,0,0,1,cagliari,empoli,antonio rapuano,Serie_A
+2024-03-03T14:00:00Z,27,frosinone,lecce,1,1,1,0,0,draw,draw,marco guida,Serie_A
+2024-03-03T17:00:00Z,27,atalanta,bologna,1,2,1,0,1,bologna,atalanta,federico la penna,Serie_A
+2024-03-03T19:45:00Z,27,napoli,juventus,2,1,1,0,1,napoli,juventus,maurizio mariani,Serie_A
+2024-03-04T19:45:00Z,27,inter,genoa,2,1,2,0,1,inter,genoa,giovanni ayroldi,Serie_A
+2024-03-08T19:45:00Z,28,napoli,torino,1,1,0,0,0,draw,draw,daniele orsato,Serie_A
+2024-03-09T14:00:00Z,28,cagliari,salernitana,4,2,2,0,2,cagliari,salernitana,francesco fourneau,Serie_A
+2024-03-09T14:00:00Z,28,sassuolo,frosinone,1,0,0,0,1,sassuolo,frosinone,federico la penna,Serie_A
+2024-03-09T17:00:00Z,28,bologna,inter,0,1,0,1,1,inter,bologna,luca pairetto,Serie_A
+2024-03-09T19:45:00Z,28,genoa,monza,2,3,0,2,1,monza,genoa,ermanno feliciani,Serie_A
+2024-03-10T11:30:00Z,28,lecce,verona,0,1,0,1,1,verona,lecce,daniele chiffi,Serie_A
+2024-03-10T14:00:00Z,28,milan,empoli,1,0,1,0,1,milan,empoli,juan luca sacchi,Serie_A
+2024-03-10T17:00:00Z,28,juventus,atalanta,2,2,0,1,0,draw,draw,marco guida,Serie_A
+2024-03-10T19:45:00Z,28,fiorentina,roma,2,2,1,0,0,draw,draw,davide massa,Serie_A
+2024-03-11T19:45:00Z,28,lazio,udinese,1,2,0,0,1,udinese,lazio,gianluca aureliano,Serie_A
+2024-03-15T19:45:00Z,29,empoli,bologna,0,1,0,0,1,bologna,empoli,michael fabbri,Serie_A
+2024-03-16T14:00:00Z,29,monza,cagliari,1,0,1,0,1,monza,cagliari,matteo marcenaro,Serie_A
+2024-03-16T14:00:00Z,29,udinese,torino,0,2,0,1,2,torino,udinese,andrea colombo,Serie_A
+2024-03-16T17:00:00Z,29,salernitana,lecce,0,1,0,1,1,lecce,salernitana,fabio maresca,Serie_A
+2024-03-16T19:45:00Z,29,frosinone,lazio,2,3,1,1,1,lazio,frosinone,antonio rapuano,Serie_A
+2024-03-17T11:30:00Z,29,juventus,genoa,0,0,0,0,0,draw,draw,antonio giua,Serie_A
+2024-03-17T14:00:00Z,29,verona,milan,1,3,0,1,2,milan,verona,maurizio mariani,Serie_A
+2024-03-17T17:00:00Z,29,roma,sassuolo,1,0,0,0,1,roma,sassuolo,gianluca manganiello,Serie_A
+2024-03-17T19:45:00Z,29,inter,napoli,1,1,1,0,0,draw,draw,federico la penna,Serie_A
+2024-03-30T11:30:00Z,30,napoli,atalanta,0,3,0,2,3,atalanta,napoli,luca pairetto,Serie_A
+2024-03-30T14:00:00Z,30,genoa,frosinone,1,1,1,1,0,draw,draw,juan luca sacchi,Serie_A
+2024-03-30T14:00:00Z,30,torino,monza,1,0,0,0,1,torino,monza,gianluca aureliano,Serie_A
+2024-03-30T17:00:00Z,30,lazio,juventus,1,0,0,0,1,lazio,juventus,andrea colombo,Serie_A
+2024-03-30T19:45:00Z,30,fiorentina,milan,1,2,0,0,1,milan,fiorentina,fabio maresca,Serie_A
+2024-04-01T10:30:00Z,30,bologna,salernitana,3,0,2,0,3,bologna,salernitana,ermanno feliciani,Serie_A
+2024-04-01T13:00:00Z,30,cagliari,verona,1,1,0,1,0,draw,draw,daniele doveri,Serie_A
+2024-04-01T13:00:00Z,30,sassuolo,udinese,1,1,1,1,0,draw,draw,michael fabbri,Serie_A
+2024-04-01T16:00:00Z,30,lecce,roma,0,0,0,0,0,draw,draw,matteo marcenaro,Serie_A
+2024-04-01T18:45:00Z,30,inter,empoli,2,0,1,0,2,inter,empoli,federico dionisi,Serie_A
+2024-04-05T18:45:00Z,31,salernitana,sassuolo,2,2,0,2,0,draw,draw,simone sozza,Serie_A
+2024-04-06T13:00:00Z,31,milan,lecce,3,0,2,0,3,milan,lecce,luca massimi,Serie_A
+2024-04-06T16:00:00Z,31,roma,lazio,1,0,1,0,1,roma,lazio,marco guida,Serie_A
+2024-04-06T18:45:00Z,31,empoli,torino,3,2,1,0,1,empoli,torino,davide massa,Serie_A
+2024-04-07T10:30:00Z,31,frosinone,bologna,0,0,0,0,0,draw,draw,daniele orsato,Serie_A
+2024-04-07T13:00:00Z,31,monza,napoli,2,4,1,0,2,napoli,monza,daniele doveri,Serie_A
+2024-04-07T16:00:00Z,31,cagliari,atalanta,2,1,1,1,1,cagliari,atalanta,antonio rapuano,Serie_A
+2024-04-07T16:00:00Z,31,verona,genoa,1,2,1,1,1,genoa,verona,gianluca manganiello,Serie_A
+2024-04-07T18:45:00Z,31,juventus,fiorentina,1,0,1,0,1,juventus,fiorentina,federico la penna,Serie_A
+2024-04-08T18:45:00Z,31,udinese,inter,1,2,1,0,1,inter,udinese,marco piccinini,Serie_A
+2024-04-12T18:45:00Z,32,lazio,salernitana,4,1,3,1,3,lazio,salernitana,luca zufferli,Serie_A
+2024-04-13T13:00:00Z,32,lecce,empoli,1,0,0,0,1,lecce,empoli,maurizio mariani,Serie_A
+2024-04-13T16:00:00Z,32,torino,juventus,0,0,0,0,0,draw,draw,fabio maresca,Serie_A
+2024-04-13T18:45:00Z,32,bologna,monza,0,0,0,0,0,draw,draw,federico la penna,Serie_A
+2024-04-14T10:30:00Z,32,napoli,frosinone,2,2,1,0,0,draw,draw,michael fabbri,Serie_A
+2024-04-14T13:00:00Z,32,sassuolo,milan,3,3,2,1,0,draw,draw,davide massa,Serie_A
+2024-04-14T18:45:00Z,32,inter,cagliari,2,2,1,0,0,draw,draw,francesco fourneau,Serie_A
+2024-04-15T16:30:00Z,32,fiorentina,genoa,1,1,0,1,0,draw,draw,davide di marco,Serie_A
+2024-04-15T18:45:00Z,32,atalanta,verona,2,2,2,0,0,draw,draw,juan luca sacchi,Serie_A
+2024-04-19T16:30:00Z,33,genoa,lazio,0,1,0,0,1,lazio,genoa,ermanno feliciani,Serie_A
+2024-04-19T18:45:00Z,33,cagliari,juventus,2,2,2,0,0,draw,draw,marco piccinini,Serie_A
+2024-04-20T16:00:00Z,33,empoli,napoli,1,0,1,0,1,empoli,napoli,gianluca manganiello,Serie_A
+2024-04-20T18:45:00Z,33,verona,udinese,1,0,0,0,1,verona,udinese,marco guida,Serie_A
+2024-04-21T10:30:00Z,33,sassuolo,lecce,0,3,0,2,3,lecce,sassuolo,daniele doveri,Serie_A
+2024-04-21T13:00:00Z,33,torino,frosinone,0,0,0,0,0,draw,draw,antonio rapuano,Serie_A
+2024-04-21T16:00:00Z,33,salernitana,fiorentina,0,2,0,0,2,fiorentina,salernitana,matteo marchetti,Serie_A
+2024-04-21T18:45:00Z,33,monza,atalanta,1,2,0,1,1,atalanta,monza,antonio giua,Serie_A
+2024-04-22T16:30:00Z,33,roma,bologna,1,3,0,2,2,bologna,roma,fabio maresca,Serie_A
+2024-04-22T18:45:00Z,33,milan,inter,1,2,0,1,1,inter,milan,andrea colombo,Serie_A
+2024-04-25T18:00:00Z,32,udinese,roma,1,2,1,0,1,roma,udinese,luca pairetto,Serie_A
+2024-04-26T18:45:00Z,34,frosinone,salernitana,3,0,2,0,3,frosinone,salernitana,francesco fourneau,Serie_A
+2024-04-27T13:00:00Z,34,lecce,monza,1,1,0,0,0,draw,draw,alberto santoro,Serie_A
+2024-04-27T16:00:00Z,34,juventus,milan,0,0,0,0,0,draw,draw,maurizio mariani,Serie_A
+2024-04-27T18:45:00Z,34,lazio,verona,1,0,0,0,1,lazio,verona,davide massa,Serie_A
+2024-04-28T10:30:00Z,34,inter,torino,2,0,0,0,2,inter,torino,maria caputi,Serie_A
+2024-04-28T13:00:00Z,34,bologna,udinese,1,1,0,1,0,draw,draw,juan luca sacchi,Serie_A
+2024-04-28T16:00:00Z,34,atalanta,empoli,2,0,1,0,2,atalanta,empoli,michael fabbri,Serie_A
+2024-04-28T16:00:00Z,34,napoli,roma,2,2,0,0,0,draw,draw,simone sozza,Serie_A
+2024-04-28T18:45:00Z,34,fiorentina,sassuolo,5,1,1,0,4,fiorentina,sassuolo,matteo marcenaro,Serie_A
+2024-04-29T18:45:00Z,34,genoa,cagliari,3,0,2,0,3,genoa,cagliari,federico dionisi,Serie_A
+2024-05-03T18:45:00Z,35,torino,bologna,0,0,0,0,0,draw,draw,simone sozza,Serie_A
+2024-05-04T16:00:00Z,35,monza,lazio,2,2,0,1,0,draw,draw,luca pairetto,Serie_A
+2024-05-04T18:45:00Z,35,sassuolo,inter,1,0,1,0,1,sassuolo,inter,matteo marchetti,Serie_A
+2024-05-05T10:30:00Z,35,cagliari,lecce,1,1,1,0,0,draw,draw,matteo marcenaro,Serie_A
+2024-05-05T13:00:00Z,35,empoli,frosinone,0,0,0,0,0,draw,draw,daniele doveri,Serie_A
+2024-05-05T13:00:00Z,35,verona,fiorentina,2,1,1,1,1,verona,fiorentina,antonio rapuano,Serie_A
+2024-05-05T16:00:00Z,35,milan,genoa,3,3,1,1,0,draw,draw,alessandro prontera,Serie_A
+2024-05-05T18:45:00Z,35,roma,juventus,1,1,1,1,0,draw,draw,andrea colombo,Serie_A
+2024-05-06T16:00:00Z,35,salernitana,atalanta,1,2,1,0,1,atalanta,salernitana,ermanno feliciani,Serie_A
+2024-05-06T18:45:00Z,35,udinese,napoli,1,1,0,0,0,draw,draw,gianluca aureliano,Serie_A
+2024-05-10T18:45:00Z,36,frosinone,inter,0,5,0,1,5,inter,frosinone,antonio giua,Serie_A
+2024-05-11T16:00:00Z,36,napoli,bologna,0,2,0,2,2,bologna,napoli,luca pairetto,Serie_A
+2024-05-11T18:45:00Z,36,milan,cagliari,5,1,1,0,4,milan,cagliari,simone sozza,Serie_A
+2024-05-12T10:30:00Z,36,lazio,empoli,2,0,1,0,2,lazio,empoli,gianluca aureliano,Serie_A
+2024-05-12T13:00:00Z,36,genoa,sassuolo,2,1,0,1,1,genoa,sassuolo,maurizio mariani,Serie_A
+2024-05-12T13:00:00Z,36,verona,torino,1,2,0,0,1,torino,verona,livio marinelli,Serie_A
+2024-05-12T16:00:00Z,36,juventus,salernitana,1,1,0,1,0,draw,draw,alberto santoro,Serie_A
+2024-05-12T18:45:00Z,36,atalanta,roma,2,1,2,0,1,atalanta,roma,marco guida,Serie_A
+2024-05-13T16:30:00Z,36,lecce,udinese,0,2,0,1,2,udinese,lecce,davide massa,Serie_A
+2024-05-13T18:45:00Z,36,fiorentina,monza,2,1,1,1,1,fiorentina,monza,luca zufferli,Serie_A
+2024-05-17T18:45:00Z,37,fiorentina,napoli,2,2,2,1,0,draw,draw,matteo marchetti,Serie_A
+2024-05-18T16:00:00Z,37,lecce,atalanta,0,2,0,0,2,atalanta,lecce,antonio rapuano,Serie_A
+2024-05-18T18:45:00Z,37,torino,milan,3,1,2,0,2,torino,milan,ermanno feliciani,Serie_A
+2024-05-19T10:30:00Z,37,sassuolo,cagliari,0,2,0,0,2,cagliari,sassuolo,daniele doveri,Serie_A
+2024-05-19T13:00:00Z,37,monza,frosinone,0,1,0,1,1,frosinone,monza,michael fabbri,Serie_A
+2024-05-19T13:00:00Z,37,udinese,empoli,1,1,0,0,0,draw,draw,daniele orsato,Serie_A
+2024-05-19T16:00:00Z,37,inter,lazio,1,1,0,1,0,draw,draw,juan luca sacchi,Serie_A
+2024-05-19T18:45:00Z,37,roma,genoa,1,0,0,0,1,roma,genoa,gianluca manganiello,Serie_A
+2024-05-20T16:30:00Z,37,salernitana,verona,1,2,0,2,1,verona,salernitana,marco di bello,Serie_A
+2024-05-20T18:45:00Z,37,bologna,juventus,3,3,2,0,0,draw,draw,giovanni ayroldi,Serie_A
+2024-05-23T18:45:00Z,38,cagliari,fiorentina,2,3,0,1,1,fiorentina,cagliari,alessandro prontera,Serie_A
+2024-05-24T18:45:00Z,38,genoa,bologna,2,0,1,0,2,genoa,bologna,alberto santoro,Serie_A
+2024-05-25T16:00:00Z,38,juventus,monza,2,0,2,0,2,juventus,monza,maria caputi,Serie_A
+2024-05-25T18:45:00Z,38,milan,salernitana,3,3,2,0,0,draw,draw,davide di marco,Serie_A
+2024-05-26T16:00:00Z,38,atalanta,torino,3,0,2,0,3,atalanta,torino,simone sozza,Serie_A
+2024-05-26T16:00:00Z,38,napoli,lecce,0,0,0,0,0,draw,draw,federico dionisi,Serie_A
+2024-05-26T18:45:00Z,38,empoli,roma,2,1,1,1,1,empoli,roma,davide massa,Serie_A
+2024-05-26T18:45:00Z,38,frosinone,udinese,0,1,0,0,1,udinese,frosinone,daniele doveri,Serie_A
+2024-05-26T18:45:00Z,38,verona,inter,2,2,2,2,0,draw,draw,luca zufferli,Serie_A
+2024-05-26T18:45:00Z,38,lazio,sassuolo,1,1,0,0,0,draw,draw,paride tremolada,Serie_A
+2024-06-02T16:00:00Z,29,atalanta,fiorentina,2,3,2,3,1,fiorentina,atalanta,juan luca sacchi,Serie_A
